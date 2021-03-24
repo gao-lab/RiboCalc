@@ -13,7 +13,10 @@
 # File1 - predicted value: ../raw_data/OCTOPOS/9606-iBAQ_HEK293_Geiger_2012_uniprot.txt
 # File2 - genes' RNA abundance file calculated by stringtie: ../raw_data/OCTOPOS/SRR500121.tab
 ## replace File1 and File2 path to your own files when doing independent testing
-prot_abundance='../raw_data/OCTOPOS/9606-iBAQ_HEK293_Geiger_2012_uniprot.txt'
+
+wget https://pax-db.org/downloads/4.0/datasets/9606/9606-HEK293_Geiger_2012.txt -P ../raw_data/OCTOPOS
+# download this version because OCTOPOS use data as of July 21st, 2016
+prot_abundance='../raw_data/OCTOPOS/9606-HEK293_Geiger_2012.txt'
 stringtie_output='../raw_data/OCTOPOS/SRR500121.tab' #see stringtie.sh
 
 
@@ -52,10 +55,11 @@ cd $tool_bin_path/EMBOSS-6.6.0
 make
 cd -
 ## ORF/CDS feature calculation
-python transcript_cds_features.py $tool_bin_path ../feature_data/testing.cds.fasta ../feature_data/cds_feature.temp.tab
+python transcript_cds_features.py $tool_bin_path ../feature_data/testing.cds.fasta ../feature_data/cds_feature.temp
 
 ## MTDR score file were calculated by MTDRcalculator (Dana and Tuller) (Select organism: H.sapiens-HEK293)
 ## MTDRcalculator was download at https://www.cs.tau.ac.il/~tamirtul/MTDR/
+## MTDRcalculator input file is the fasta format of CDS sequence (../feature_data/testing.cds.fasta)
 mtdr_output_file='../feature_data/mtdr_feature.temp.tab'
 
 # Feature init_fold: translation initiation site MFE calculated by RNAfold (Lorenz et al.)
@@ -90,6 +94,7 @@ python paste_features.py $coding_feature_file $ago_number_file $cds_feature_file
 
 
 # Clean up the temporary data
+# rm -f ../feature_data/testing_init.RNAfold.out ../feature_data/testing_pwm.fimo.out #delete RNAfold and FIMO raw output
 # rm -f ../feature_data/*.temp.* ../feature_data/*.fasta
 
 
