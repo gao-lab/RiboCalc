@@ -97,4 +97,6 @@ python paste_features.py $coding_feature_file $ago_number_file $cds_feature_file
 # rm -f ../feature_data/testing_init.RNAfold.out ../feature_data/testing_pwm.fimo.out #delete RNAfold and FIMO raw output
 # rm -f ../feature_data/*.temp.* ../feature_data/*.fasta
 
-
+# Model testing
+cd ../
+Rscript OCTOPOS_testing.r
