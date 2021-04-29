@@ -1,0 +1,9 @@
+##Pearson’s correlation between RiboCalc predicted TE and observed value
+#Model	Sample_ID	TE
+GM12891	SRR1803151	0.596751
+HEK 293	SRX870805	0.500743
+HeLa	SRR970565	0.633092
+BJ	SRR627625	0.479647
+hESC.2	SRR3208870	0.60707
+RiboCalc	RiboCalc	0.6512
+##As definition, TE is the ratio to expression abundance in RNA-seq and Ribo-seq. RiboCalc predicts Ribo-TPM which is the expression abundance in Ribo-seq, so that TE can be directly calculated from RiboCalc result via dividing by RNA-seq TPM.
