@@ -57,5 +57,5 @@ RiboCalc prediction of lncRNAs binding with ribosomes reported by previous studi
 
 Contact
 ----
->If you have any questions about RiboCalc, please mail kangyj@mail.cbi.pku.edu.cn.
+>If you have any questions about RiboCalc, please mail ribocalc@mail.cbi.pku.edu.cn.
 
