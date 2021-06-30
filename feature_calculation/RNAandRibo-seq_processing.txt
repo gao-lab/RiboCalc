@@ -1,0 +1,40 @@
+##############################################
+#
+#	Raw data processing pipelines
+#
+##############################################
+
+
+# RNA-seq data analysis pipeline
+	1) Adapter sequences and low-quality reads were trimmed with cutadapt(1) (-e 0.06 -O 6 -m 10).
+	2) Reads were mapped to the reference genome with STAR(2) (--outFilterType BySJout --outSAMtype BAM SortedByCoordinate). The reference genome is GRCh38, and the gene model annotation was performed with GENCODE release 24.
+	3) BAM files of the same sample from different runs were merged using samtools(3) merge.
+	4) The expression levels of genes were estimated with stringtie(4) (-m 100 -c 0.001 –e).
+
+
+# Ribosome profiling data analysis pipeline
+	1) Adapter sequences and low-quality reads were trimmed with cutadapt (-e 0.06 -O 6 -m 10).
+	2) Reads were mapped to the reference genome with STAR (--outFilterType BySJout --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --alignEndsType EndToEnd). The reference genome and gene model used were the same as those used in the RNA-seq analysis.
+	3) BAM files of the same sample from different runs were merged using samtools merge.
+	4) Base coverage was calculated for each exon of transcripts with samtools bedcov.
+	5) Expression level of genes was estimated with stringtie (-m 100 -c 0.001 –e).
+	6) Translated ORFs were detected with RiboCode(5) and ribORF(6). The P-site offset of reads with a particular length used in both RiboCode and ribORF were identified by the “metaplots” function in RiboCode. The offset length was manually checked and modified with the mapping density plot of a reference transcript. To compile the candidate ORF list of ribORFs, we scanned the reference transcripts for all ORFs (starting with AUG and ending with UAA, UAG or UGA) with ORFfinder. Other parameters of RiboCode and ribORF were set to default values.
+
+
+# Mutated transcript sequence identification with RNA-seq data
+	1) The experiment batch, library and sample information of RNA-seq BAM files was added with AddOrReplaceReadGroups in picard(7).
+	2) Duplicate reads from the same sequencing library were merged and marked using picard MergeSamFiles and MarkDuplicates.
+	3) The ‘SplitNCigarReads’ command of GATK(8) was used to splice sequencing fragments across exons. Unique alignments with alignment scores greater than 60 were retained. 
+	4) Germline mutations and InDels were detected using GATK with HaplotypeCaller (-dontUseSoftClippedBases -stand_call_conf 20.0). All variants with the ‘PASS’ field were then filtered by ‘VariantFiltration’ (command with parameters ‘-window 35 -cluster 3 -filterName FS -filter FS > 30.0 -filterName QD -filter QD < 2.0’).
+	5) The RNA bases of the transcript corresponding to the coordinates of the DNA variants were changed to the mutant state. For heterozygous mutations, the allele with higher depth was used. We skipped the mutations that would cause start codon loss in the transcript. If the mutation destroyed the frame integrity of the translated ORF, we changed the termination site of the ORF into the first in-frame stop codon encountered.
+
+
+# References
+1.	Martin, M. (2011) Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal, 17, 10--12.
+2.	Dobin, A., Davis, C.A., Schlesinger, F., Drenkow, J., Zaleski, C., Jha, S., Batut, P., Chaisson, M. and Gingeras, T.R. (2013) STAR: ultrafast universal RNA-seq aligner. Bioinformatics, 29, 15-21.
+3.	Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G., Abecasis, G., Durbin, R. and Genome Project Data Processing, S. (2009) The Sequence Alignment/Map format and SAMtools. Bioinformatics, 25, 2078-2079.
+4.	Pertea, M., Pertea, G.M., Antonescu, C.M., Chang, T.C., Mendell, J.T. and Salzberg, S.L. (2015) StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. Nat Biotechnol, 33, 290-295.
+5.	Xiao, Z., Huang, R., Xing, X., Chen, Y., Deng, H. and Yang, X. (2018) De novo annotation and characterization of the translatome with ribosome profiling data. Nucleic Acids Res, 46, e61.
+6.	Ji, Z. (2018) RibORF: Identifying Genome-Wide Translated Open Reading Frames Using Ribosome Profiling. Curr Protoc Mol Biol, 124, e67.
+7.	Institute, B. (2019) Picard toolkit. Broad Institute, GitHub repository.
+8.	McKenna, A., Hanna, M., Banks, E., Sivachenko, A., Cibulskis, K., Kernytsky, A., Garimella, K., Altshuler, D., Gabriel, S., Daly, M. et al. (2010) The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res, 20, 1297-1303.

@@ -67,7 +67,7 @@ set.seed(123)
 cv.yeast <- cv.glmnet(x = as.matrix(training.yeast[,-c(66:70,79:81)]), y = training.yeast$prot, alpha = 1,nfolds = 5)
 yeast.lasso.model<-glmnet(x = as.matrix(training.yeast[,-c(66:70,79:81)]), y = training.yeast$prot, alpha = 1, lambda = cv.yeast$lambda.min)
 #RiboCalc yeast model coefficients
-coef(yeast.lasso.model) #Figure 2d/2c y axis, Table S3 
+coef(yeast.lasso.model) #Figure 2d/2c y axis, Table S6 
 
 pred.yeast <- predict(yeast.lasso.model,newx = as.matrix(testing.yeast[,-c(66:70,79:81)]))
 pred.yeast.tmp<- recover_scaling(pred.yeast, yeast$prot[inTrain])

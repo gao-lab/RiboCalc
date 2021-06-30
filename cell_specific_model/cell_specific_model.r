@@ -46,7 +46,7 @@ lasso.model<-glmnet(x = as.matrix(training[,-78]), y = training$Ribo_TPM, alpha 
 x.test <- model.matrix(Ribo_TPM ~., testing)[,-1]
 x.pred <- predict(lasso.model,newx = x.test)
 cor(x.pred,testing$Ribo_TPM) #Table 1
-coef(lasso.model) #Table S3
+coef(lasso.model) #Table S6
 
 #TE
 x.pred.re <- recover_scaling(x.pred, training.raw$Ribo_TPM)

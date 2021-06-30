@@ -15,7 +15,7 @@ Feature caculation tools: fimo, RNAfold, TargetScan, bedtools, MTDRcalculator, E
   
 2 Feature calculation
 ----
-Taking OCTOPOS raw data as an example (Figure S6):<br>
+Taking OCTOPOS raw data as an example (Figure S8):<br>
 The scripts for feature calculation are at feature_calculation/script<br>
 The public datasets are provided in feature_calculation/raw_data<br>
 The calculated feature value of OCTOPOS is at feature_calculation/feature_data/

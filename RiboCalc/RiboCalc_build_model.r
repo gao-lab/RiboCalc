@@ -145,4 +145,4 @@ find_anno <- function(x,y=coding.anno){
 data_type <- paste(data_type,sapply(annotation, find_anno))
 x.test <- model.matrix(Ribo_TPM ~., data)[,-1]
 x.pred <- predict(lasso.model, newx = x.test)
-ggplot(data, aes(y=x.pred,x=data_type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure s4
+ggplot(data, aes(y=x.pred,x=data_type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure S9
