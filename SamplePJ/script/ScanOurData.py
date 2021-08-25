@@ -196,7 +196,7 @@ if __name__ == '__main__':
                        inp_len=50, nodes=40, layers=3, nbr_filters=120, filter_len=8, dropout1=0,
                        dropout2=0, dropout3=0.2)
 
-    model = keras.models.load_model('/rd1/user/lijy/human_5utr_modeling/modeling/saved_models/main_MRL_model.hdf5')
+    model = keras.models.load_model('../model/main_MRL_model.hdf5')
 
 
     predictions = test_data(OriTrainlabel, model=model, test_seq=TestSeq)
