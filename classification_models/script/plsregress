@@ -1,0 +1,155 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+import sys
+from optparse import OptionParser,OptionGroup
+import time
+from plsregress_core import plsregress_opt,plsregress_script
+import os
+from rklib import utils
+
+def __main():
+    start_time = time.time()
+    ret = 1
+    usage = "usage: %prog [options] matrix_like_data.anno"
+    description = "Contact: Rong Zhengqin <rongzhengqin@basepedia.com>"
+    parser = OptionParser(usage,version="%prog 0.1",description = description)
+    Common_group = OptionGroup(parser,'Common Options')
+    #Category_group = OptionGroup(parser,'Category Options')
+    #Common_group.add_option('-m',dest='method',help='Choose model: pls,svm,pca,mds,kmeans,logistic,bayes,hmm',metavar='STR',type='choice',choices=['pls','svm','pca','mds','kmeans','logistic','bayes','hmm','cluster'])
+    Common_group.add_option('-l',dest='log2tr',help='log2 transform for expression data',action='store_true')
+    Common_group.add_option('-t',dest='phenotype',help="type of phenotype, category or quantificat [default=category]",metavar='STR',type='choice',choices=["category","quantificat"],default='category')
+    Common_group.add_option('-o',dest='outdir',help='result outdir [default=./]',metavar='DIR',type='string',default="./")
+    Common_group.add_option('-s',dest='sampleinfo',help='Sample information File',metavar='FILE',type='string',default=None)
+    Common_group.add_option('--prefix',dest='prefix',help='Outfile prefix default=sampleinfo file name',metavar='STR',type='string',default=None)
+
+    Simple_group_Category = OptionGroup(parser,'Category Options to do compare')
+    Simple_group_Category.add_option('--cut-fc',dest='fc',help='cutoff of |fold change|>FLOAT [default=0]',metavar='FLOAT',type='float',default=0.0000)
+    Simple_group_Category.add_option('-c',dest='class_info',help="group comparison for category, such as '2v1,3v1' which means class2-class1 and class3-class1",metavar='STR',type='string',default=None)
+    Simple_group_Quantificat = OptionGroup(parser,'Quantificat Options to do correlation')
+    Simple_group_Quantificat.add_option('-P',dest='regmd',help="statistical test method for quantificat:'pearsonr','spearmanr' [default=pearsonr]",metavar='STR',type='choice',choices=["pearsonr","spearmanr"],default="pearsonr")
+    Simple_group_Quantificat.add_option('--cut-rho',dest='rho',help='cutoff of |rho|>FLOAT [default=0]',metavar='FLOAT',type='float',default=0.0000)
+
+    PLS_group_model = OptionGroup(parser,'PLS model options')
+    PLS_group_model.add_option('--do_predict',dest='do_predict',help='do pls predict for cal',action='store_true')
+    PLS_group_model.add_option('--nlvs',dest='nlvs',help='number of LVs in PLS model [default=10], max is 20',default=10)
+    PLS_group_model.add_option('--nfold',dest='nfold',help='n(INT) fold cross validation [default=4]',metavar='INT',type='int',default=4)
+    PLS_group_model.add_option('--ex_optimize',dest='ex_optimize',help='do external validation from 1 to nlvs',action='store_true')
+    PLS_group_model.add_option('--ex_predict',dest='ex_predict',help='predict for external validation set at nlvs',action='store_true')
+    PLS_group_model.add_option('--ex_sampleinfo',dest='ex_sampleinfo',help='sampleinfo of external validation set',metavar='FILE',type='string',default=None)
+    PLS_group_model.add_option('--ex_matrix',dest='ex_matrix',help='matrix of external validation set',metavar='FILE',type='string',default=None)
+
+    PLS_group_optimize = OptionGroup(parser,"PLS model feature selection")
+    PLS_group_optimize.add_option('--viptest',dest='viptest',help='Choose to do permutation test for Variable importance projection',action='store_true')
+    PLS_group_optimize.add_option('--n-viptest',dest='nviptest',help='Variable importance projection using INT times permutation test [default=1000]',metavar='INT',type='int',default=1000)
+    PLS_group_optimize.add_option('--vip-p',dest='vipp',help='Cutoff VIP p-value [default=0.05]',metavar='FLOAT',type='float',default=0.05)
+
+    PLS_group_optimize.add_option('--mcuve',dest='mcuve',help='use Monte Carlo for coefficent stability',action='store_true')
+    PLS_group_optimize.add_option('--mc-nlvs',dest='mc_nlvs',help='number of LVs in MC methods [default=5]',metavar='INT',type='int',default=5)
+    PLS_group_optimize.add_option('--mc-ratio',dest='mcratio',help='resampling ratio for Monte Carlo [default=0.5]',metavar='FLOAT',type='float',default=0.5)
+    PLS_group_optimize.add_option('--mc-times',dest="mctimes", help='bootstrap n times to do Monte Carlo sampling [default=100]',metavar='INT',type='int',default=100)
+    PLS_group_optimize.add_option('--nlvs-optimize',dest='nlvsoptimize',help='nlvs optimize using cross validation from nlvs=1 to nlvsmax',action='store_true')
+    PLS_group_optimize.add_option('--nlvs-max',dest='nlvsmax',help='define nlvs max [default=20]',metavar='INT',type='int',default=20)    
+    PLS_group_optimize.add_option('--mcvip',dest='mcvip',help='use Monte Carlo for VIP',action='store_true')
+    PLS_group_optimize.add_option('--vip-mcvip',dest='vip_mcvip',help='Two method to do feature selection',action='store_true')
+    #PLS_group_optimize.add_option('--mcvip')
+
+    PLS_group_plot = OptionGroup(parser,"PLS plot options")
+    PLS_group_plot.add_option('--plot',dest='plot',help='to do some addtional plots',action='store_true')
+    PLS_group_plot.add_option('-d',dest='ndimentions',help='2D or 3D [default=2]',metavar='INT',type='choice',choices=["2","3"],default="2")
+    PLS_group_plot.add_option('--score-plot',dest='scoreplot',help="plot score distribution, 'XS' means 2D or 3D Xscore; 'XYS' means 2D or 3D Xscore with Y, and 'both' of them",metavar='STR',type='choice',choices=['XS','XYS'],default='XS')
+
+    parser.add_option_group(Common_group)
+    parser.add_option_group(Simple_group_Category)
+    parser.add_option_group(Simple_group_Quantificat)
+    parser.add_option_group(PLS_group_model)
+    parser.add_option_group(PLS_group_optimize)
+    parser.add_option_group(PLS_group_plot)
+    (options, args) = parser.parse_args()
+    if len(args) != 1:
+        parser.print_help()
+        return 999
+    
+    opt = plsregress_opt()
+    if options.log2tr:
+        opt.log2tr = 1
+    if options.viptest:
+        opt.viptest = 1
+    if options.mcuve:
+        opt.mcuve = 1
+    if options.nlvsoptimize:
+        opt.nlvsoptimize = 1
+    if options.mcvip:
+        opt.mcvip = 1
+    if options.vip_mcvip:
+        opt.vip_mcvip = 1
+    if options.plot:
+        opt.plot = 1
+    if options.do_predict:
+        opt.do_predict = 1
+    if options.ex_optimize:
+        opt.ex_optimize = 1
+    if options.ex_predict:
+        opt.ex_predict = 1
+    
+
+    opt.phenotype = options.phenotype
+    utils.dirDetectCreate
+    opt.outdir = options.outdir
+    if None == options.sampleinfo:
+        sys.stderr.write("Please use '-s' option to define the sample information\n")
+        return 1
+    opt.sampleinfo = options.sampleinfo
+    if options.prefix == None:    
+        opt.prefix,suffix = utils.parse_filename(os.path.basename(options.sampleinfo))
+    else:opt.prefix = options.prefix
+    if opt.phenotype == 'category':
+        if options.class_info == None:
+            sys.stderr.write("Please use '-c' option to define compare groups\n")
+            return 1
+    if utils.dirDetectCreate(opt.outdir):
+        return 1
+    try:
+        opt.fc = float(options.fc)
+        opt.class_info = options.class_info
+        opt.regmd  = options.regmd
+        opt.rho = float(options.rho)
+        opt.nlvs = int(options.nlvs)
+        opt.nfold = int(options.nfold)
+        opt.nviptest = int(options.nviptest)
+        opt.vipp = float(options.vipp)
+        opt.mcratio = float(options.mcratio)
+        opt.mctimes = int(options.mctimes)
+        opt.nlvsmax = int(options.nlvsmax)
+        opt.ndimentions = int(options.ndimentions)
+        opt.scoreplot = options.scoreplot
+        opt.mc_nlvs = int(options.mc_nlvs)
+        opt.matrix_anno = args[0]
+        opt.ex_sampleinfo = options.ex_sampleinfo
+        opt.ex_matrix     = options.ex_matrix
+        print(opt.ex_sampleinfo)
+        print(opt.ex_matrix)
+    except Exception as e:
+        sys.stderr.write("[ERROR] %s\n"%(str(e)))
+        return 1
+    if opt.ex_optimize or opt.ex_predict:
+        assert opt.ex_sampleinfo is not None
+        assert opt.ex_matrix     is not None
+
+    sys.stderr.write("================ Task Start ================\n")
+    ret = plsregress_script(opt,args[0])
+    if ret == 0:
+        cost_time = time.time()-start_time
+        sys.stderr.write("Task Done, time consumed: %.3f\n"%cost_time)
+        sys.stderr.write("Time consumed: %.3f\n"%cost_time)
+    return ret
+
+if __name__ == "__main__":
+    utils.monitor_controlC()
+    ret = __main()
+    if 0 == ret:
+        sys.stderr.write("Task Done.\n")
+    elif 999 == ret:
+        sys.stderr.write("[Error] incorrect number of arguments\n")
+    else:
+        sys.stderr.write("Task interrupt: Error!\n")
+
