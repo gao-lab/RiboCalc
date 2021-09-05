@@ -1,0 +1,5001 @@
+#SN	file	sn	idx	type
+S2	mat	S2	1	coding
+S6	mat	S6	1	coding
+S11	mat	S11	1	coding
+S13	mat	S13	1	coding
+S16	mat	S16	1	coding
+S17	mat	S17	1	coding
+S23	mat	S23	1	coding
+S26	mat	S26	1	coding
+S42	mat	S42	1	coding
+S43	mat	S43	1	coding
+S44	mat	S44	1	coding
+S50	mat	S50	1	coding
+S53	mat	S53	1	coding
+S60	mat	S60	1	coding
+S62	mat	S62	1	coding
+S65	mat	S65	1	coding
+S68	mat	S68	1	coding
+S70	mat	S70	1	coding
+S74	mat	S74	1	coding
+S75	mat	S75	1	coding
+S77	mat	S77	1	coding
+S78	mat	S78	1	coding
+S81	mat	S81	1	coding
+S85	mat	S85	1	coding
+S86	mat	S86	1	coding
+S89	mat	S89	1	coding
+S94	mat	S94	1	coding
+S97	mat	S97	1	coding
+S104	mat	S104	1	coding
+S105	mat	S105	1	coding
+S108	mat	S108	1	coding
+S109	mat	S109	1	coding
+S116	mat	S116	1	coding
+S117	mat	S117	1	coding
+S120	mat	S120	1	coding
+S122	mat	S122	1	coding
+S127	mat	S127	1	coding
+S129	mat	S129	1	coding
+S134	mat	S134	1	coding
+S135	mat	S135	1	coding
+S136	mat	S136	1	coding
+S139	mat	S139	1	coding
+S140	mat	S140	1	coding
+S152	mat	S152	1	coding
+S153	mat	S153	1	coding
+S154	mat	S154	1	coding
+S159	mat	S159	1	coding
+S160	mat	S160	1	coding
+S172	mat	S172	1	coding
+S174	mat	S174	1	coding
+S175	mat	S175	1	coding
+S176	mat	S176	1	coding
+S182	mat	S182	1	coding
+S183	mat	S183	1	coding
+S186	mat	S186	1	coding
+S187	mat	S187	1	coding
+S190	mat	S190	1	coding
+S201	mat	S201	1	coding
+S204	mat	S204	1	coding
+S206	mat	S206	1	coding
+S208	mat	S208	1	coding
+S209	mat	S209	1	coding
+S210	mat	S210	1	coding
+S212	mat	S212	1	coding
+S215	mat	S215	1	coding
+S220	mat	S220	1	coding
+S221	mat	S221	1	coding
+S222	mat	S222	1	coding
+S229	mat	S229	1	coding
+S232	mat	S232	1	coding
+S236	mat	S236	1	coding
+S239	mat	S239	1	coding
+S244	mat	S244	1	coding
+S245	mat	S245	1	coding
+S246	mat	S246	1	coding
+S247	mat	S247	1	coding
+S248	mat	S248	1	coding
+S250	mat	S250	1	coding
+S252	mat	S252	1	coding
+S254	mat	S254	1	coding
+S256	mat	S256	1	coding
+S260	mat	S260	1	coding
+S261	mat	S261	1	coding
+S262	mat	S262	1	coding
+S266	mat	S266	1	coding
+S270	mat	S270	1	coding
+S271	mat	S271	1	coding
+S272	mat	S272	1	coding
+S278	mat	S278	1	coding
+S291	mat	S291	1	coding
+S292	mat	S292	1	coding
+S295	mat	S295	1	coding
+S297	mat	S297	1	coding
+S298	mat	S298	1	coding
+S301	mat	S301	1	coding
+S303	mat	S303	1	coding
+S306	mat	S306	1	coding
+S311	mat	S311	1	coding
+S313	mat	S313	1	coding
+S315	mat	S315	1	coding
+S317	mat	S317	1	coding
+S318	mat	S318	1	coding
+S320	mat	S320	1	coding
+S323	mat	S323	1	coding
+S324	mat	S324	1	coding
+S327	mat	S327	1	coding
+S329	mat	S329	1	coding
+S330	mat	S330	1	coding
+S332	mat	S332	1	coding
+S333	mat	S333	1	coding
+S334	mat	S334	1	coding
+S337	mat	S337	1	coding
+S338	mat	S338	1	coding
+S340	mat	S340	1	coding
+S343	mat	S343	1	coding
+S344	mat	S344	1	coding
+S345	mat	S345	1	coding
+S350	mat	S350	1	coding
+S354	mat	S354	1	coding
+S356	mat	S356	1	coding
+S359	mat	S359	1	coding
+S362	mat	S362	1	coding
+S368	mat	S368	1	coding
+S369	mat	S369	1	coding
+S371	mat	S371	1	coding
+S372	mat	S372	1	coding
+S374	mat	S374	1	coding
+S382	mat	S382	1	coding
+S386	mat	S386	1	coding
+S387	mat	S387	1	coding
+S391	mat	S391	1	coding
+S393	mat	S393	1	coding
+S397	mat	S397	1	coding
+S400	mat	S400	1	coding
+S409	mat	S409	1	coding
+S412	mat	S412	1	coding
+S413	mat	S413	1	coding
+S417	mat	S417	1	coding
+S420	mat	S420	1	coding
+S421	mat	S421	1	coding
+S424	mat	S424	1	coding
+S427	mat	S427	1	coding
+S429	mat	S429	1	coding
+S435	mat	S435	1	coding
+S436	mat	S436	1	coding
+S441	mat	S441	1	coding
+S445	mat	S445	1	coding
+S446	mat	S446	1	coding
+S447	mat	S447	1	coding
+S450	mat	S450	1	coding
+S473	mat	S473	1	coding
+S475	mat	S475	1	coding
+S476	mat	S476	1	coding
+S481	mat	S481	1	coding
+S483	mat	S483	1	coding
+S485	mat	S485	1	coding
+S487	mat	S487	1	coding
+S490	mat	S490	1	coding
+S491	mat	S491	1	coding
+S497	mat	S497	1	coding
+S499	mat	S499	1	coding
+S505	mat	S505	1	coding
+S508	mat	S508	1	coding
+S513	mat	S513	1	coding
+S522	mat	S522	1	coding
+S523	mat	S523	1	coding
+S526	mat	S526	1	coding
+S527	mat	S527	1	coding
+S529	mat	S529	1	coding
+S531	mat	S531	1	coding
+S533	mat	S533	1	coding
+S535	mat	S535	1	coding
+S536	mat	S536	1	coding
+S537	mat	S537	1	coding
+S539	mat	S539	1	coding
+S541	mat	S541	1	coding
+S544	mat	S544	1	coding
+S551	mat	S551	1	coding
+S553	mat	S553	1	coding
+S554	mat	S554	1	coding
+S562	mat	S562	1	coding
+S563	mat	S563	1	coding
+S565	mat	S565	1	coding
+S566	mat	S566	1	coding
+S568	mat	S568	1	coding
+S570	mat	S570	1	coding
+S573	mat	S573	1	coding
+S575	mat	S575	1	coding
+S576	mat	S576	1	coding
+S582	mat	S582	1	coding
+S583	mat	S583	1	coding
+S586	mat	S586	1	coding
+S589	mat	S589	1	coding
+S590	mat	S590	1	coding
+S595	mat	S595	1	coding
+S596	mat	S596	1	coding
+S598	mat	S598	1	coding
+S599	mat	S599	1	coding
+S600	mat	S600	1	coding
+S602	mat	S602	1	coding
+S611	mat	S611	1	coding
+S613	mat	S613	1	coding
+S614	mat	S614	1	coding
+S617	mat	S617	1	coding
+S622	mat	S622	1	coding
+S626	mat	S626	1	coding
+S628	mat	S628	1	coding
+S629	mat	S629	1	coding
+S633	mat	S633	1	coding
+S635	mat	S635	1	coding
+S637	mat	S637	1	coding
+S643	mat	S643	1	coding
+S647	mat	S647	1	coding
+S648	mat	S648	1	coding
+S649	mat	S649	1	coding
+S657	mat	S657	1	coding
+S658	mat	S658	1	coding
+S659	mat	S659	1	coding
+S662	mat	S662	1	coding
+S663	mat	S663	1	coding
+S664	mat	S664	1	coding
+S665	mat	S665	1	coding
+S668	mat	S668	1	coding
+S670	mat	S670	1	coding
+S671	mat	S671	1	coding
+S672	mat	S672	1	coding
+S673	mat	S673	1	coding
+S675	mat	S675	1	coding
+S676	mat	S676	1	coding
+S677	mat	S677	1	coding
+S679	mat	S679	1	coding
+S681	mat	S681	1	coding
+S685	mat	S685	1	coding
+S698	mat	S698	1	coding
+S702	mat	S702	1	coding
+S703	mat	S703	1	coding
+S708	mat	S708	1	coding
+S710	mat	S710	1	coding
+S712	mat	S712	1	coding
+S713	mat	S713	1	coding
+S720	mat	S720	1	coding
+S724	mat	S724	1	coding
+S725	mat	S725	1	coding
+S727	mat	S727	1	coding
+S729	mat	S729	1	coding
+S730	mat	S730	1	coding
+S732	mat	S732	1	coding
+S733	mat	S733	1	coding
+S742	mat	S742	1	coding
+S743	mat	S743	1	coding
+S744	mat	S744	1	coding
+S745	mat	S745	1	coding
+S750	mat	S750	1	coding
+S754	mat	S754	1	coding
+S763	mat	S763	1	coding
+S767	mat	S767	1	coding
+S773	mat	S773	1	coding
+S776	mat	S776	1	coding
+S779	mat	S779	1	coding
+S780	mat	S780	1	coding
+S781	mat	S781	1	coding
+S782	mat	S782	1	coding
+S786	mat	S786	1	coding
+S787	mat	S787	1	coding
+S791	mat	S791	1	coding
+S793	mat	S793	1	coding
+S799	mat	S799	1	coding
+S800	mat	S800	1	coding
+S801	mat	S801	1	coding
+S806	mat	S806	1	coding
+S814	mat	S814	1	coding
+S816	mat	S816	1	coding
+S819	mat	S819	1	coding
+S820	mat	S820	1	coding
+S824	mat	S824	1	coding
+S829	mat	S829	1	coding
+S831	mat	S831	1	coding
+S834	mat	S834	1	coding
+S839	mat	S839	1	coding
+S842	mat	S842	1	coding
+S843	mat	S843	1	coding
+S846	mat	S846	1	coding
+S853	mat	S853	1	coding
+S858	mat	S858	1	coding
+S860	mat	S860	1	coding
+S862	mat	S862	1	coding
+S866	mat	S866	1	coding
+S872	mat	S872	1	coding
+S874	mat	S874	1	coding
+S875	mat	S875	1	coding
+S884	mat	S884	1	coding
+S888	mat	S888	1	coding
+S892	mat	S892	1	coding
+S893	mat	S893	1	coding
+S915	mat	S915	1	coding
+S917	mat	S917	1	coding
+S919	mat	S919	1	coding
+S921	mat	S921	1	coding
+S926	mat	S926	1	coding
+S928	mat	S928	1	coding
+S934	mat	S934	1	coding
+S936	mat	S936	1	coding
+S938	mat	S938	1	coding
+S940	mat	S940	1	coding
+S941	mat	S941	1	coding
+S942	mat	S942	1	coding
+S943	mat	S943	1	coding
+S946	mat	S946	1	coding
+S948	mat	S948	1	coding
+S950	mat	S950	1	coding
+S952	mat	S952	1	coding
+S957	mat	S957	1	coding
+S958	mat	S958	1	coding
+S961	mat	S961	1	coding
+S963	mat	S963	1	coding
+S966	mat	S966	1	coding
+S967	mat	S967	1	coding
+S974	mat	S974	1	coding
+S982	mat	S982	1	coding
+S984	mat	S984	1	coding
+S988	mat	S988	1	coding
+S995	mat	S995	1	coding
+S996	mat	S996	1	coding
+S1001	mat	S1001	1	coding
+S1007	mat	S1007	1	coding
+S1008	mat	S1008	1	coding
+S1011	mat	S1011	1	coding
+S1012	mat	S1012	1	coding
+S1013	mat	S1013	1	coding
+S1014	mat	S1014	1	coding
+S1015	mat	S1015	1	coding
+S1022	mat	S1022	1	coding
+S1026	mat	S1026	1	coding
+S1036	mat	S1036	1	coding
+S1040	mat	S1040	1	coding
+S1043	mat	S1043	1	coding
+S1044	mat	S1044	1	coding
+S1048	mat	S1048	1	coding
+S1051	mat	S1051	1	coding
+S1055	mat	S1055	1	coding
+S1056	mat	S1056	1	coding
+S1060	mat	S1060	1	coding
+S1061	mat	S1061	1	coding
+S1066	mat	S1066	1	coding
+S1067	mat	S1067	1	coding
+S1073	mat	S1073	1	coding
+S1081	mat	S1081	1	coding
+S1088	mat	S1088	1	coding
+S1093	mat	S1093	1	coding
+S1094	mat	S1094	1	coding
+S1101	mat	S1101	1	coding
+S1114	mat	S1114	1	coding
+S1119	mat	S1119	1	coding
+S1130	mat	S1130	1	coding
+S1132	mat	S1132	1	coding
+S1136	mat	S1136	1	coding
+S1137	mat	S1137	1	coding
+S1140	mat	S1140	1	coding
+S1142	mat	S1142	1	coding
+S1143	mat	S1143	1	coding
+S1144	mat	S1144	1	coding
+S1146	mat	S1146	1	coding
+S1148	mat	S1148	1	coding
+S1150	mat	S1150	1	coding
+S1152	mat	S1152	1	coding
+S1163	mat	S1163	1	coding
+S1166	mat	S1166	1	coding
+S1172	mat	S1172	1	coding
+S1173	mat	S1173	1	coding
+S1182	mat	S1182	1	coding
+S1185	mat	S1185	1	coding
+S1186	mat	S1186	1	coding
+S1188	mat	S1188	1	coding
+S1192	mat	S1192	1	coding
+S1196	mat	S1196	1	coding
+S1201	mat	S1201	1	coding
+S1207	mat	S1207	1	coding
+S1211	mat	S1211	1	coding
+S1212	mat	S1212	1	coding
+S1213	mat	S1213	1	coding
+S1216	mat	S1216	1	coding
+S1220	mat	S1220	1	coding
+S1222	mat	S1222	1	coding
+S1223	mat	S1223	1	coding
+S1225	mat	S1225	1	coding
+S1226	mat	S1226	1	coding
+S1228	mat	S1228	1	coding
+S1229	mat	S1229	1	coding
+S1230	mat	S1230	1	coding
+S1232	mat	S1232	1	coding
+S1236	mat	S1236	1	coding
+S1239	mat	S1239	1	coding
+S1242	mat	S1242	1	coding
+S1244	mat	S1244	1	coding
+S1245	mat	S1245	1	coding
+S1247	mat	S1247	1	coding
+S1249	mat	S1249	1	coding
+S1250	mat	S1250	1	coding
+S1254	mat	S1254	1	coding
+S1255	mat	S1255	1	coding
+S1258	mat	S1258	1	coding
+S1261	mat	S1261	1	coding
+S1263	mat	S1263	1	coding
+S1264	mat	S1264	1	coding
+S1265	mat	S1265	1	coding
+S1266	mat	S1266	1	coding
+S1268	mat	S1268	1	coding
+S1269	mat	S1269	1	coding
+S1271	mat	S1271	1	coding
+S1273	mat	S1273	1	coding
+S1277	mat	S1277	1	coding
+S1287	mat	S1287	1	coding
+S1288	mat	S1288	1	coding
+S1289	mat	S1289	1	coding
+S1290	mat	S1290	1	coding
+S1293	mat	S1293	1	coding
+S1298	mat	S1298	1	coding
+S1300	mat	S1300	1	coding
+S1301	mat	S1301	1	coding
+S1308	mat	S1308	1	coding
+S1309	mat	S1309	1	coding
+S1312	mat	S1312	1	coding
+S1319	mat	S1319	1	coding
+S1322	mat	S1322	1	coding
+S1323	mat	S1323	1	coding
+S1325	mat	S1325	1	coding
+S1326	mat	S1326	1	coding
+S1327	mat	S1327	1	coding
+S1328	mat	S1328	1	coding
+S1331	mat	S1331	1	coding
+S1336	mat	S1336	1	coding
+S1339	mat	S1339	1	coding
+S1340	mat	S1340	1	coding
+S1345	mat	S1345	1	coding
+S1353	mat	S1353	1	coding
+S1359	mat	S1359	1	coding
+S1361	mat	S1361	1	coding
+S1362	mat	S1362	1	coding
+S1365	mat	S1365	1	coding
+S1367	mat	S1367	1	coding
+S1379	mat	S1379	1	coding
+S1380	mat	S1380	1	coding
+S1382	mat	S1382	1	coding
+S1384	mat	S1384	1	coding
+S1390	mat	S1390	1	coding
+S1395	mat	S1395	1	coding
+S1399	mat	S1399	1	coding
+S1400	mat	S1400	1	coding
+S1403	mat	S1403	1	coding
+S1404	mat	S1404	1	coding
+S1406	mat	S1406	1	coding
+S1413	mat	S1413	1	coding
+S1415	mat	S1415	1	coding
+S1419	mat	S1419	1	coding
+S1426	mat	S1426	1	coding
+S1427	mat	S1427	1	coding
+S1429	mat	S1429	1	coding
+S1433	mat	S1433	1	coding
+S1436	mat	S1436	1	coding
+S1437	mat	S1437	1	coding
+S1442	mat	S1442	1	coding
+S1447	mat	S1447	1	coding
+S1448	mat	S1448	1	coding
+S1451	mat	S1451	1	coding
+S1455	mat	S1455	1	coding
+S1458	mat	S1458	1	coding
+S1464	mat	S1464	1	coding
+S1468	mat	S1468	1	coding
+S1470	mat	S1470	1	coding
+S1473	mat	S1473	1	coding
+S1474	mat	S1474	1	coding
+S1475	mat	S1475	1	coding
+S1480	mat	S1480	1	coding
+S1481	mat	S1481	1	coding
+S1488	mat	S1488	1	coding
+S1491	mat	S1491	1	coding
+S1495	mat	S1495	1	coding
+S1500	mat	S1500	1	coding
+S1502	mat	S1502	1	coding
+S1506	mat	S1506	1	coding
+S1514	mat	S1514	1	coding
+S1515	mat	S1515	1	coding
+S1518	mat	S1518	1	coding
+S1521	mat	S1521	1	coding
+S1522	mat	S1522	1	coding
+S1529	mat	S1529	1	coding
+S1535	mat	S1535	1	coding
+S1536	mat	S1536	1	coding
+S1538	mat	S1538	1	coding
+S1539	mat	S1539	1	coding
+S1540	mat	S1540	1	coding
+S1542	mat	S1542	1	coding
+S1548	mat	S1548	1	coding
+S1558	mat	S1558	1	coding
+S1563	mat	S1563	1	coding
+S1564	mat	S1564	1	coding
+S1574	mat	S1574	1	coding
+S1576	mat	S1576	1	coding
+S1586	mat	S1586	1	coding
+S1588	mat	S1588	1	coding
+S1589	mat	S1589	1	coding
+S1591	mat	S1591	1	coding
+S1593	mat	S1593	1	coding
+S1595	mat	S1595	1	coding
+S1597	mat	S1597	1	coding
+S1599	mat	S1599	1	coding
+S1605	mat	S1605	1	coding
+S1607	mat	S1607	1	coding
+S1608	mat	S1608	1	coding
+S1609	mat	S1609	1	coding
+S1612	mat	S1612	1	coding
+S1615	mat	S1615	1	coding
+S1616	mat	S1616	1	coding
+S1617	mat	S1617	1	coding
+S1624	mat	S1624	1	coding
+S1626	mat	S1626	1	coding
+S1627	mat	S1627	1	coding
+S1630	mat	S1630	1	coding
+S1632	mat	S1632	1	coding
+S1637	mat	S1637	1	coding
+S1638	mat	S1638	1	coding
+S1640	mat	S1640	1	coding
+S1641	mat	S1641	1	coding
+S1645	mat	S1645	1	coding
+S1650	mat	S1650	1	coding
+S1652	mat	S1652	1	coding
+S1653	mat	S1653	1	coding
+S1657	mat	S1657	1	coding
+S1663	mat	S1663	1	coding
+S1665	mat	S1665	1	coding
+S1667	mat	S1667	1	coding
+S1674	mat	S1674	1	coding
+S1677	mat	S1677	1	coding
+S1692	mat	S1692	1	coding
+S1693	mat	S1693	1	coding
+S1694	mat	S1694	1	coding
+S1695	mat	S1695	1	coding
+S1710	mat	S1710	1	coding
+S1711	mat	S1711	1	coding
+S1712	mat	S1712	1	coding
+S1716	mat	S1716	1	coding
+S1726	mat	S1726	1	coding
+S1732	mat	S1732	1	coding
+S1741	mat	S1741	1	coding
+S1742	mat	S1742	1	coding
+S1746	mat	S1746	1	coding
+S1747	mat	S1747	1	coding
+S1750	mat	S1750	1	coding
+S1751	mat	S1751	1	coding
+S1752	mat	S1752	1	coding
+S1756	mat	S1756	1	coding
+S1757	mat	S1757	1	coding
+S1761	mat	S1761	1	coding
+S1763	mat	S1763	1	coding
+S1765	mat	S1765	1	coding
+S1780	mat	S1780	1	coding
+S1783	mat	S1783	1	coding
+S1785	mat	S1785	1	coding
+S1790	mat	S1790	1	coding
+S1792	mat	S1792	1	coding
+S1794	mat	S1794	1	coding
+S1795	mat	S1795	1	coding
+S1801	mat	S1801	1	coding
+S1802	mat	S1802	1	coding
+S1809	mat	S1809	1	coding
+S1812	mat	S1812	1	coding
+S1813	mat	S1813	1	coding
+S1815	mat	S1815	1	coding
+S1816	mat	S1816	1	coding
+S1822	mat	S1822	1	coding
+S1824	mat	S1824	1	coding
+S1825	mat	S1825	1	coding
+S1826	mat	S1826	1	coding
+S1829	mat	S1829	1	coding
+S1831	mat	S1831	1	coding
+S1836	mat	S1836	1	coding
+S1837	mat	S1837	1	coding
+S1839	mat	S1839	1	coding
+S1843	mat	S1843	1	coding
+S1844	mat	S1844	1	coding
+S1850	mat	S1850	1	coding
+S1858	mat	S1858	1	coding
+S1864	mat	S1864	1	coding
+S1867	mat	S1867	1	coding
+S1868	mat	S1868	1	coding
+S1871	mat	S1871	1	coding
+S1872	mat	S1872	1	coding
+S1875	mat	S1875	1	coding
+S1878	mat	S1878	1	coding
+S1883	mat	S1883	1	coding
+S1886	mat	S1886	1	coding
+S1887	mat	S1887	1	coding
+S1894	mat	S1894	1	coding
+S1896	mat	S1896	1	coding
+S1905	mat	S1905	1	coding
+S1907	mat	S1907	1	coding
+S1912	mat	S1912	1	coding
+S1914	mat	S1914	1	coding
+S1918	mat	S1918	1	coding
+S1920	mat	S1920	1	coding
+S1922	mat	S1922	1	coding
+S1924	mat	S1924	1	coding
+S1925	mat	S1925	1	coding
+S1926	mat	S1926	1	coding
+S1929	mat	S1929	1	coding
+S1932	mat	S1932	1	coding
+S1936	mat	S1936	1	coding
+S1938	mat	S1938	1	coding
+S1943	mat	S1943	1	coding
+S1944	mat	S1944	1	coding
+S1947	mat	S1947	1	coding
+S1950	mat	S1950	1	coding
+S1953	mat	S1953	1	coding
+S1962	mat	S1962	1	coding
+S1964	mat	S1964	1	coding
+S1965	mat	S1965	1	coding
+S1966	mat	S1966	1	coding
+S1970	mat	S1970	1	coding
+S1982	mat	S1982	1	coding
+S1984	mat	S1984	1	coding
+S1986	mat	S1986	1	coding
+S1991	mat	S1991	1	coding
+S1994	mat	S1994	1	coding
+S1995	mat	S1995	1	coding
+S1996	mat	S1996	1	coding
+S1997	mat	S1997	1	coding
+S2001	mat	S2001	1	coding
+S2009	mat	S2009	1	coding
+S2011	mat	S2011	1	coding
+S2015	mat	S2015	1	coding
+S2023	mat	S2023	1	coding
+S2030	mat	S2030	1	coding
+S2032	mat	S2032	1	coding
+S2033	mat	S2033	1	coding
+S2038	mat	S2038	1	coding
+S2042	mat	S2042	1	coding
+S2055	mat	S2055	1	coding
+S2056	mat	S2056	1	coding
+S2062	mat	S2062	1	coding
+S2063	mat	S2063	1	coding
+S2065	mat	S2065	1	coding
+S2066	mat	S2066	1	coding
+S2070	mat	S2070	1	coding
+S2072	mat	S2072	1	coding
+S2073	mat	S2073	1	coding
+S2078	mat	S2078	1	coding
+S2080	mat	S2080	1	coding
+S2082	mat	S2082	1	coding
+S2091	mat	S2091	1	coding
+S2092	mat	S2092	1	coding
+S2094	mat	S2094	1	coding
+S2097	mat	S2097	1	coding
+S2099	mat	S2099	1	coding
+S2101	mat	S2101	1	coding
+S2109	mat	S2109	1	coding
+S2110	mat	S2110	1	coding
+S2111	mat	S2111	1	coding
+S2116	mat	S2116	1	coding
+S2120	mat	S2120	1	coding
+S2121	mat	S2121	1	coding
+S2125	mat	S2125	1	coding
+S2127	mat	S2127	1	coding
+S2131	mat	S2131	1	coding
+S2132	mat	S2132	1	coding
+S2139	mat	S2139	1	coding
+S2140	mat	S2140	1	coding
+S2141	mat	S2141	1	coding
+S2145	mat	S2145	1	coding
+S2150	mat	S2150	1	coding
+S2152	mat	S2152	1	coding
+S2153	mat	S2153	1	coding
+S2156	mat	S2156	1	coding
+S2159	mat	S2159	1	coding
+S2161	mat	S2161	1	coding
+S2163	mat	S2163	1	coding
+S2168	mat	S2168	1	coding
+S2171	mat	S2171	1	coding
+S2174	mat	S2174	1	coding
+S2176	mat	S2176	1	coding
+S2179	mat	S2179	1	coding
+S2181	mat	S2181	1	coding
+S2182	mat	S2182	1	coding
+S2183	mat	S2183	1	coding
+S2186	mat	S2186	1	coding
+S2191	mat	S2191	1	coding
+S2198	mat	S2198	1	coding
+S2202	mat	S2202	1	coding
+S2214	mat	S2214	1	coding
+S2217	mat	S2217	1	coding
+S2218	mat	S2218	1	coding
+S2220	mat	S2220	1	coding
+S2231	mat	S2231	1	coding
+S2233	mat	S2233	1	coding
+S2238	mat	S2238	1	coding
+S2242	mat	S2242	1	coding
+S2243	mat	S2243	1	coding
+S2244	mat	S2244	1	coding
+S2249	mat	S2249	1	coding
+S2250	mat	S2250	1	coding
+S2253	mat	S2253	1	coding
+S2254	mat	S2254	1	coding
+S2259	mat	S2259	1	coding
+S2263	mat	S2263	1	coding
+S2267	mat	S2267	1	coding
+S2268	mat	S2268	1	coding
+S2270	mat	S2270	1	coding
+S2278	mat	S2278	1	coding
+S2279	mat	S2279	1	coding
+S2286	mat	S2286	1	coding
+S2296	mat	S2296	1	coding
+S2298	mat	S2298	1	coding
+S2299	mat	S2299	1	coding
+S2306	mat	S2306	1	coding
+S2310	mat	S2310	1	coding
+S2313	mat	S2313	1	coding
+S2314	mat	S2314	1	coding
+S2319	mat	S2319	1	coding
+S2334	mat	S2334	1	coding
+S2337	mat	S2337	1	coding
+S2338	mat	S2338	1	coding
+S2340	mat	S2340	1	coding
+S2343	mat	S2343	1	coding
+S2346	mat	S2346	1	coding
+S2348	mat	S2348	1	coding
+S2349	mat	S2349	1	coding
+S2359	mat	S2359	1	coding
+S2360	mat	S2360	1	coding
+S2370	mat	S2370	1	coding
+S2377	mat	S2377	1	coding
+S2379	mat	S2379	1	coding
+S2385	mat	S2385	1	coding
+S2387	mat	S2387	1	coding
+S2388	mat	S2388	1	coding
+S2389	mat	S2389	1	coding
+S2392	mat	S2392	1	coding
+S2393	mat	S2393	1	coding
+S2394	mat	S2394	1	coding
+S2398	mat	S2398	1	coding
+S2404	mat	S2404	1	coding
+S2405	mat	S2405	1	coding
+S2412	mat	S2412	1	coding
+S2414	mat	S2414	1	coding
+S2420	mat	S2420	1	coding
+S2423	mat	S2423	1	coding
+S2436	mat	S2436	1	coding
+S2439	mat	S2439	1	coding
+S2446	mat	S2446	1	coding
+S2454	mat	S2454	1	coding
+S2455	mat	S2455	1	coding
+S2460	mat	S2460	1	coding
+S2461	mat	S2461	1	coding
+S2465	mat	S2465	1	coding
+S2467	mat	S2467	1	coding
+S2472	mat	S2472	1	coding
+S2475	mat	S2475	1	coding
+S2486	mat	S2486	1	coding
+S2488	mat	S2488	1	coding
+S2489	mat	S2489	1	coding
+S2490	mat	S2490	1	coding
+S2499	mat	S2499	1	coding
+S2500	mat	S2500	1	coding
+S2501	mat	S2501	1	coding
+S2502	mat	S2502	1	coding
+S2505	mat	S2505	1	coding
+S2506	mat	S2506	1	coding
+S2508	mat	S2508	1	coding
+S2513	mat	S2513	1	coding
+S2514	mat	S2514	1	coding
+S2516	mat	S2516	1	coding
+S2520	mat	S2520	1	coding
+S2523	mat	S2523	1	coding
+S2525	mat	S2525	1	coding
+S2526	mat	S2526	1	coding
+S2528	mat	S2528	1	coding
+S2532	mat	S2532	1	coding
+S2533	mat	S2533	1	coding
+S2534	mat	S2534	1	coding
+S2535	mat	S2535	1	coding
+S2539	mat	S2539	1	coding
+S2540	mat	S2540	1	coding
+S2550	mat	S2550	1	coding
+S2552	mat	S2552	1	coding
+S2554	mat	S2554	1	coding
+S2557	mat	S2557	1	coding
+S2559	mat	S2559	1	coding
+S2564	mat	S2564	1	coding
+S2567	mat	S2567	1	coding
+S2568	mat	S2568	1	coding
+S2575	mat	S2575	1	coding
+S2578	mat	S2578	1	coding
+S2579	mat	S2579	1	coding
+S2581	mat	S2581	1	coding
+S2583	mat	S2583	1	coding
+S2590	mat	S2590	1	coding
+S2597	mat	S2597	1	coding
+S2598	mat	S2598	1	coding
+S2600	mat	S2600	1	coding
+S2601	mat	S2601	1	coding
+S2605	mat	S2605	1	coding
+S2608	mat	S2608	1	coding
+S2610	mat	S2610	1	coding
+S2630	mat	S2630	1	coding
+S2632	mat	S2632	1	coding
+S2634	mat	S2634	1	coding
+S2640	mat	S2640	1	coding
+S2645	mat	S2645	1	coding
+S2650	mat	S2650	1	coding
+S2653	mat	S2653	1	coding
+S2654	mat	S2654	1	coding
+S2664	mat	S2664	1	coding
+S2666	mat	S2666	1	coding
+S2669	mat	S2669	1	coding
+S2671	mat	S2671	1	coding
+S2672	mat	S2672	1	coding
+S2676	mat	S2676	1	coding
+S2683	mat	S2683	1	coding
+S2686	mat	S2686	1	coding
+S2691	mat	S2691	1	coding
+S2693	mat	S2693	1	coding
+S2695	mat	S2695	1	coding
+S2696	mat	S2696	1	coding
+S2699	mat	S2699	1	coding
+S2700	mat	S2700	1	coding
+S2701	mat	S2701	1	coding
+S2702	mat	S2702	1	coding
+S2703	mat	S2703	1	coding
+S2708	mat	S2708	1	coding
+S2709	mat	S2709	1	coding
+S2711	mat	S2711	1	coding
+S2713	mat	S2713	1	coding
+S2717	mat	S2717	1	coding
+S2719	mat	S2719	1	coding
+S2720	mat	S2720	1	coding
+S2724	mat	S2724	1	coding
+S2727	mat	S2727	1	coding
+S2728	mat	S2728	1	coding
+S2736	mat	S2736	1	coding
+S2737	mat	S2737	1	coding
+S2741	mat	S2741	1	coding
+S2744	mat	S2744	1	coding
+S2746	mat	S2746	1	coding
+S2747	mat	S2747	1	coding
+S2748	mat	S2748	1	coding
+S2753	mat	S2753	1	coding
+S2757	mat	S2757	1	coding
+S2758	mat	S2758	1	coding
+S2759	mat	S2759	1	coding
+S2767	mat	S2767	1	coding
+S2774	mat	S2774	1	coding
+S2776	mat	S2776	1	coding
+S2780	mat	S2780	1	coding
+S2782	mat	S2782	1	coding
+S2785	mat	S2785	1	coding
+S2786	mat	S2786	1	coding
+S2787	mat	S2787	1	coding
+S2788	mat	S2788	1	coding
+S2809	mat	S2809	1	coding
+S2818	mat	S2818	1	coding
+S2821	mat	S2821	1	coding
+S2823	mat	S2823	1	coding
+S2825	mat	S2825	1	coding
+S2828	mat	S2828	1	coding
+S2833	mat	S2833	1	coding
+S2835	mat	S2835	1	coding
+S2838	mat	S2838	1	coding
+S2840	mat	S2840	1	coding
+S2841	mat	S2841	1	coding
+S2845	mat	S2845	1	coding
+S2847	mat	S2847	1	coding
+S2850	mat	S2850	1	coding
+S2852	mat	S2852	1	coding
+S2859	mat	S2859	1	coding
+S2864	mat	S2864	1	coding
+S2867	mat	S2867	1	coding
+S2876	mat	S2876	1	coding
+S2877	mat	S2877	1	coding
+S2878	mat	S2878	1	coding
+S2881	mat	S2881	1	coding
+S2882	mat	S2882	1	coding
+S2885	mat	S2885	1	coding
+S2887	mat	S2887	1	coding
+S2888	mat	S2888	1	coding
+S2893	mat	S2893	1	coding
+S2900	mat	S2900	1	coding
+S2908	mat	S2908	1	coding
+S2909	mat	S2909	1	coding
+S2913	mat	S2913	1	coding
+S2919	mat	S2919	1	coding
+S2927	mat	S2927	1	coding
+S2933	mat	S2933	1	coding
+S2935	mat	S2935	1	coding
+S2936	mat	S2936	1	coding
+S2940	mat	S2940	1	coding
+S2947	mat	S2947	1	coding
+S2948	mat	S2948	1	coding
+S2952	mat	S2952	1	coding
+S2955	mat	S2955	1	coding
+S2962	mat	S2962	1	coding
+S2963	mat	S2963	1	coding
+S2966	mat	S2966	1	coding
+S2967	mat	S2967	1	coding
+S2968	mat	S2968	1	coding
+S2973	mat	S2973	1	coding
+S2982	mat	S2982	1	coding
+S2988	mat	S2988	1	coding
+S2989	mat	S2989	1	coding
+S2991	mat	S2991	1	coding
+S2992	mat	S2992	1	coding
+S2996	mat	S2996	1	coding
+S3002	mat	S3002	1	coding
+S3011	mat	S3011	1	coding
+S3014	mat	S3014	1	coding
+S3015	mat	S3015	1	coding
+S3041	mat	S3041	1	coding
+S3042	mat	S3042	1	coding
+S3044	mat	S3044	1	coding
+S3045	mat	S3045	1	coding
+S3048	mat	S3048	1	coding
+S3055	mat	S3055	1	coding
+S3058	mat	S3058	1	coding
+S3060	mat	S3060	1	coding
+S3068	mat	S3068	1	coding
+S3070	mat	S3070	1	coding
+S3077	mat	S3077	1	coding
+S3078	mat	S3078	1	coding
+S3080	mat	S3080	1	coding
+S3082	mat	S3082	1	coding
+S3088	mat	S3088	1	coding
+S3093	mat	S3093	1	coding
+S3096	mat	S3096	1	coding
+S3097	mat	S3097	1	coding
+S3102	mat	S3102	1	coding
+S3103	mat	S3103	1	coding
+S3104	mat	S3104	1	coding
+S3105	mat	S3105	1	coding
+S3107	mat	S3107	1	coding
+S3110	mat	S3110	1	coding
+S3113	mat	S3113	1	coding
+S3114	mat	S3114	1	coding
+S3116	mat	S3116	1	coding
+S3121	mat	S3121	1	coding
+S3123	mat	S3123	1	coding
+S3124	mat	S3124	1	coding
+S3130	mat	S3130	1	coding
+S3133	mat	S3133	1	coding
+S3134	mat	S3134	1	coding
+S3138	mat	S3138	1	coding
+S3142	mat	S3142	1	coding
+S3143	mat	S3143	1	coding
+S3145	mat	S3145	1	coding
+S3147	mat	S3147	1	coding
+S3148	mat	S3148	1	coding
+S3150	mat	S3150	1	coding
+S3152	mat	S3152	1	coding
+S3158	mat	S3158	1	coding
+S3159	mat	S3159	1	coding
+S3161	mat	S3161	1	coding
+S3164	mat	S3164	1	coding
+S3166	mat	S3166	1	coding
+S3169	mat	S3169	1	coding
+S3170	mat	S3170	1	coding
+S3171	mat	S3171	1	coding
+S3180	mat	S3180	1	coding
+S3185	mat	S3185	1	coding
+S3188	mat	S3188	1	coding
+S3189	mat	S3189	1	coding
+S3191	mat	S3191	1	coding
+S3192	mat	S3192	1	coding
+S3197	mat	S3197	1	coding
+S3199	mat	S3199	1	coding
+S3202	mat	S3202	1	coding
+S3205	mat	S3205	1	coding
+S3207	mat	S3207	1	coding
+S3208	mat	S3208	1	coding
+S3209	mat	S3209	1	coding
+S3215	mat	S3215	1	coding
+S3217	mat	S3217	1	coding
+S3220	mat	S3220	1	coding
+S3221	mat	S3221	1	coding
+S3222	mat	S3222	1	coding
+S3223	mat	S3223	1	coding
+S3229	mat	S3229	1	coding
+S3230	mat	S3230	1	coding
+S3231	mat	S3231	1	coding
+S3232	mat	S3232	1	coding
+S3236	mat	S3236	1	coding
+S3237	mat	S3237	1	coding
+S3241	mat	S3241	1	coding
+S3245	mat	S3245	1	coding
+S3248	mat	S3248	1	coding
+S3249	mat	S3249	1	coding
+S3251	mat	S3251	1	coding
+S3255	mat	S3255	1	coding
+S3257	mat	S3257	1	coding
+S3260	mat	S3260	1	coding
+S3264	mat	S3264	1	coding
+S3265	mat	S3265	1	coding
+S3267	mat	S3267	1	coding
+S3271	mat	S3271	1	coding
+S3276	mat	S3276	1	coding
+S3280	mat	S3280	1	coding
+S3283	mat	S3283	1	coding
+S3286	mat	S3286	1	coding
+S3291	mat	S3291	1	coding
+S3292	mat	S3292	1	coding
+S3298	mat	S3298	1	coding
+S3303	mat	S3303	1	coding
+S3304	mat	S3304	1	coding
+S3305	mat	S3305	1	coding
+S3309	mat	S3309	1	coding
+S3311	mat	S3311	1	coding
+S3317	mat	S3317	1	coding
+S3322	mat	S3322	1	coding
+S3323	mat	S3323	1	coding
+S3327	mat	S3327	1	coding
+S3328	mat	S3328	1	coding
+S3329	mat	S3329	1	coding
+S3331	mat	S3331	1	coding
+S3332	mat	S3332	1	coding
+S3333	mat	S3333	1	coding
+S3340	mat	S3340	1	coding
+S3343	mat	S3343	1	coding
+S3346	mat	S3346	1	coding
+S3349	mat	S3349	1	coding
+S3351	mat	S3351	1	coding
+S3352	mat	S3352	1	coding
+S3380	mat	S3380	1	coding
+S3382	mat	S3382	1	coding
+S3386	mat	S3386	1	coding
+S3387	mat	S3387	1	coding
+S3388	mat	S3388	1	coding
+S3393	mat	S3393	1	coding
+S3399	mat	S3399	1	coding
+S3408	mat	S3408	1	coding
+S3410	mat	S3410	1	coding
+S3415	mat	S3415	1	coding
+S3418	mat	S3418	1	coding
+S3425	mat	S3425	1	coding
+S3428	mat	S3428	1	coding
+S3432	mat	S3432	1	coding
+S3433	mat	S3433	1	coding
+S3434	mat	S3434	1	coding
+S3437	mat	S3437	1	coding
+S3439	mat	S3439	1	coding
+S3445	mat	S3445	1	coding
+S3447	mat	S3447	1	coding
+S3448	mat	S3448	1	coding
+S3451	mat	S3451	1	coding
+S3454	mat	S3454	1	coding
+S3457	mat	S3457	1	coding
+S3459	mat	S3459	1	coding
+S3462	mat	S3462	1	coding
+S3463	mat	S3463	1	coding
+S3467	mat	S3467	1	coding
+S3476	mat	S3476	1	coding
+S3479	mat	S3479	1	coding
+S3480	mat	S3480	1	coding
+S3483	mat	S3483	1	coding
+S3484	mat	S3484	1	coding
+S3488	mat	S3488	1	coding
+S3489	mat	S3489	1	coding
+S3490	mat	S3490	1	coding
+S3491	mat	S3491	1	coding
+S3492	mat	S3492	1	coding
+S3494	mat	S3494	1	coding
+S3497	mat	S3497	1	coding
+S3498	mat	S3498	1	coding
+S3502	mat	S3502	1	coding
+S3514	mat	S3514	1	coding
+S3517	mat	S3517	1	coding
+S3523	mat	S3523	1	coding
+S3527	mat	S3527	1	coding
+S3528	mat	S3528	1	coding
+S3534	mat	S3534	1	coding
+S3536	mat	S3536	1	coding
+S3538	mat	S3538	1	coding
+S3544	mat	S3544	1	coding
+S3548	mat	S3548	1	coding
+S3554	mat	S3554	1	coding
+S3556	mat	S3556	1	coding
+S3557	mat	S3557	1	coding
+S3558	mat	S3558	1	coding
+S3561	mat	S3561	1	coding
+S3568	mat	S3568	1	coding
+S3570	mat	S3570	1	coding
+S3571	mat	S3571	1	coding
+S3573	mat	S3573	1	coding
+S3580	mat	S3580	1	coding
+S3582	mat	S3582	1	coding
+S3588	mat	S3588	1	coding
+S3592	mat	S3592	1	coding
+S3596	mat	S3596	1	coding
+S3600	mat	S3600	1	coding
+S3605	mat	S3605	1	coding
+S3607	mat	S3607	1	coding
+S3610	mat	S3610	1	coding
+S3612	mat	S3612	1	coding
+S3613	mat	S3613	1	coding
+S3615	mat	S3615	1	coding
+S3619	mat	S3619	1	coding
+S3623	mat	S3623	1	coding
+S3624	mat	S3624	1	coding
+S3625	mat	S3625	1	coding
+S3630	mat	S3630	1	coding
+S3631	mat	S3631	1	coding
+S3634	mat	S3634	1	coding
+S3637	mat	S3637	1	coding
+S3644	mat	S3644	1	coding
+S3650	mat	S3650	1	coding
+S3652	mat	S3652	1	coding
+S3663	mat	S3663	1	coding
+S3664	mat	S3664	1	coding
+S3666	mat	S3666	1	coding
+S3669	mat	S3669	1	coding
+S3670	mat	S3670	1	coding
+S3673	mat	S3673	1	coding
+S3674	mat	S3674	1	coding
+S3675	mat	S3675	1	coding
+S3678	mat	S3678	1	coding
+S3679	mat	S3679	1	coding
+S3680	mat	S3680	1	coding
+S3683	mat	S3683	1	coding
+S3684	mat	S3684	1	coding
+S3687	mat	S3687	1	coding
+S3688	mat	S3688	1	coding
+S3689	mat	S3689	1	coding
+S3696	mat	S3696	1	coding
+S3701	mat	S3701	1	coding
+S3702	mat	S3702	1	coding
+S3708	mat	S3708	1	coding
+S3711	mat	S3711	1	coding
+S3712	mat	S3712	1	coding
+S3713	mat	S3713	1	coding
+S3714	mat	S3714	1	coding
+S3716	mat	S3716	1	coding
+S3722	mat	S3722	1	coding
+S3724	mat	S3724	1	coding
+S3725	mat	S3725	1	coding
+S3726	mat	S3726	1	coding
+S3728	mat	S3728	1	coding
+S3729	mat	S3729	1	coding
+S3735	mat	S3735	1	coding
+S3736	mat	S3736	1	coding
+S3738	mat	S3738	1	coding
+S3739	mat	S3739	1	coding
+S3743	mat	S3743	1	coding
+S3746	mat	S3746	1	coding
+S3750	mat	S3750	1	coding
+S3754	mat	S3754	1	coding
+S3756	mat	S3756	1	coding
+S3758	mat	S3758	1	coding
+S3759	mat	S3759	1	coding
+S3760	mat	S3760	1	coding
+S3763	mat	S3763	1	coding
+S3764	mat	S3764	1	coding
+S3766	mat	S3766	1	coding
+S3767	mat	S3767	1	coding
+S3769	mat	S3769	1	coding
+S3770	mat	S3770	1	coding
+S3773	mat	S3773	1	coding
+S3774	mat	S3774	1	coding
+S3776	mat	S3776	1	coding
+S3790	mat	S3790	1	coding
+S3791	mat	S3791	1	coding
+S3792	mat	S3792	1	coding
+S3797	mat	S3797	1	coding
+S3804	mat	S3804	1	coding
+S3806	mat	S3806	1	coding
+S3809	mat	S3809	1	coding
+S3814	mat	S3814	1	coding
+S3817	mat	S3817	1	coding
+S3818	mat	S3818	1	coding
+S3821	mat	S3821	1	coding
+S3825	mat	S3825	1	coding
+S3831	mat	S3831	1	coding
+S3838	mat	S3838	1	coding
+S3841	mat	S3841	1	coding
+S3843	mat	S3843	1	coding
+S3845	mat	S3845	1	coding
+S3849	mat	S3849	1	coding
+S3860	mat	S3860	1	coding
+S3865	mat	S3865	1	coding
+S3868	mat	S3868	1	coding
+S3872	mat	S3872	1	coding
+S3876	mat	S3876	1	coding
+S3881	mat	S3881	1	coding
+S3882	mat	S3882	1	coding
+S3883	mat	S3883	1	coding
+S3900	mat	S3900	1	coding
+S3903	mat	S3903	1	coding
+S3909	mat	S3909	1	coding
+S3910	mat	S3910	1	coding
+S3920	mat	S3920	1	coding
+S3924	mat	S3924	1	coding
+S3925	mat	S3925	1	coding
+S3930	mat	S3930	1	coding
+S3933	mat	S3933	1	coding
+S3935	mat	S3935	1	coding
+S3936	mat	S3936	1	coding
+S3937	mat	S3937	1	coding
+S3946	mat	S3946	1	coding
+S3947	mat	S3947	1	coding
+S3952	mat	S3952	1	coding
+S3953	mat	S3953	1	coding
+S3956	mat	S3956	1	coding
+S3957	mat	S3957	1	coding
+S3958	mat	S3958	1	coding
+S3961	mat	S3961	1	coding
+S3966	mat	S3966	1	coding
+S3968	mat	S3968	1	coding
+S3973	mat	S3973	1	coding
+S3976	mat	S3976	1	coding
+S3980	mat	S3980	1	coding
+S3986	mat	S3986	1	coding
+S3987	mat	S3987	1	coding
+S3989	mat	S3989	1	coding
+S3990	mat	S3990	1	coding
+S3993	mat	S3993	1	coding
+S3995	mat	S3995	1	coding
+S3996	mat	S3996	1	coding
+S4002	mat	S4002	1	coding
+S4003	mat	S4003	1	coding
+S4011	mat	S4011	1	coding
+S4012	mat	S4012	1	coding
+S4014	mat	S4014	1	coding
+S4017	mat	S4017	1	coding
+S4020	mat	S4020	1	coding
+S4022	mat	S4022	1	coding
+S4023	mat	S4023	1	coding
+S4025	mat	S4025	1	coding
+S4026	mat	S4026	1	coding
+S4034	mat	S4034	1	coding
+S4037	mat	S4037	1	coding
+S4038	mat	S4038	1	coding
+S4042	mat	S4042	1	coding
+S4051	mat	S4051	1	coding
+S4053	mat	S4053	1	coding
+S4056	mat	S4056	1	coding
+S4058	mat	S4058	1	coding
+S4066	mat	S4066	1	coding
+S4067	mat	S4067	1	coding
+S4070	mat	S4070	1	coding
+S4071	mat	S4071	1	coding
+S4073	mat	S4073	1	coding
+S4080	mat	S4080	1	coding
+S4088	mat	S4088	1	coding
+S4089	mat	S4089	1	coding
+S4091	mat	S4091	1	coding
+S4092	mat	S4092	1	coding
+S4095	mat	S4095	1	coding
+S4099	mat	S4099	1	coding
+S4101	mat	S4101	1	coding
+S4103	mat	S4103	1	coding
+S4112	mat	S4112	1	coding
+S4113	mat	S4113	1	coding
+S4120	mat	S4120	1	coding
+S4121	mat	S4121	1	coding
+S4122	mat	S4122	1	coding
+S4123	mat	S4123	1	coding
+S4124	mat	S4124	1	coding
+S4128	mat	S4128	1	coding
+S4129	mat	S4129	1	coding
+S4130	mat	S4130	1	coding
+S4133	mat	S4133	1	coding
+S4139	mat	S4139	1	coding
+S4141	mat	S4141	1	coding
+S4145	mat	S4145	1	coding
+S4147	mat	S4147	1	coding
+S4154	mat	S4154	1	coding
+S4160	mat	S4160	1	coding
+S4162	mat	S4162	1	coding
+S4165	mat	S4165	1	coding
+S4167	mat	S4167	1	coding
+S4168	mat	S4168	1	coding
+S4169	mat	S4169	1	coding
+S4175	mat	S4175	1	coding
+S4187	mat	S4187	1	coding
+S4194	mat	S4194	1	coding
+S4195	mat	S4195	1	coding
+S4202	mat	S4202	1	coding
+S4203	mat	S4203	1	coding
+S4204	mat	S4204	1	coding
+S4205	mat	S4205	1	coding
+S4207	mat	S4207	1	coding
+S4209	mat	S4209	1	coding
+S4211	mat	S4211	1	coding
+S4215	mat	S4215	1	coding
+S4220	mat	S4220	1	coding
+S4224	mat	S4224	1	coding
+S4227	mat	S4227	1	coding
+S4235	mat	S4235	1	coding
+S4238	mat	S4238	1	coding
+S4241	mat	S4241	1	coding
+S4247	mat	S4247	1	coding
+S4248	mat	S4248	1	coding
+S4253	mat	S4253	1	coding
+S4254	mat	S4254	1	coding
+S4256	mat	S4256	1	coding
+S4258	mat	S4258	1	coding
+S4260	mat	S4260	1	coding
+S4263	mat	S4263	1	coding
+S4264	mat	S4264	1	coding
+S4265	mat	S4265	1	coding
+S4267	mat	S4267	1	coding
+S4270	mat	S4270	1	coding
+S4271	mat	S4271	1	coding
+S4273	mat	S4273	1	coding
+S4275	mat	S4275	1	coding
+S4276	mat	S4276	1	coding
+S4279	mat	S4279	1	coding
+S4280	mat	S4280	1	coding
+S4282	mat	S4282	1	coding
+S4284	mat	S4284	1	coding
+S4286	mat	S4286	1	coding
+S4287	mat	S4287	1	coding
+S4288	mat	S4288	1	coding
+S4289	mat	S4289	1	coding
+S4292	mat	S4292	1	coding
+S4295	mat	S4295	1	coding
+S4307	mat	S4307	1	coding
+S4308	mat	S4308	1	coding
+S4310	mat	S4310	1	coding
+S4316	mat	S4316	1	coding
+S4318	mat	S4318	1	coding
+S4323	mat	S4323	1	coding
+S4326	mat	S4326	1	coding
+S4328	mat	S4328	1	coding
+S4329	mat	S4329	1	coding
+S4332	mat	S4332	1	coding
+S4333	mat	S4333	1	coding
+S4344	mat	S4344	1	coding
+S4346	mat	S4346	1	coding
+S4348	mat	S4348	1	coding
+S4351	mat	S4351	1	coding
+S4360	mat	S4360	1	coding
+S4361	mat	S4361	1	coding
+S4363	mat	S4363	1	coding
+S4366	mat	S4366	1	coding
+S4376	mat	S4376	1	coding
+S4385	mat	S4385	1	coding
+S4387	mat	S4387	1	coding
+S4388	mat	S4388	1	coding
+S4391	mat	S4391	1	coding
+S4392	mat	S4392	1	coding
+S4393	mat	S4393	1	coding
+S4396	mat	S4396	1	coding
+S4399	mat	S4399	1	coding
+S4406	mat	S4406	1	coding
+S4407	mat	S4407	1	coding
+S4412	mat	S4412	1	coding
+S4414	mat	S4414	1	coding
+S4415	mat	S4415	1	coding
+S4418	mat	S4418	1	coding
+S4419	mat	S4419	1	coding
+S4433	mat	S4433	1	coding
+S4438	mat	S4438	1	coding
+S4441	mat	S4441	1	coding
+S4443	mat	S4443	1	coding
+S4445	mat	S4445	1	coding
+S4446	mat	S4446	1	coding
+S4450	mat	S4450	1	coding
+S4457	mat	S4457	1	coding
+S4459	mat	S4459	1	coding
+S4460	mat	S4460	1	coding
+S4462	mat	S4462	1	coding
+S4466	mat	S4466	1	coding
+S4467	mat	S4467	1	coding
+S4469	mat	S4469	1	coding
+S4474	mat	S4474	1	coding
+S4479	mat	S4479	1	coding
+S4483	mat	S4483	1	coding
+S4484	mat	S4484	1	coding
+S4485	mat	S4485	1	coding
+S4490	mat	S4490	1	coding
+S4495	mat	S4495	1	coding
+S4497	mat	S4497	1	coding
+S4510	mat	S4510	1	coding
+S4512	mat	S4512	1	coding
+S4520	mat	S4520	1	coding
+S4521	mat	S4521	1	coding
+S4522	mat	S4522	1	coding
+S4527	mat	S4527	1	coding
+S4530	mat	S4530	1	coding
+S4531	mat	S4531	1	coding
+S4535	mat	S4535	1	coding
+S4537	mat	S4537	1	coding
+S4545	mat	S4545	1	coding
+S4549	mat	S4549	1	coding
+S4556	mat	S4556	1	coding
+S4557	mat	S4557	1	coding
+S4559	mat	S4559	1	coding
+S4566	mat	S4566	1	coding
+S4568	mat	S4568	1	coding
+S4572	mat	S4572	1	coding
+S4574	mat	S4574	1	coding
+S4576	mat	S4576	1	coding
+S4583	mat	S4583	1	coding
+S4591	mat	S4591	1	coding
+S4593	mat	S4593	1	coding
+S4599	mat	S4599	1	coding
+S4601	mat	S4601	1	coding
+S4607	mat	S4607	1	coding
+S4608	mat	S4608	1	coding
+S4616	mat	S4616	1	coding
+S4618	mat	S4618	1	coding
+S4621	mat	S4621	1	coding
+S4623	mat	S4623	1	coding
+S4625	mat	S4625	1	coding
+S4627	mat	S4627	1	coding
+S4631	mat	S4631	1	coding
+S4633	mat	S4633	1	coding
+S4634	mat	S4634	1	coding
+S4635	mat	S4635	1	coding
+S4645	mat	S4645	1	coding
+S4652	mat	S4652	1	coding
+S4655	mat	S4655	1	coding
+S4658	mat	S4658	1	coding
+S4660	mat	S4660	1	coding
+S4661	mat	S4661	1	coding
+S4663	mat	S4663	1	coding
+S4664	mat	S4664	1	coding
+S4666	mat	S4666	1	coding
+S4671	mat	S4671	1	coding
+S4679	mat	S4679	1	coding
+S4683	mat	S4683	1	coding
+S4685	mat	S4685	1	coding
+S4689	mat	S4689	1	coding
+S4690	mat	S4690	1	coding
+S4692	mat	S4692	1	coding
+S4695	mat	S4695	1	coding
+S4696	mat	S4696	1	coding
+S4697	mat	S4697	1	coding
+S4698	mat	S4698	1	coding
+S4699	mat	S4699	1	coding
+S4702	mat	S4702	1	coding
+S4705	mat	S4705	1	coding
+S4711	mat	S4711	1	coding
+S4713	mat	S4713	1	coding
+S4715	mat	S4715	1	coding
+S4716	mat	S4716	1	coding
+S4718	mat	S4718	1	coding
+S4721	mat	S4721	1	coding
+S4724	mat	S4724	1	coding
+S4727	mat	S4727	1	coding
+S4728	mat	S4728	1	coding
+S4732	mat	S4732	1	coding
+S4733	mat	S4733	1	coding
+S4735	mat	S4735	1	coding
+S4738	mat	S4738	1	coding
+S4739	mat	S4739	1	coding
+S4742	mat	S4742	1	coding
+S4743	mat	S4743	1	coding
+S4744	mat	S4744	1	coding
+S4747	mat	S4747	1	coding
+S4761	mat	S4761	1	coding
+S4773	mat	S4773	1	coding
+S4776	mat	S4776	1	coding
+S4780	mat	S4780	1	coding
+S4782	mat	S4782	1	coding
+S4784	mat	S4784	1	coding
+S4795	mat	S4795	1	coding
+S4796	mat	S4796	1	coding
+S4799	mat	S4799	1	coding
+S4803	mat	S4803	1	coding
+S4805	mat	S4805	1	coding
+S4807	mat	S4807	1	coding
+S4809	mat	S4809	1	coding
+S4810	mat	S4810	1	coding
+S4813	mat	S4813	1	coding
+S4817	mat	S4817	1	coding
+S4818	mat	S4818	1	coding
+S4821	mat	S4821	1	coding
+S4823	mat	S4823	1	coding
+S4836	mat	S4836	1	coding
+S4840	mat	S4840	1	coding
+S4846	mat	S4846	1	coding
+S4849	mat	S4849	1	coding
+S4853	mat	S4853	1	coding
+S4859	mat	S4859	1	coding
+S4865	mat	S4865	1	coding
+S4870	mat	S4870	1	coding
+S4872	mat	S4872	1	coding
+S4873	mat	S4873	1	coding
+S4874	mat	S4874	1	coding
+S4875	mat	S4875	1	coding
+S4876	mat	S4876	1	coding
+S4877	mat	S4877	1	coding
+S4880	mat	S4880	1	coding
+S4882	mat	S4882	1	coding
+S4885	mat	S4885	1	coding
+S4889	mat	S4889	1	coding
+S4895	mat	S4895	1	coding
+S4896	mat	S4896	1	coding
+S4897	mat	S4897	1	coding
+S4898	mat	S4898	1	coding
+S4902	mat	S4902	1	coding
+S4903	mat	S4903	1	coding
+S4912	mat	S4912	1	coding
+S4914	mat	S4914	1	coding
+S4917	mat	S4917	1	coding
+S4922	mat	S4922	1	coding
+S4925	mat	S4925	1	coding
+S4929	mat	S4929	1	coding
+S4934	mat	S4934	1	coding
+S4936	mat	S4936	1	coding
+S4938	mat	S4938	1	coding
+S4940	mat	S4940	1	coding
+S4942	mat	S4942	1	coding
+S4947	mat	S4947	1	coding
+S4949	mat	S4949	1	coding
+S4950	mat	S4950	1	coding
+S4952	mat	S4952	1	coding
+S4953	mat	S4953	1	coding
+S4956	mat	S4956	1	coding
+S4961	mat	S4961	1	coding
+S4973	mat	S4973	1	coding
+S4978	mat	S4978	1	coding
+S4987	mat	S4987	1	coding
+S4989	mat	S4989	1	coding
+S4990	mat	S4990	1	coding
+S4998	mat	S4998	1	coding
+S4999	mat	S4999	1	coding
+S5001	mat	S5001	1	coding
+S5003	mat	S5003	1	coding
+S5005	mat	S5005	1	coding
+S5006	mat	S5006	1	coding
+S5008	mat	S5008	1	coding
+S5009	mat	S5009	1	coding
+S5011	mat	S5011	1	coding
+S5012	mat	S5012	1	coding
+S5014	mat	S5014	1	coding
+S5016	mat	S5016	1	coding
+S5021	mat	S5021	1	coding
+S5022	mat	S5022	1	coding
+S5026	mat	S5026	1	coding
+S5034	mat	S5034	1	coding
+S5037	mat	S5037	1	coding
+S5042	mat	S5042	1	coding
+S5044	mat	S5044	1	coding
+S5046	mat	S5046	1	coding
+S5052	mat	S5052	1	coding
+S5054	mat	S5054	1	coding
+S5055	mat	S5055	1	coding
+S5057	mat	S5057	1	coding
+S5059	mat	S5059	1	coding
+S5062	mat	S5062	1	coding
+S5067	mat	S5067	1	coding
+S5068	mat	S5068	1	coding
+S5069	mat	S5069	1	coding
+S5074	mat	S5074	1	coding
+S5078	mat	S5078	1	coding
+S5082	mat	S5082	1	coding
+S5096	mat	S5096	1	coding
+S5104	mat	S5104	1	coding
+S5105	mat	S5105	1	coding
+S5108	mat	S5108	1	coding
+S5116	mat	S5116	1	coding
+S5120	mat	S5120	1	coding
+S5124	mat	S5124	1	coding
+S5125	mat	S5125	1	coding
+S5127	mat	S5127	1	coding
+S5143	mat	S5143	1	coding
+S5145	mat	S5145	1	coding
+S5149	mat	S5149	1	coding
+S5153	mat	S5153	1	coding
+S5155	mat	S5155	1	coding
+S5156	mat	S5156	1	coding
+S5161	mat	S5161	1	coding
+S5162	mat	S5162	1	coding
+S5168	mat	S5168	1	coding
+S5171	mat	S5171	1	coding
+S5172	mat	S5172	1	coding
+S5176	mat	S5176	1	coding
+S5184	mat	S5184	1	coding
+S5190	mat	S5190	1	coding
+S5192	mat	S5192	1	coding
+S5195	mat	S5195	1	coding
+S5196	mat	S5196	1	coding
+S5204	mat	S5204	1	coding
+S5207	mat	S5207	1	coding
+S5208	mat	S5208	1	coding
+S5209	mat	S5209	1	coding
+S5213	mat	S5213	1	coding
+S5219	mat	S5219	1	coding
+S5221	mat	S5221	1	coding
+S5223	mat	S5223	1	coding
+S5225	mat	S5225	1	coding
+S5226	mat	S5226	1	coding
+S5227	mat	S5227	1	coding
+S5228	mat	S5228	1	coding
+S5229	mat	S5229	1	coding
+S5242	mat	S5242	1	coding
+S5243	mat	S5243	1	coding
+S5245	mat	S5245	1	coding
+S5249	mat	S5249	1	coding
+S5253	mat	S5253	1	coding
+S5261	mat	S5261	1	coding
+S5264	mat	S5264	1	coding
+S5265	mat	S5265	1	coding
+S5266	mat	S5266	1	coding
+S5267	mat	S5267	1	coding
+S5268	mat	S5268	1	coding
+S5270	mat	S5270	1	coding
+S5276	mat	S5276	1	coding
+S5278	mat	S5278	1	coding
+S5279	mat	S5279	1	coding
+S5280	mat	S5280	1	coding
+S5281	mat	S5281	1	coding
+S5282	mat	S5282	1	coding
+S5283	mat	S5283	1	coding
+S5284	mat	S5284	1	coding
+S5285	mat	S5285	1	coding
+S5293	mat	S5293	1	coding
+S5296	mat	S5296	1	coding
+S5304	mat	S5304	1	coding
+S5305	mat	S5305	1	coding
+S5308	mat	S5308	1	coding
+S5309	mat	S5309	1	coding
+S5313	mat	S5313	1	coding
+S5318	mat	S5318	1	coding
+S5319	mat	S5319	1	coding
+S5321	mat	S5321	1	coding
+S5323	mat	S5323	1	coding
+S5327	mat	S5327	1	coding
+S5338	mat	S5338	1	coding
+S5341	mat	S5341	1	coding
+S5344	mat	S5344	1	coding
+S5347	mat	S5347	1	coding
+S5349	mat	S5349	1	coding
+S5357	mat	S5357	1	coding
+S5360	mat	S5360	1	coding
+S5364	mat	S5364	1	coding
+S5365	mat	S5365	1	coding
+S5366	mat	S5366	1	coding
+S5367	mat	S5367	1	coding
+S5368	mat	S5368	1	coding
+S5371	mat	S5371	1	coding
+S5373	mat	S5373	1	coding
+S5377	mat	S5377	1	coding
+S5380	mat	S5380	1	coding
+S5383	mat	S5383	1	coding
+S5389	mat	S5389	1	coding
+S5390	mat	S5390	1	coding
+S5393	mat	S5393	1	coding
+S5400	mat	S5400	1	coding
+S5401	mat	S5401	1	coding
+S5403	mat	S5403	1	coding
+S5407	mat	S5407	1	coding
+S5410	mat	S5410	1	coding
+S5411	mat	S5411	1	coding
+S5415	mat	S5415	1	coding
+S5419	mat	S5419	1	coding
+S5421	mat	S5421	1	coding
+S5427	mat	S5427	1	coding
+S5433	mat	S5433	1	coding
+S5435	mat	S5435	1	coding
+S5436	mat	S5436	1	coding
+S5439	mat	S5439	1	coding
+S5442	mat	S5442	1	coding
+S5444	mat	S5444	1	coding
+S5451	mat	S5451	1	coding
+S5452	mat	S5452	1	coding
+S5453	mat	S5453	1	coding
+S5457	mat	S5457	1	coding
+S5458	mat	S5458	1	coding
+S5462	mat	S5462	1	coding
+S5466	mat	S5466	1	coding
+S5473	mat	S5473	1	coding
+S5487	mat	S5487	1	coding
+S5496	mat	S5496	1	coding
+S5503	mat	S5503	1	coding
+S5504	mat	S5504	1	coding
+S5507	mat	S5507	1	coding
+S5508	mat	S5508	1	coding
+S5512	mat	S5512	1	coding
+S5515	mat	S5515	1	coding
+S5520	mat	S5520	1	coding
+S5523	mat	S5523	1	coding
+S5524	mat	S5524	1	coding
+S5526	mat	S5526	1	coding
+S5528	mat	S5528	1	coding
+S5537	mat	S5537	1	coding
+S5538	mat	S5538	1	coding
+S5541	mat	S5541	1	coding
+S5542	mat	S5542	1	coding
+S5544	mat	S5544	1	coding
+S5547	mat	S5547	1	coding
+S5548	mat	S5548	1	coding
+S5550	mat	S5550	1	coding
+S5555	mat	S5555	1	coding
+S5569	mat	S5569	1	coding
+S5571	mat	S5571	1	coding
+S5576	mat	S5576	1	coding
+S5582	mat	S5582	1	coding
+S5586	mat	S5586	1	coding
+S5587	mat	S5587	1	coding
+S5588	mat	S5588	1	coding
+S5597	mat	S5597	1	coding
+S5599	mat	S5599	1	coding
+S5602	mat	S5602	1	coding
+S5611	mat	S5611	1	coding
+S5614	mat	S5614	1	coding
+S5622	mat	S5622	1	coding
+S5624	mat	S5624	1	coding
+S5626	mat	S5626	1	coding
+S5627	mat	S5627	1	coding
+S5630	mat	S5630	1	coding
+S5631	mat	S5631	1	coding
+S5633	mat	S5633	1	coding
+S5646	mat	S5646	1	coding
+S5648	mat	S5648	1	coding
+S5649	mat	S5649	1	coding
+S5651	mat	S5651	1	coding
+S5654	mat	S5654	1	coding
+S5656	mat	S5656	1	coding
+S5659	mat	S5659	1	coding
+S5661	mat	S5661	1	coding
+S5665	mat	S5665	1	coding
+S5670	mat	S5670	1	coding
+S5673	mat	S5673	1	coding
+S5674	mat	S5674	1	coding
+S5677	mat	S5677	1	coding
+S5679	mat	S5679	1	coding
+S5680	mat	S5680	1	coding
+S5684	mat	S5684	1	coding
+S5689	mat	S5689	1	coding
+S5690	mat	S5690	1	coding
+S5692	mat	S5692	1	coding
+S5694	mat	S5694	1	coding
+S5702	mat	S5702	1	coding
+S5704	mat	S5704	1	coding
+S5707	mat	S5707	1	coding
+S5711	mat	S5711	1	coding
+S5713	mat	S5713	1	coding
+S5714	mat	S5714	1	coding
+S5715	mat	S5715	1	coding
+S5717	mat	S5717	1	coding
+S5720	mat	S5720	1	coding
+S5726	mat	S5726	1	coding
+S5728	mat	S5728	1	coding
+S5733	mat	S5733	1	coding
+S5734	mat	S5734	1	coding
+S5735	mat	S5735	1	coding
+S5736	mat	S5736	1	coding
+S5744	mat	S5744	1	coding
+S5745	mat	S5745	1	coding
+S5748	mat	S5748	1	coding
+S5750	mat	S5750	1	coding
+S5755	mat	S5755	1	coding
+S5759	mat	S5759	1	coding
+S5764	mat	S5764	1	coding
+S5766	mat	S5766	1	coding
+S5768	mat	S5768	1	coding
+S5769	mat	S5769	1	coding
+S5774	mat	S5774	1	coding
+S5775	mat	S5775	1	coding
+S5779	mat	S5779	1	coding
+S5781	mat	S5781	1	coding
+S5783	mat	S5783	1	coding
+S5785	mat	S5785	1	coding
+S5795	mat	S5795	1	coding
+S5796	mat	S5796	1	coding
+S5799	mat	S5799	1	coding
+S5802	mat	S5802	1	coding
+S5803	mat	S5803	1	coding
+S5805	mat	S5805	1	coding
+S5808	mat	S5808	1	coding
+S5809	mat	S5809	1	coding
+S5810	mat	S5810	1	coding
+S5811	mat	S5811	1	coding
+S5816	mat	S5816	1	coding
+S5819	mat	S5819	1	coding
+S5821	mat	S5821	1	coding
+S5823	mat	S5823	1	coding
+S5824	mat	S5824	1	coding
+S5827	mat	S5827	1	coding
+S5832	mat	S5832	1	coding
+S5836	mat	S5836	1	coding
+S5837	mat	S5837	1	coding
+S5838	mat	S5838	1	coding
+S5840	mat	S5840	1	coding
+S5847	mat	S5847	1	coding
+S5849	mat	S5849	1	coding
+S5850	mat	S5850	1	coding
+S5861	mat	S5861	1	coding
+S5862	mat	S5862	1	coding
+S5865	mat	S5865	1	coding
+S5866	mat	S5866	1	coding
+S5870	mat	S5870	1	coding
+S5872	mat	S5872	1	coding
+S5873	mat	S5873	1	coding
+S5874	mat	S5874	1	coding
+S5875	mat	S5875	1	coding
+S5876	mat	S5876	1	coding
+S5881	mat	S5881	1	coding
+S5883	mat	S5883	1	coding
+S5886	mat	S5886	1	coding
+S5887	mat	S5887	1	coding
+S5890	mat	S5890	1	coding
+S5898	mat	S5898	1	coding
+S5902	mat	S5902	1	coding
+S5903	mat	S5903	1	coding
+S5905	mat	S5905	1	coding
+S5906	mat	S5906	1	coding
+S5912	mat	S5912	1	coding
+S5913	mat	S5913	1	coding
+S5916	mat	S5916	1	coding
+S5917	mat	S5917	1	coding
+S5924	mat	S5924	1	coding
+S5925	mat	S5925	1	coding
+S5931	mat	S5931	1	coding
+S5941	mat	S5941	1	coding
+S5943	mat	S5943	1	coding
+S5950	mat	S5950	1	coding
+S5961	mat	S5961	1	coding
+S5966	mat	S5966	1	coding
+S5970	mat	S5970	1	coding
+S5976	mat	S5976	1	coding
+S5979	mat	S5979	1	coding
+S5985	mat	S5985	1	coding
+S5993	mat	S5993	1	coding
+S5999	mat	S5999	1	coding
+S6000	mat	S6000	1	coding
+S6001	mat	S6001	1	coding
+S6006	mat	S6006	1	coding
+S6012	mat	S6012	1	coding
+S6015	mat	S6015	1	coding
+S6016	mat	S6016	1	coding
+S6022	mat	S6022	1	coding
+S6023	mat	S6023	1	coding
+S6030	mat	S6030	1	coding
+S6038	mat	S6038	1	coding
+S6040	mat	S6040	1	coding
+S6046	mat	S6046	1	coding
+S6051	mat	S6051	1	coding
+S6053	mat	S6053	1	coding
+S6054	mat	S6054	1	coding
+S6055	mat	S6055	1	coding
+S6059	mat	S6059	1	coding
+S6067	mat	S6067	1	coding
+S6070	mat	S6070	1	coding
+S6074	mat	S6074	1	coding
+S6075	mat	S6075	1	coding
+S6081	mat	S6081	1	coding
+S6082	mat	S6082	1	coding
+S6083	mat	S6083	1	coding
+S6085	mat	S6085	1	coding
+S6088	mat	S6088	1	coding
+S6089	mat	S6089	1	coding
+S6090	mat	S6090	1	coding
+S6091	mat	S6091	1	coding
+S6096	mat	S6096	1	coding
+S6101	mat	S6101	1	coding
+S6105	mat	S6105	1	coding
+S6107	mat	S6107	1	coding
+S6120	mat	S6120	1	coding
+S6122	mat	S6122	1	coding
+S6125	mat	S6125	1	coding
+S6128	mat	S6128	1	coding
+S6129	mat	S6129	1	coding
+S6132	mat	S6132	1	coding
+S6139	mat	S6139	1	coding
+S6141	mat	S6141	1	coding
+S6143	mat	S6143	1	coding
+S6146	mat	S6146	1	coding
+S6154	mat	S6154	1	coding
+S6155	mat	S6155	1	coding
+S6157	mat	S6157	1	coding
+S6158	mat	S6158	1	coding
+S6164	mat	S6164	1	coding
+S6166	mat	S6166	1	coding
+S6168	mat	S6168	1	coding
+S6171	mat	S6171	1	coding
+S6174	mat	S6174	1	coding
+S6177	mat	S6177	1	coding
+S6181	mat	S6181	1	coding
+S6186	mat	S6186	1	coding
+S6187	mat	S6187	1	coding
+S6191	mat	S6191	1	coding
+S6192	mat	S6192	1	coding
+S6193	mat	S6193	1	coding
+S6197	mat	S6197	1	coding
+S6198	mat	S6198	1	coding
+S6201	mat	S6201	1	coding
+S6202	mat	S6202	1	coding
+S6203	mat	S6203	1	coding
+S6212	mat	S6212	1	coding
+S6214	mat	S6214	1	coding
+S6217	mat	S6217	1	coding
+S6229	mat	S6229	1	coding
+S6237	mat	S6237	1	coding
+S6242	mat	S6242	1	coding
+S6248	mat	S6248	1	coding
+S6249	mat	S6249	1	coding
+S6250	mat	S6250	1	coding
+S6251	mat	S6251	1	coding
+S6254	mat	S6254	1	coding
+S6259	mat	S6259	1	coding
+S6261	mat	S6261	1	coding
+S6262	mat	S6262	1	coding
+S6263	mat	S6263	1	coding
+S6264	mat	S6264	1	coding
+S6269	mat	S6269	1	coding
+S6273	mat	S6273	1	coding
+S6274	mat	S6274	1	coding
+S6280	mat	S6280	1	coding
+S6282	mat	S6282	1	coding
+S6286	mat	S6286	1	coding
+S6287	mat	S6287	1	coding
+S6288	mat	S6288	1	coding
+S6297	mat	S6297	1	coding
+S6299	mat	S6299	1	coding
+S6301	mat	S6301	1	coding
+S6303	mat	S6303	1	coding
+S6308	mat	S6308	1	coding
+S6309	mat	S6309	1	coding
+S6314	mat	S6314	1	coding
+S6320	mat	S6320	1	coding
+S6321	mat	S6321	1	coding
+S6323	mat	S6323	1	coding
+S6326	mat	S6326	1	coding
+S6334	mat	S6334	1	coding
+S6335	mat	S6335	1	coding
+S6337	mat	S6337	1	coding
+S6342	mat	S6342	1	coding
+S6343	mat	S6343	1	coding
+S6345	mat	S6345	1	coding
+S6348	mat	S6348	1	coding
+S6349	mat	S6349	1	coding
+S6351	mat	S6351	1	coding
+S6353	mat	S6353	1	coding
+S6361	mat	S6361	1	coding
+S6366	mat	S6366	1	coding
+S6372	mat	S6372	1	coding
+S6373	mat	S6373	1	coding
+S6374	mat	S6374	1	coding
+S6377	mat	S6377	1	coding
+S6381	mat	S6381	1	coding
+S6384	mat	S6384	1	coding
+S6385	mat	S6385	1	coding
+S6386	mat	S6386	1	coding
+S6389	mat	S6389	1	coding
+S6397	mat	S6397	1	coding
+S6412	mat	S6412	1	coding
+S6413	mat	S6413	1	coding
+S6414	mat	S6414	1	coding
+S6419	mat	S6419	1	coding
+S6420	mat	S6420	1	coding
+S6422	mat	S6422	1	coding
+S6426	mat	S6426	1	coding
+S6432	mat	S6432	1	coding
+S6434	mat	S6434	1	coding
+S6438	mat	S6438	1	coding
+S6442	mat	S6442	1	coding
+S6443	mat	S6443	1	coding
+S6444	mat	S6444	1	coding
+S6447	mat	S6447	1	coding
+S6449	mat	S6449	1	coding
+S6458	mat	S6458	1	coding
+S6460	mat	S6460	1	coding
+S6462	mat	S6462	1	coding
+S6463	mat	S6463	1	coding
+S6466	mat	S6466	1	coding
+S6473	mat	S6473	1	coding
+S6474	mat	S6474	1	coding
+S6475	mat	S6475	1	coding
+S6484	mat	S6484	1	coding
+S6489	mat	S6489	1	coding
+S6490	mat	S6490	1	coding
+S6493	mat	S6493	1	coding
+S6498	mat	S6498	1	coding
+S6499	mat	S6499	1	coding
+S6500	mat	S6500	1	coding
+S6501	mat	S6501	1	coding
+S6504	mat	S6504	1	coding
+S6506	mat	S6506	1	coding
+S6511	mat	S6511	1	coding
+S6514	mat	S6514	1	coding
+S6516	mat	S6516	1	coding
+S6518	mat	S6518	1	coding
+S6519	mat	S6519	1	coding
+S6522	mat	S6522	1	coding
+S6527	mat	S6527	1	coding
+S6532	mat	S6532	1	coding
+S6533	mat	S6533	1	coding
+S6534	mat	S6534	1	coding
+S6535	mat	S6535	1	coding
+S6541	mat	S6541	1	coding
+S6546	mat	S6546	1	coding
+S6548	mat	S6548	1	coding
+S6549	mat	S6549	1	coding
+S6550	mat	S6550	1	coding
+S6553	mat	S6553	1	coding
+S6554	mat	S6554	1	coding
+S6557	mat	S6557	1	coding
+S6561	mat	S6561	1	coding
+S6565	mat	S6565	1	coding
+S6569	mat	S6569	1	coding
+S6571	mat	S6571	1	coding
+S6572	mat	S6572	1	coding
+S6574	mat	S6574	1	coding
+S6577	mat	S6577	1	coding
+S6578	mat	S6578	1	coding
+S6579	mat	S6579	1	coding
+S6581	mat	S6581	1	coding
+S6585	mat	S6585	1	coding
+S6587	mat	S6587	1	coding
+S6588	mat	S6588	1	coding
+S6589	mat	S6589	1	coding
+S6590	mat	S6590	1	coding
+S6591	mat	S6591	1	coding
+S6593	mat	S6593	1	coding
+S6605	mat	S6605	1	coding
+S6613	mat	S6613	1	coding
+S6617	mat	S6617	1	coding
+S6619	mat	S6619	1	coding
+S6626	mat	S6626	1	coding
+S6627	mat	S6627	1	coding
+S6632	mat	S6632	1	coding
+S6636	mat	S6636	1	coding
+S6638	mat	S6638	1	coding
+S6640	mat	S6640	1	coding
+S6641	mat	S6641	1	coding
+S6643	mat	S6643	1	coding
+S6645	mat	S6645	1	coding
+S6647	mat	S6647	1	coding
+S6649	mat	S6649	1	coding
+S6650	mat	S6650	1	coding
+S6652	mat	S6652	1	coding
+S6653	mat	S6653	1	coding
+S6656	mat	S6656	1	coding
+S6658	mat	S6658	1	coding
+S6660	mat	S6660	1	coding
+S6661	mat	S6661	1	coding
+S6663	mat	S6663	1	coding
+S6672	mat	S6672	1	coding
+S6676	mat	S6676	1	coding
+S6677	mat	S6677	1	coding
+S6680	mat	S6680	1	coding
+S6681	mat	S6681	1	coding
+S6683	mat	S6683	1	coding
+S6688	mat	S6688	1	coding
+S6689	mat	S6689	1	coding
+S6693	mat	S6693	1	coding
+S6695	mat	S6695	1	coding
+S6699	mat	S6699	1	coding
+S6701	mat	S6701	1	coding
+S6703	mat	S6703	1	coding
+S6704	mat	S6704	1	coding
+S6705	mat	S6705	1	coding
+S6711	mat	S6711	1	coding
+S6712	mat	S6712	1	coding
+S6713	mat	S6713	1	coding
+S6714	mat	S6714	1	coding
+S6715	mat	S6715	1	coding
+S6717	mat	S6717	1	coding
+S6720	mat	S6720	1	coding
+S6721	mat	S6721	1	coding
+S6722	mat	S6722	1	coding
+S6725	mat	S6725	1	coding
+S6727	mat	S6727	1	coding
+S6728	mat	S6728	1	coding
+S6734	mat	S6734	1	coding
+S6735	mat	S6735	1	coding
+S6738	mat	S6738	1	coding
+S6741	mat	S6741	1	coding
+S6757	mat	S6757	1	coding
+S6759	mat	S6759	1	coding
+S6765	mat	S6765	1	coding
+S6773	mat	S6773	1	coding
+S6779	mat	S6779	1	coding
+S6783	mat	S6783	1	coding
+S6787	mat	S6787	1	coding
+S6790	mat	S6790	1	coding
+S6803	mat	S6803	1	coding
+S6807	mat	S6807	1	coding
+S6813	mat	S6813	1	coding
+S6816	mat	S6816	1	coding
+S6817	mat	S6817	1	coding
+S6818	mat	S6818	1	coding
+S6819	mat	S6819	1	coding
+S6820	mat	S6820	1	coding
+S6821	mat	S6821	1	coding
+S6822	mat	S6822	1	coding
+S6823	mat	S6823	1	coding
+S6825	mat	S6825	1	coding
+S6828	mat	S6828	1	coding
+S6830	mat	S6830	1	coding
+S6832	mat	S6832	1	coding
+S6841	mat	S6841	1	coding
+S6842	mat	S6842	1	coding
+S6843	mat	S6843	1	coding
+S6845	mat	S6845	1	coding
+S6846	mat	S6846	1	coding
+S6849	mat	S6849	1	coding
+S6858	mat	S6858	1	coding
+S6859	mat	S6859	1	coding
+S6860	mat	S6860	1	coding
+S6865	mat	S6865	1	coding
+S6866	mat	S6866	1	coding
+S6870	mat	S6870	1	coding
+S6871	mat	S6871	1	coding
+S6873	mat	S6873	1	coding
+S6874	mat	S6874	1	coding
+S6875	mat	S6875	1	coding
+S6881	mat	S6881	1	coding
+S6882	mat	S6882	1	coding
+S6889	mat	S6889	1	coding
+S6893	mat	S6893	1	coding
+S6896	mat	S6896	1	coding
+S6898	mat	S6898	1	coding
+S6908	mat	S6908	1	coding
+S6912	mat	S6912	1	coding
+S6915	mat	S6915	1	coding
+S6918	mat	S6918	1	coding
+S6919	mat	S6919	1	coding
+S6922	mat	S6922	1	coding
+S6926	mat	S6926	1	coding
+S6929	mat	S6929	1	coding
+S6933	mat	S6933	1	coding
+S6934	mat	S6934	1	coding
+S6938	mat	S6938	1	coding
+S6939	mat	S6939	1	coding
+S6940	mat	S6940	1	coding
+S6943	mat	S6943	1	coding
+S6945	mat	S6945	1	coding
+S6955	mat	S6955	1	coding
+S6961	mat	S6961	1	coding
+S6964	mat	S6964	1	coding
+S6974	mat	S6974	1	coding
+S6975	mat	S6975	1	coding
+S6984	mat	S6984	1	coding
+S6985	mat	S6985	1	coding
+S6988	mat	S6988	1	coding
+S6989	mat	S6989	1	coding
+S6992	mat	S6992	1	coding
+S6994	mat	S6994	1	coding
+S6999	mat	S6999	1	coding
+S7004	mat	S7004	1	coding
+S7005	mat	S7005	1	coding
+S7011	mat	S7011	1	coding
+S7018	mat	S7018	1	coding
+S7019	mat	S7019	1	coding
+S7022	mat	S7022	1	coding
+S7033	mat	S7033	1	coding
+S7035	mat	S7035	1	coding
+S7037	mat	S7037	1	coding
+S7047	mat	S7047	1	coding
+S7049	mat	S7049	1	coding
+S7054	mat	S7054	1	coding
+S7057	mat	S7057	1	coding
+S7060	mat	S7060	1	coding
+S7065	mat	S7065	1	coding
+S7066	mat	S7066	1	coding
+S7067	mat	S7067	1	coding
+S7071	mat	S7071	1	coding
+S7072	mat	S7072	1	coding
+S7077	mat	S7077	1	coding
+S7081	mat	S7081	1	coding
+S7092	mat	S7092	1	coding
+S7098	mat	S7098	1	coding
+S7099	mat	S7099	1	coding
+S7102	mat	S7102	1	coding
+S7103	mat	S7103	1	coding
+S7106	mat	S7106	1	coding
+S7108	mat	S7108	1	coding
+S7109	mat	S7109	1	coding
+S7112	mat	S7112	1	coding
+S7113	mat	S7113	1	coding
+S7117	mat	S7117	1	coding
+S7120	mat	S7120	1	coding
+S7121	mat	S7121	1	coding
+S7128	mat	S7128	1	coding
+S7129	mat	S7129	1	coding
+S7130	mat	S7130	1	coding
+S7140	mat	S7140	1	coding
+S7142	mat	S7142	1	coding
+S7143	mat	S7143	1	coding
+S7145	mat	S7145	1	coding
+S7154	mat	S7154	1	coding
+S7156	mat	S7156	1	coding
+S7158	mat	S7158	1	coding
+S7159	mat	S7159	1	coding
+S7163	mat	S7163	1	coding
+S7168	mat	S7168	1	coding
+S7171	mat	S7171	1	coding
+S7173	mat	S7173	1	coding
+S7176	mat	S7176	1	coding
+S7187	mat	S7187	1	coding
+S7192	mat	S7192	1	coding
+S7193	mat	S7193	1	coding
+S7195	mat	S7195	1	coding
+S7201	mat	S7201	1	coding
+S7205	mat	S7205	1	coding
+S7209	mat	S7209	1	coding
+S7210	mat	S7210	1	coding
+S7212	mat	S7212	1	coding
+S7217	mat	S7217	1	coding
+S7220	mat	S7220	1	coding
+S7228	mat	S7228	1	coding
+S7230	mat	S7230	1	coding
+S7232	mat	S7232	1	coding
+S7234	mat	S7234	1	coding
+S7236	mat	S7236	1	coding
+S7243	mat	S7243	1	coding
+S7246	mat	S7246	1	coding
+S7249	mat	S7249	1	coding
+S7250	mat	S7250	1	coding
+S7253	mat	S7253	1	coding
+S7254	mat	S7254	1	coding
+S7257	mat	S7257	1	coding
+S7263	mat	S7263	1	coding
+S7268	mat	S7268	1	coding
+S7270	mat	S7270	1	coding
+S7273	mat	S7273	1	coding
+S7274	mat	S7274	1	coding
+S7276	mat	S7276	1	coding
+S7278	mat	S7278	1	coding
+S7286	mat	S7286	1	coding
+S7288	mat	S7288	1	coding
+S7289	mat	S7289	1	coding
+S7293	mat	S7293	1	coding
+S7295	mat	S7295	1	coding
+S7303	mat	S7303	1	coding
+S7307	mat	S7307	1	coding
+S7310	mat	S7310	1	coding
+S7316	mat	S7316	1	coding
+S7320	mat	S7320	1	coding
+S7321	mat	S7321	1	coding
+S7326	mat	S7326	1	coding
+S7330	mat	S7330	1	coding
+S7332	mat	S7332	1	coding
+S7333	mat	S7333	1	coding
+S7334	mat	S7334	1	coding
+S7338	mat	S7338	1	coding
+S7340	mat	S7340	1	coding
+S7344	mat	S7344	1	coding
+S7347	mat	S7347	1	coding
+S7349	mat	S7349	1	coding
+S7357	mat	S7357	1	coding
+S7358	mat	S7358	1	coding
+S7362	mat	S7362	1	coding
+S7367	mat	S7367	1	coding
+S7369	mat	S7369	1	coding
+S7376	mat	S7376	1	coding
+S7377	mat	S7377	1	coding
+S7381	mat	S7381	1	coding
+S7382	mat	S7382	1	coding
+S7384	mat	S7384	1	coding
+S7385	mat	S7385	1	coding
+S7387	mat	S7387	1	coding
+S7388	mat	S7388	1	coding
+S7390	mat	S7390	1	coding
+S7393	mat	S7393	1	coding
+S7397	mat	S7397	1	coding
+S7399	mat	S7399	1	coding
+S7400	mat	S7400	1	coding
+S7401	mat	S7401	1	coding
+S7403	mat	S7403	1	coding
+S7405	mat	S7405	1	coding
+S7411	mat	S7411	1	coding
+S7412	mat	S7412	1	coding
+S7416	mat	S7416	1	coding
+S7422	mat	S7422	1	coding
+S7424	mat	S7424	1	coding
+S7432	mat	S7432	1	coding
+S7435	mat	S7435	1	coding
+S7436	mat	S7436	1	coding
+S7439	mat	S7439	1	coding
+S7440	mat	S7440	1	coding
+S7442	mat	S7442	1	coding
+S7444	mat	S7444	1	coding
+S7445	mat	S7445	1	coding
+S7447	mat	S7447	1	coding
+S7448	mat	S7448	1	coding
+S7451	mat	S7451	1	coding
+S7452	mat	S7452	1	coding
+S7453	mat	S7453	1	coding
+S7454	mat	S7454	1	coding
+S7465	mat	S7465	1	coding
+S7466	mat	S7466	1	coding
+S7467	mat	S7467	1	coding
+S7470	mat	S7470	1	coding
+S7472	mat	S7472	1	coding
+S7480	mat	S7480	1	coding
+S7481	mat	S7481	1	coding
+S7490	mat	S7490	1	coding
+S7498	mat	S7498	1	coding
+S7499	mat	S7499	1	coding
+S7502	mat	S7502	1	coding
+S7503	mat	S7503	1	coding
+S7504	mat	S7504	1	coding
+S7505	mat	S7505	1	coding
+S7509	mat	S7509	1	coding
+S7511	mat	S7511	1	coding
+S7513	mat	S7513	1	coding
+S7514	mat	S7514	1	coding
+S7515	mat	S7515	1	coding
+S7516	mat	S7516	1	coding
+S7517	mat	S7517	1	coding
+S7520	mat	S7520	1	coding
+S7522	mat	S7522	1	coding
+S7526	mat	S7526	1	coding
+S7530	mat	S7530	1	coding
+S7532	mat	S7532	1	coding
+S7536	mat	S7536	1	coding
+S7538	mat	S7538	1	coding
+S7549	mat	S7549	1	coding
+S7550	mat	S7550	1	coding
+S7551	mat	S7551	1	coding
+S7570	mat	S7570	1	coding
+S7571	mat	S7571	1	coding
+S7572	mat	S7572	1	coding
+S7575	mat	S7575	1	coding
+S7578	mat	S7578	1	coding
+S7581	mat	S7581	1	coding
+S7582	mat	S7582	1	coding
+S7583	mat	S7583	1	coding
+S7585	mat	S7585	1	coding
+S7588	mat	S7588	1	coding
+S7589	mat	S7589	1	coding
+S7590	mat	S7590	1	coding
+S7591	mat	S7591	1	coding
+S7596	mat	S7596	1	coding
+S7600	mat	S7600	1	coding
+S7604	mat	S7604	1	coding
+S7607	mat	S7607	1	coding
+S7609	mat	S7609	1	coding
+S7611	mat	S7611	1	coding
+S7616	mat	S7616	1	coding
+S7618	mat	S7618	1	coding
+S7623	mat	S7623	1	coding
+S7625	mat	S7625	1	coding
+S7627	mat	S7627	1	coding
+S7629	mat	S7629	1	coding
+S7630	mat	S7630	1	coding
+S7633	mat	S7633	1	coding
+S7648	mat	S7648	1	coding
+S7650	mat	S7650	1	coding
+S7655	mat	S7655	1	coding
+S7656	mat	S7656	1	coding
+S7661	mat	S7661	1	coding
+S7662	mat	S7662	1	coding
+S7665	mat	S7665	1	coding
+S7682	mat	S7682	1	coding
+S7685	mat	S7685	1	coding
+S7686	mat	S7686	1	coding
+S7689	mat	S7689	1	coding
+S7695	mat	S7695	1	coding
+S7697	mat	S7697	1	coding
+S7699	mat	S7699	1	coding
+S7702	mat	S7702	1	coding
+S7703	mat	S7703	1	coding
+S7711	mat	S7711	1	coding
+S7712	mat	S7712	1	coding
+S7718	mat	S7718	1	coding
+S7719	mat	S7719	1	coding
+S7720	mat	S7720	1	coding
+S7722	mat	S7722	1	coding
+S7724	mat	S7724	1	coding
+S7725	mat	S7725	1	coding
+S7728	mat	S7728	1	coding
+S7734	mat	S7734	1	coding
+S7735	mat	S7735	1	coding
+S7737	mat	S7737	1	coding
+S7740	mat	S7740	1	coding
+S7745	mat	S7745	1	coding
+S7750	mat	S7750	1	coding
+S7754	mat	S7754	1	coding
+S7759	mat	S7759	1	coding
+S7760	mat	S7760	1	coding
+S7763	mat	S7763	1	coding
+S7764	mat	S7764	1	coding
+S7768	mat	S7768	1	coding
+S7770	mat	S7770	1	coding
+S7771	mat	S7771	1	coding
+S7774	mat	S7774	1	coding
+S7775	mat	S7775	1	coding
+S7778	mat	S7778	1	coding
+S7781	mat	S7781	1	coding
+S7782	mat	S7782	1	coding
+S7784	mat	S7784	1	coding
+S7785	mat	S7785	1	coding
+S7790	mat	S7790	1	coding
+S7794	mat	S7794	1	coding
+S7807	mat	S7807	1	coding
+S7812	mat	S7812	1	coding
+S7813	mat	S7813	1	coding
+S7816	mat	S7816	1	coding
+S7817	mat	S7817	1	coding
+S7820	mat	S7820	1	coding
+S7821	mat	S7821	1	coding
+S7822	mat	S7822	1	coding
+S7834	mat	S7834	1	coding
+S7836	mat	S7836	1	coding
+S7837	mat	S7837	1	coding
+S7846	mat	S7846	1	coding
+S7847	mat	S7847	1	coding
+S7850	mat	S7850	1	coding
+S7853	mat	S7853	1	coding
+S7854	mat	S7854	1	coding
+S7855	mat	S7855	1	coding
+S7866	mat	S7866	1	coding
+S7869	mat	S7869	1	coding
+S7871	mat	S7871	1	coding
+S7873	mat	S7873	1	coding
+S7878	mat	S7878	1	coding
+S7883	mat	S7883	1	coding
+S7884	mat	S7884	1	coding
+S7885	mat	S7885	1	coding
+S7890	mat	S7890	1	coding
+S7891	mat	S7891	1	coding
+S7894	mat	S7894	1	coding
+S7897	mat	S7897	1	coding
+S7900	mat	S7900	1	coding
+S7901	mat	S7901	1	coding
+S7903	mat	S7903	1	coding
+S7906	mat	S7906	1	coding
+S7908	mat	S7908	1	coding
+S7910	mat	S7910	1	coding
+S7911	mat	S7911	1	coding
+S7923	mat	S7923	1	coding
+S7924	mat	S7924	1	coding
+S7927	mat	S7927	1	coding
+S7930	mat	S7930	1	coding
+S7931	mat	S7931	1	coding
+S7935	mat	S7935	1	coding
+S7940	mat	S7940	1	coding
+S7943	mat	S7943	1	coding
+S7945	mat	S7945	1	coding
+S7946	mat	S7946	1	coding
+S7950	mat	S7950	1	coding
+S7953	mat	S7953	1	coding
+S7954	mat	S7954	1	coding
+S7960	mat	S7960	1	coding
+S7962	mat	S7962	1	coding
+S7963	mat	S7963	1	coding
+S7965	mat	S7965	1	coding
+S7967	mat	S7967	1	coding
+S7973	mat	S7973	1	coding
+S7978	mat	S7978	1	coding
+S7979	mat	S7979	1	coding
+S7980	mat	S7980	1	coding
+S7981	mat	S7981	1	coding
+S7998	mat	S7998	1	coding
+S8015	mat	S8015	1	coding
+S8019	mat	S8019	1	coding
+S8020	mat	S8020	1	coding
+S8024	mat	S8024	1	coding
+S8026	mat	S8026	1	coding
+S8031	mat	S8031	1	coding
+S8035	mat	S8035	1	coding
+S8039	mat	S8039	1	coding
+S8041	mat	S8041	1	coding
+S8047	mat	S8047	1	coding
+S8052	mat	S8052	1	coding
+S8054	mat	S8054	1	coding
+S8055	mat	S8055	1	coding
+S8061	mat	S8061	1	coding
+S8062	mat	S8062	1	coding
+S8064	mat	S8064	1	coding
+S8076	mat	S8076	1	coding
+S8081	mat	S8081	1	coding
+S8087	mat	S8087	1	coding
+S8094	mat	S8094	1	coding
+S8100	mat	S8100	1	coding
+S8102	mat	S8102	1	coding
+S8107	mat	S8107	1	coding
+S8109	mat	S8109	1	coding
+S8110	mat	S8110	1	coding
+S8112	mat	S8112	1	coding
+S8116	mat	S8116	1	coding
+S8118	mat	S8118	1	coding
+S8120	mat	S8120	1	coding
+S8121	mat	S8121	1	coding
+S8122	mat	S8122	1	coding
+S8124	mat	S8124	1	coding
+S8128	mat	S8128	1	coding
+S8129	mat	S8129	1	coding
+S8133	mat	S8133	1	coding
+S8137	mat	S8137	1	coding
+S8147	mat	S8147	1	coding
+S8148	mat	S8148	1	coding
+S8152	mat	S8152	1	coding
+S8155	mat	S8155	1	coding
+S8158	mat	S8158	1	coding
+S8164	mat	S8164	1	coding
+S8165	mat	S8165	1	coding
+S8168	mat	S8168	1	coding
+S8169	mat	S8169	1	coding
+S8171	mat	S8171	1	coding
+S8172	mat	S8172	1	coding
+S8174	mat	S8174	1	coding
+S8176	mat	S8176	1	coding
+S8180	mat	S8180	1	coding
+S8182	mat	S8182	1	coding
+S8183	mat	S8183	1	coding
+S8186	mat	S8186	1	coding
+S8188	mat	S8188	1	coding
+S8191	mat	S8191	1	coding
+S8194	mat	S8194	2	coding CDCTs
+S8195	mat	S8195	2	coding CDCTs
+S8197	mat	S8197	2	coding CDCTs
+S8198	mat	S8198	2	coding CDCTs
+S8199	mat	S8199	2	coding CDCTs
+S8200	mat	S8200	2	coding CDCTs
+S8201	mat	S8201	2	coding CDCTs
+S8202	mat	S8202	2	coding CDCTs
+S8203	mat	S8203	2	coding CDCTs
+S8204	mat	S8204	2	coding CDCTs
+S8205	mat	S8205	2	coding CDCTs
+S8206	mat	S8206	2	coding CDCTs
+S8208	mat	S8208	2	coding CDCTs
+S8209	mat	S8209	2	coding CDCTs
+S8210	mat	S8210	2	coding CDCTs
+S8212	mat	S8212	2	coding CDCTs
+S8213	mat	S8213	2	coding CDCTs
+S8214	mat	S8214	2	coding CDCTs
+S8215	mat	S8215	2	coding CDCTs
+S8216	mat	S8216	2	coding CDCTs
+S8217	mat	S8217	2	coding CDCTs
+S8218	mat	S8218	2	coding CDCTs
+S8219	mat	S8219	2	coding CDCTs
+S8220	mat	S8220	2	coding CDCTs
+S8221	mat	S8221	2	coding CDCTs
+S8222	mat	S8222	2	coding CDCTs
+S8223	mat	S8223	2	coding CDCTs
+S8224	mat	S8224	2	coding CDCTs
+S8225	mat	S8225	2	coding CDCTs
+S8226	mat	S8226	2	coding CDCTs
+S8227	mat	S8227	2	coding CDCTs
+S8228	mat	S8228	2	coding CDCTs
+S8229	mat	S8229	2	coding CDCTs
+S8230	mat	S8230	2	coding CDCTs
+S8231	mat	S8231	2	coding CDCTs
+S8232	mat	S8232	2	coding CDCTs
+S8233	mat	S8233	2	coding CDCTs
+S8234	mat	S8234	2	coding CDCTs
+S8235	mat	S8235	2	coding CDCTs
+S8236	mat	S8236	2	coding CDCTs
+S8237	mat	S8237	2	coding CDCTs
+S8238	mat	S8238	2	coding CDCTs
+S8239	mat	S8239	2	coding CDCTs
+S8240	mat	S8240	2	coding CDCTs
+S8241	mat	S8241	2	coding CDCTs
+S8242	mat	S8242	2	coding CDCTs
+S8243	mat	S8243	2	coding CDCTs
+S8244	mat	S8244	2	coding CDCTs
+S8245	mat	S8245	2	coding CDCTs
+S8246	mat	S8246	2	coding CDCTs
+S8248	mat	S8248	2	coding CDCTs
+S8249	mat	S8249	2	coding CDCTs
+S8250	mat	S8250	2	coding CDCTs
+S8251	mat	S8251	2	coding CDCTs
+S8252	mat	S8252	2	coding CDCTs
+S8253	mat	S8253	2	coding CDCTs
+S8254	mat	S8254	2	coding CDCTs
+S8255	mat	S8255	2	coding CDCTs
+S8256	mat	S8256	2	coding CDCTs
+S8257	mat	S8257	2	coding CDCTs
+S8258	mat	S8258	2	coding CDCTs
+S8259	mat	S8259	2	coding CDCTs
+S8260	mat	S8260	2	coding CDCTs
+S8261	mat	S8261	2	coding CDCTs
+S8262	mat	S8262	2	coding CDCTs
+S8263	mat	S8263	2	coding CDCTs
+S8264	mat	S8264	2	coding CDCTs
+S8265	mat	S8265	2	coding CDCTs
+S8266	mat	S8266	2	coding CDCTs
+S8267	mat	S8267	2	coding CDCTs
+S8268	mat	S8268	2	coding CDCTs
+S8269	mat	S8269	2	coding CDCTs
+S8270	mat	S8270	2	coding CDCTs
+S8271	mat	S8271	2	coding CDCTs
+S8272	mat	S8272	2	coding CDCTs
+S8274	mat	S8274	2	coding CDCTs
+S8275	mat	S8275	2	coding CDCTs
+S8276	mat	S8276	2	coding CDCTs
+S8277	mat	S8277	2	coding CDCTs
+S8278	mat	S8278	2	coding CDCTs
+S8279	mat	S8279	2	coding CDCTs
+S8280	mat	S8280	2	coding CDCTs
+S8281	mat	S8281	2	coding CDCTs
+S8282	mat	S8282	2	coding CDCTs
+S8283	mat	S8283	2	coding CDCTs
+S8284	mat	S8284	2	coding CDCTs
+S8285	mat	S8285	2	coding CDCTs
+S8286	mat	S8286	2	coding CDCTs
+S8287	mat	S8287	2	coding CDCTs
+S8288	mat	S8288	2	coding CDCTs
+S8289	mat	S8289	2	coding CDCTs
+S8290	mat	S8290	2	coding CDCTs
+S8291	mat	S8291	2	coding CDCTs
+S8292	mat	S8292	2	coding CDCTs
+S8293	mat	S8293	2	coding CDCTs
+S8294	mat	S8294	2	coding CDCTs
+S8295	mat	S8295	2	coding CDCTs
+S8296	mat	S8296	2	coding CDCTs
+S8297	mat	S8297	2	coding CDCTs
+S8298	mat	S8298	2	coding CDCTs
+S8299	mat	S8299	2	coding CDCTs
+S8300	mat	S8300	2	coding CDCTs
+S8301	mat	S8301	2	coding CDCTs
+S8302	mat	S8302	2	coding CDCTs
+S8303	mat	S8303	2	coding CDCTs
+S8304	mat	S8304	2	coding CDCTs
+S8305	mat	S8305	2	coding CDCTs
+S8306	mat	S8306	2	coding CDCTs
+S8307	mat	S8307	2	coding CDCTs
+S8308	mat	S8308	2	coding CDCTs
+S8309	mat	S8309	2	coding CDCTs
+S8310	mat	S8310	2	coding CDCTs
+S8311	mat	S8311	2	coding CDCTs
+S8312	mat	S8312	2	coding CDCTs
+S8313	mat	S8313	2	coding CDCTs
+S8314	mat	S8314	2	coding CDCTs
+S8315	mat	S8315	2	coding CDCTs
+S8316	mat	S8316	2	coding CDCTs
+S8317	mat	S8317	2	coding CDCTs
+S8318	mat	S8318	2	coding CDCTs
+S8319	mat	S8319	2	coding CDCTs
+S8320	mat	S8320	2	coding CDCTs
+S8321	mat	S8321	2	coding CDCTs
+S8322	mat	S8322	2	coding CDCTs
+S8323	mat	S8323	2	coding CDCTs
+S8324	mat	S8324	2	coding CDCTs
+S8326	mat	S8326	2	coding CDCTs
+S8327	mat	S8327	2	coding CDCTs
+S8328	mat	S8328	2	coding CDCTs
+S8330	mat	S8330	2	coding CDCTs
+S8331	mat	S8331	2	coding CDCTs
+S8332	mat	S8332	2	coding CDCTs
+S8333	mat	S8333	2	coding CDCTs
+S8334	mat	S8334	2	coding CDCTs
+S8335	mat	S8335	2	coding CDCTs
+S8336	mat	S8336	2	coding CDCTs
+S8337	mat	S8337	2	coding CDCTs
+S8338	mat	S8338	2	coding CDCTs
+S8339	mat	S8339	2	coding CDCTs
+S8340	mat	S8340	2	coding CDCTs
+S8341	mat	S8341	2	coding CDCTs
+S8342	mat	S8342	2	coding CDCTs
+S8343	mat	S8343	2	coding CDCTs
+S8344	mat	S8344	2	coding CDCTs
+S8345	mat	S8345	2	coding CDCTs
+S8346	mat	S8346	2	coding CDCTs
+S8347	mat	S8347	2	coding CDCTs
+S8348	mat	S8348	2	coding CDCTs
+S8349	mat	S8349	2	coding CDCTs
+S8350	mat	S8350	2	coding CDCTs
+S8351	mat	S8351	2	coding CDCTs
+S8352	mat	S8352	2	coding CDCTs
+S8353	mat	S8353	2	coding CDCTs
+S8354	mat	S8354	2	coding CDCTs
+S8355	mat	S8355	2	coding CDCTs
+S8356	mat	S8356	2	coding CDCTs
+S8357	mat	S8357	2	coding CDCTs
+S8358	mat	S8358	2	coding CDCTs
+S8359	mat	S8359	2	coding CDCTs
+S8360	mat	S8360	2	coding CDCTs
+S8361	mat	S8361	2	coding CDCTs
+S8362	mat	S8362	2	coding CDCTs
+S8363	mat	S8363	2	coding CDCTs
+S8364	mat	S8364	2	coding CDCTs
+S8365	mat	S8365	2	coding CDCTs
+S8366	mat	S8366	2	coding CDCTs
+S8367	mat	S8367	2	coding CDCTs
+S8368	mat	S8368	2	coding CDCTs
+S8369	mat	S8369	2	coding CDCTs
+S8370	mat	S8370	2	coding CDCTs
+S8371	mat	S8371	2	coding CDCTs
+S8372	mat	S8372	2	coding CDCTs
+S8373	mat	S8373	2	coding CDCTs
+S8374	mat	S8374	2	coding CDCTs
+S8375	mat	S8375	2	coding CDCTs
+S8376	mat	S8376	2	coding CDCTs
+S8377	mat	S8377	2	coding CDCTs
+S8378	mat	S8378	2	coding CDCTs
+S8379	mat	S8379	2	coding CDCTs
+S8380	mat	S8380	2	coding CDCTs
+S8381	mat	S8381	2	coding CDCTs
+S8382	mat	S8382	2	coding CDCTs
+S8383	mat	S8383	2	coding CDCTs
+S8384	mat	S8384	2	coding CDCTs
+S8385	mat	S8385	2	coding CDCTs
+S8386	mat	S8386	2	coding CDCTs
+S8387	mat	S8387	2	coding CDCTs
+S8388	mat	S8388	2	coding CDCTs
+S8389	mat	S8389	2	coding CDCTs
+S8390	mat	S8390	2	coding CDCTs
+S8391	mat	S8391	2	coding CDCTs
+S8392	mat	S8392	2	coding CDCTs
+S8393	mat	S8393	2	coding CDCTs
+S8394	mat	S8394	2	coding CDCTs
+S8395	mat	S8395	2	coding CDCTs
+S8396	mat	S8396	2	coding CDCTs
+S8397	mat	S8397	2	coding CDCTs
+S8398	mat	S8398	2	coding CDCTs
+S8399	mat	S8399	2	coding CDCTs
+S8400	mat	S8400	2	coding CDCTs
+S8401	mat	S8401	2	coding CDCTs
+S8402	mat	S8402	2	coding CDCTs
+S8403	mat	S8403	2	coding CDCTs
+S8404	mat	S8404	2	coding CDCTs
+S8405	mat	S8405	2	coding CDCTs
+S8406	mat	S8406	2	coding CDCTs
+S8407	mat	S8407	2	coding CDCTs
+S8408	mat	S8408	2	coding CDCTs
+S8409	mat	S8409	2	coding CDCTs
+S8410	mat	S8410	2	coding CDCTs
+S8411	mat	S8411	2	coding CDCTs
+S8412	mat	S8412	2	coding CDCTs
+S8413	mat	S8413	2	coding CDCTs
+S8414	mat	S8414	2	coding CDCTs
+S8415	mat	S8415	2	coding CDCTs
+S8416	mat	S8416	2	coding CDCTs
+S8417	mat	S8417	2	coding CDCTs
+S8418	mat	S8418	2	coding CDCTs
+S8419	mat	S8419	2	coding CDCTs
+S8421	mat	S8421	2	coding CDCTs
+S8422	mat	S8422	2	coding CDCTs
+S8423	mat	S8423	2	coding CDCTs
+S8424	mat	S8424	2	coding CDCTs
+S8425	mat	S8425	2	coding CDCTs
+S8426	mat	S8426	2	coding CDCTs
+S8427	mat	S8427	2	coding CDCTs
+S8428	mat	S8428	2	coding CDCTs
+S8429	mat	S8429	2	coding CDCTs
+S8430	mat	S8430	2	coding CDCTs
+S8431	mat	S8431	2	coding CDCTs
+S8432	mat	S8432	2	coding CDCTs
+S8433	mat	S8433	2	coding CDCTs
+S8434	mat	S8434	2	coding CDCTs
+S8435	mat	S8435	2	coding CDCTs
+S8436	mat	S8436	2	coding CDCTs
+S8438	mat	S8438	2	coding CDCTs
+S8439	mat	S8439	2	coding CDCTs
+S8440	mat	S8440	2	coding CDCTs
+S8441	mat	S8441	2	coding CDCTs
+S8442	mat	S8442	2	coding CDCTs
+S8443	mat	S8443	2	coding CDCTs
+S8444	mat	S8444	2	coding CDCTs
+S8445	mat	S8445	2	coding CDCTs
+S8446	mat	S8446	2	coding CDCTs
+S8447	mat	S8447	2	coding CDCTs
+S8448	mat	S8448	2	coding CDCTs
+S8449	mat	S8449	2	coding CDCTs
+S8450	mat	S8450	2	coding CDCTs
+S8451	mat	S8451	2	coding CDCTs
+S8452	mat	S8452	2	coding CDCTs
+S8453	mat	S8453	2	coding CDCTs
+S8454	mat	S8454	2	coding CDCTs
+S8455	mat	S8455	2	coding CDCTs
+S8457	mat	S8457	2	coding CDCTs
+S8458	mat	S8458	2	coding CDCTs
+S8459	mat	S8459	2	coding CDCTs
+S8460	mat	S8460	2	coding CDCTs
+S8461	mat	S8461	2	coding CDCTs
+S8462	mat	S8462	2	coding CDCTs
+S8463	mat	S8463	2	coding CDCTs
+S8464	mat	S8464	2	coding CDCTs
+S8465	mat	S8465	2	coding CDCTs
+S8466	mat	S8466	2	coding CDCTs
+S8469	mat	S8469	2	coding CDCTs
+S8470	mat	S8470	2	coding CDCTs
+S8471	mat	S8471	2	coding CDCTs
+S8472	mat	S8472	2	coding CDCTs
+S8473	mat	S8473	2	coding CDCTs
+S8475	mat	S8475	2	coding CDCTs
+S8476	mat	S8476	2	coding CDCTs
+S8478	mat	S8478	2	coding CDCTs
+S8479	mat	S8479	2	coding CDCTs
+S8480	mat	S8480	2	coding CDCTs
+S8481	mat	S8481	2	coding CDCTs
+S8482	mat	S8482	2	coding CDCTs
+S8483	mat	S8483	2	coding CDCTs
+S8484	mat	S8484	2	coding CDCTs
+S8485	mat	S8485	2	coding CDCTs
+S8486	mat	S8486	2	coding CDCTs
+S8487	mat	S8487	2	coding CDCTs
+S8488	mat	S8488	2	coding CDCTs
+S8489	mat	S8489	2	coding CDCTs
+S8490	mat	S8490	2	coding CDCTs
+S8491	mat	S8491	2	coding CDCTs
+S8492	mat	S8492	2	coding CDCTs
+S8493	mat	S8493	2	coding CDCTs
+S8494	mat	S8494	2	coding CDCTs
+S8495	mat	S8495	2	coding CDCTs
+S8496	mat	S8496	2	coding CDCTs
+S8497	mat	S8497	2	coding CDCTs
+S8498	mat	S8498	2	coding CDCTs
+S8499	mat	S8499	2	coding CDCTs
+S8500	mat	S8500	2	coding CDCTs
+S8501	mat	S8501	2	coding CDCTs
+S8502	mat	S8502	2	coding CDCTs
+S8503	mat	S8503	2	coding CDCTs
+S8504	mat	S8504	2	coding CDCTs
+S8505	mat	S8505	2	coding CDCTs
+S8506	mat	S8506	2	coding CDCTs
+S8507	mat	S8507	2	coding CDCTs
+S8508	mat	S8508	2	coding CDCTs
+S8509	mat	S8509	2	coding CDCTs
+S8510	mat	S8510	2	coding CDCTs
+S8511	mat	S8511	2	coding CDCTs
+S8512	mat	S8512	2	coding CDCTs
+S8513	mat	S8513	2	coding CDCTs
+S8514	mat	S8514	2	coding CDCTs
+S8515	mat	S8515	2	coding CDCTs
+S8516	mat	S8516	2	coding CDCTs
+S8517	mat	S8517	2	coding CDCTs
+S8518	mat	S8518	2	coding CDCTs
+S8519	mat	S8519	2	coding CDCTs
+S8520	mat	S8520	2	coding CDCTs
+S8521	mat	S8521	2	coding CDCTs
+S8522	mat	S8522	2	coding CDCTs
+S8523	mat	S8523	2	coding CDCTs
+S8524	mat	S8524	2	coding CDCTs
+S8525	mat	S8525	2	coding CDCTs
+S8526	mat	S8526	2	coding CDCTs
+S8527	mat	S8527	2	coding CDCTs
+S8528	mat	S8528	2	coding CDCTs
+S8529	mat	S8529	2	coding CDCTs
+S8530	mat	S8530	2	coding CDCTs
+S8531	mat	S8531	2	coding CDCTs
+S8532	mat	S8532	2	coding CDCTs
+S8533	mat	S8533	2	coding CDCTs
+S8534	mat	S8534	2	coding CDCTs
+S8535	mat	S8535	2	coding CDCTs
+S8536	mat	S8536	2	coding CDCTs
+S8537	mat	S8537	2	coding CDCTs
+S8538	mat	S8538	2	coding CDCTs
+S8539	mat	S8539	2	coding CDCTs
+S8540	mat	S8540	2	coding CDCTs
+S8541	mat	S8541	2	coding CDCTs
+S8542	mat	S8542	2	coding CDCTs
+S8543	mat	S8543	2	coding CDCTs
+S8545	mat	S8545	2	coding CDCTs
+S8546	mat	S8546	2	coding CDCTs
+S8547	mat	S8547	2	coding CDCTs
+S8548	mat	S8548	2	coding CDCTs
+S8549	mat	S8549	2	coding CDCTs
+S8550	mat	S8550	2	coding CDCTs
+S8551	mat	S8551	2	coding CDCTs
+S8552	mat	S8552	2	coding CDCTs
+S8553	mat	S8553	2	coding CDCTs
+S8554	mat	S8554	2	coding CDCTs
+S8555	mat	S8555	2	coding CDCTs
+S8556	mat	S8556	2	coding CDCTs
+S8557	mat	S8557	2	coding CDCTs
+S8558	mat	S8558	2	coding CDCTs
+S8559	mat	S8559	2	coding CDCTs
+S8560	mat	S8560	2	coding CDCTs
+S8561	mat	S8561	2	coding CDCTs
+S8562	mat	S8562	2	coding CDCTs
+S8563	mat	S8563	2	coding CDCTs
+S8564	mat	S8564	2	coding CDCTs
+S8565	mat	S8565	2	coding CDCTs
+S8566	mat	S8566	2	coding CDCTs
+S8567	mat	S8567	2	coding CDCTs
+S8568	mat	S8568	2	coding CDCTs
+S8569	mat	S8569	2	coding CDCTs
+S8570	mat	S8570	2	coding CDCTs
+S8571	mat	S8571	2	coding CDCTs
+S8572	mat	S8572	2	coding CDCTs
+S8573	mat	S8573	2	coding CDCTs
+S8574	mat	S8574	2	coding CDCTs
+S8575	mat	S8575	2	coding CDCTs
+S8576	mat	S8576	2	coding CDCTs
+S8577	mat	S8577	2	coding CDCTs
+S8578	mat	S8578	2	coding CDCTs
+S8579	mat	S8579	2	coding CDCTs
+S8580	mat	S8580	2	coding CDCTs
+S8581	mat	S8581	2	coding CDCTs
+S8582	mat	S8582	2	coding CDCTs
+S8583	mat	S8583	2	coding CDCTs
+S8584	mat	S8584	2	coding CDCTs
+S8585	mat	S8585	2	coding CDCTs
+S8586	mat	S8586	2	coding CDCTs
+S8587	mat	S8587	2	coding CDCTs
+S8589	mat	S8589	2	coding CDCTs
+S8590	mat	S8590	2	coding CDCTs
+S8591	mat	S8591	2	coding CDCTs
+S8592	mat	S8592	2	coding CDCTs
+S8593	mat	S8593	2	coding CDCTs
+S8594	mat	S8594	2	coding CDCTs
+S8595	mat	S8595	2	coding CDCTs
+S8596	mat	S8596	2	coding CDCTs
+S8597	mat	S8597	2	coding CDCTs
+S8598	mat	S8598	2	coding CDCTs
+S8599	mat	S8599	2	coding CDCTs
+S8600	mat	S8600	2	coding CDCTs
+S8602	mat	S8602	2	coding CDCTs
+S8604	mat	S8604	2	coding CDCTs
+S8605	mat	S8605	2	coding CDCTs
+S8606	mat	S8606	2	coding CDCTs
+S8607	mat	S8607	2	coding CDCTs
+S8608	mat	S8608	2	coding CDCTs
+S8609	mat	S8609	2	coding CDCTs
+S8610	mat	S8610	2	coding CDCTs
+S8611	mat	S8611	2	coding CDCTs
+S8612	mat	S8612	2	coding CDCTs
+S8613	mat	S8613	2	coding CDCTs
+S8614	mat	S8614	2	coding CDCTs
+S8615	mat	S8615	2	coding CDCTs
+S8616	mat	S8616	2	coding CDCTs
+S8617	mat	S8617	2	coding CDCTs
+S8618	mat	S8618	2	coding CDCTs
+S8619	mat	S8619	2	coding CDCTs
+S8620	mat	S8620	2	coding CDCTs
+S8621	mat	S8621	2	coding CDCTs
+S8622	mat	S8622	2	coding CDCTs
+S8624	mat	S8624	2	coding CDCTs
+S8625	mat	S8625	2	coding CDCTs
+S8626	mat	S8626	2	coding CDCTs
+S8627	mat	S8627	2	coding CDCTs
+S8628	mat	S8628	2	coding CDCTs
+S8629	mat	S8629	2	coding CDCTs
+S8630	mat	S8630	2	coding CDCTs
+S8632	mat	S8632	2	coding CDCTs
+S8634	mat	S8634	2	coding CDCTs
+S8635	mat	S8635	2	coding CDCTs
+S8636	mat	S8636	2	coding CDCTs
+S8637	mat	S8637	2	coding CDCTs
+S8638	mat	S8638	2	coding CDCTs
+S8639	mat	S8639	2	coding CDCTs
+S8641	mat	S8641	2	coding CDCTs
+S8642	mat	S8642	2	coding CDCTs
+S8643	mat	S8643	2	coding CDCTs
+S8644	mat	S8644	2	coding CDCTs
+S8645	mat	S8645	2	coding CDCTs
+S8646	mat	S8646	2	coding CDCTs
+S8647	mat	S8647	2	coding CDCTs
+S8648	mat	S8648	2	coding CDCTs
+S8649	mat	S8649	2	coding CDCTs
+S8650	mat	S8650	2	coding CDCTs
+S8651	mat	S8651	2	coding CDCTs
+S8652	mat	S8652	2	coding CDCTs
+S8653	mat	S8653	2	coding CDCTs
+S8654	mat	S8654	2	coding CDCTs
+S8655	mat	S8655	2	coding CDCTs
+S8656	mat	S8656	2	coding CDCTs
+S8657	mat	S8657	2	coding CDCTs
+S8658	mat	S8658	2	coding CDCTs
+S8659	mat	S8659	2	coding CDCTs
+S8660	mat	S8660	2	coding CDCTs
+S8661	mat	S8661	2	coding CDCTs
+S8662	mat	S8662	2	coding CDCTs
+S8663	mat	S8663	2	coding CDCTs
+S8664	mat	S8664	2	coding CDCTs
+S8665	mat	S8665	2	coding CDCTs
+S8666	mat	S8666	2	coding CDCTs
+S8667	mat	S8667	2	coding CDCTs
+S8668	mat	S8668	2	coding CDCTs
+S8669	mat	S8669	2	coding CDCTs
+S8670	mat	S8670	2	coding CDCTs
+S8671	mat	S8671	2	coding CDCTs
+S8672	mat	S8672	2	coding CDCTs
+S8673	mat	S8673	2	coding CDCTs
+S8674	mat	S8674	2	coding CDCTs
+S8675	mat	S8675	2	coding CDCTs
+S8676	mat	S8676	2	coding CDCTs
+S8677	mat	S8677	2	coding CDCTs
+S8678	mat	S8678	2	coding CDCTs
+S8679	mat	S8679	2	coding CDCTs
+S8680	mat	S8680	2	coding CDCTs
+S8681	mat	S8681	2	coding CDCTs
+S8683	mat	S8683	2	coding CDCTs
+S8684	mat	S8684	2	coding CDCTs
+S8685	mat	S8685	2	coding CDCTs
+S8686	mat	S8686	2	coding CDCTs
+S8687	mat	S8687	2	coding CDCTs
+S8688	mat	S8688	2	coding CDCTs
+S8690	mat	S8690	2	coding CDCTs
+S8691	mat	S8691	2	coding CDCTs
+S8692	mat	S8692	2	coding CDCTs
+S8693	mat	S8693	2	coding CDCTs
+S8694	mat	S8694	2	coding CDCTs
+S8695	mat	S8695	2	coding CDCTs
+S8696	mat	S8696	2	coding CDCTs
+S8697	mat	S8697	2	coding CDCTs
+S8698	mat	S8698	2	coding CDCTs
+S8699	mat	S8699	2	coding CDCTs
+S8700	mat	S8700	2	coding CDCTs
+S8701	mat	S8701	2	coding CDCTs
+S8702	mat	S8702	2	coding CDCTs
+S8703	mat	S8703	2	coding CDCTs
+S8704	mat	S8704	2	coding CDCTs
+S8705	mat	S8705	2	coding CDCTs
+S8706	mat	S8706	2	coding CDCTs
+S8707	mat	S8707	2	coding CDCTs
+S8708	mat	S8708	2	coding CDCTs
+S8709	mat	S8709	2	coding CDCTs
+S8710	mat	S8710	2	coding CDCTs
+S8711	mat	S8711	2	coding CDCTs
+S8712	mat	S8712	2	coding CDCTs
+S8713	mat	S8713	2	coding CDCTs
+S8714	mat	S8714	2	coding CDCTs
+S8715	mat	S8715	2	coding CDCTs
+S8716	mat	S8716	2	coding CDCTs
+S8717	mat	S8717	2	coding CDCTs
+S8718	mat	S8718	2	coding CDCTs
+S8719	mat	S8719	2	coding CDCTs
+S8720	mat	S8720	2	coding CDCTs
+S8721	mat	S8721	2	coding CDCTs
+S8722	mat	S8722	2	coding CDCTs
+S8723	mat	S8723	2	coding CDCTs
+S8724	mat	S8724	2	coding CDCTs
+S8725	mat	S8725	2	coding CDCTs
+S8726	mat	S8726	2	coding CDCTs
+S8727	mat	S8727	2	coding CDCTs
+S8728	mat	S8728	2	coding CDCTs
+S8729	mat	S8729	2	coding CDCTs
+S8730	mat	S8730	2	coding CDCTs
+S8731	mat	S8731	2	coding CDCTs
+S8732	mat	S8732	2	coding CDCTs
+S8733	mat	S8733	2	coding CDCTs
+S8734	mat	S8734	2	coding CDCTs
+S8735	mat	S8735	2	coding CDCTs
+S8736	mat	S8736	2	coding CDCTs
+S8737	mat	S8737	2	coding CDCTs
+S8738	mat	S8738	2	coding CDCTs
+S8739	mat	S8739	2	coding CDCTs
+S8740	mat	S8740	2	coding CDCTs
+S8741	mat	S8741	2	coding CDCTs
+S8742	mat	S8742	2	coding CDCTs
+S8743	mat	S8743	2	coding CDCTs
+S8744	mat	S8744	2	coding CDCTs
+S8745	mat	S8745	2	coding CDCTs
+S8746	mat	S8746	2	coding CDCTs
+S8747	mat	S8747	2	coding CDCTs
+S8748	mat	S8748	2	coding CDCTs
+S8749	mat	S8749	2	coding CDCTs
+S8750	mat	S8750	2	coding CDCTs
+S8751	mat	S8751	2	coding CDCTs
+S8752	mat	S8752	2	coding CDCTs
+S8753	mat	S8753	2	coding CDCTs
+S8754	mat	S8754	2	coding CDCTs
+S8755	mat	S8755	2	coding CDCTs
+S8756	mat	S8756	2	coding CDCTs
+S8757	mat	S8757	2	coding CDCTs
+S8758	mat	S8758	2	coding CDCTs
+S8759	mat	S8759	2	coding CDCTs
+S8760	mat	S8760	2	coding CDCTs
+S8761	mat	S8761	2	coding CDCTs
+S8762	mat	S8762	2	coding CDCTs
+S8763	mat	S8763	2	coding CDCTs
+S8764	mat	S8764	2	coding CDCTs
+S8765	mat	S8765	2	coding CDCTs
+S8766	mat	S8766	2	coding CDCTs
+S8767	mat	S8767	2	coding CDCTs
+S8768	mat	S8768	2	coding CDCTs
+S8769	mat	S8769	2	coding CDCTs
+S8770	mat	S8770	2	coding CDCTs
+S8771	mat	S8771	2	coding CDCTs
+S8772	mat	S8772	2	coding CDCTs
+S8773	mat	S8773	2	coding CDCTs
+S8774	mat	S8774	2	coding CDCTs
+S8775	mat	S8775	2	coding CDCTs
+S8776	mat	S8776	2	coding CDCTs
+S8777	mat	S8777	2	coding CDCTs
+S8778	mat	S8778	2	coding CDCTs
+S8779	mat	S8779	2	coding CDCTs
+S8780	mat	S8780	2	coding CDCTs
+S8781	mat	S8781	2	coding CDCTs
+S8782	mat	S8782	2	coding CDCTs
+S8783	mat	S8783	2	coding CDCTs
+S8784	mat	S8784	2	coding CDCTs
+S8785	mat	S8785	2	coding CDCTs
+S8786	mat	S8786	2	coding CDCTs
+S8787	mat	S8787	2	coding CDCTs
+S8788	mat	S8788	2	coding CDCTs
+S8789	mat	S8789	2	coding CDCTs
+S8790	mat	S8790	2	coding CDCTs
+S8791	mat	S8791	2	coding CDCTs
+S8792	mat	S8792	2	coding CDCTs
+S8793	mat	S8793	2	coding CDCTs
+S8794	mat	S8794	2	coding CDCTs
+S8795	mat	S8795	2	coding CDCTs
+S8796	mat	S8796	2	coding CDCTs
+S8797	mat	S8797	2	coding CDCTs
+S8798	mat	S8798	2	coding CDCTs
+S8799	mat	S8799	2	coding CDCTs
+S8800	mat	S8800	2	coding CDCTs
+S8801	mat	S8801	2	coding CDCTs
+S8802	mat	S8802	2	coding CDCTs
+S8803	mat	S8803	2	coding CDCTs
+S8804	mat	S8804	2	coding CDCTs
+S8805	mat	S8805	2	coding CDCTs
+S8807	mat	S8807	2	coding CDCTs
+S8808	mat	S8808	2	coding CDCTs
+S8809	mat	S8809	2	coding CDCTs
+S8810	mat	S8810	2	coding CDCTs
+S8813	mat	S8813	2	coding CDCTs
+S8814	mat	S8814	2	coding CDCTs
+S8815	mat	S8815	2	coding CDCTs
+S8816	mat	S8816	2	coding CDCTs
+S8817	mat	S8817	2	coding CDCTs
+S8818	mat	S8818	2	coding CDCTs
+S8819	mat	S8819	2	coding CDCTs
+S8820	mat	S8820	2	coding CDCTs
+S8821	mat	S8821	2	coding CDCTs
+S8822	mat	S8822	2	coding CDCTs
+S8823	mat	S8823	2	coding CDCTs
+S8824	mat	S8824	2	coding CDCTs
+S8825	mat	S8825	2	coding CDCTs
+S8826	mat	S8826	2	coding CDCTs
+S8827	mat	S8827	2	coding CDCTs
+S8828	mat	S8828	2	coding CDCTs
+S8829	mat	S8829	2	coding CDCTs
+S8830	mat	S8830	2	coding CDCTs
+S8831	mat	S8831	2	coding CDCTs
+S8832	mat	S8832	2	coding CDCTs
+S8833	mat	S8833	2	coding CDCTs
+S8834	mat	S8834	2	coding CDCTs
+S8835	mat	S8835	2	coding CDCTs
+S8836	mat	S8836	2	coding CDCTs
+S8838	mat	S8838	2	coding CDCTs
+S8839	mat	S8839	2	coding CDCTs
+S8840	mat	S8840	2	coding CDCTs
+S8841	mat	S8841	2	coding CDCTs
+S8842	mat	S8842	2	coding CDCTs
+S8843	mat	S8843	2	coding CDCTs
+S8844	mat	S8844	2	coding CDCTs
+S8845	mat	S8845	2	coding CDCTs
+S8846	mat	S8846	2	coding CDCTs
+S8847	mat	S8847	2	coding CDCTs
+S8848	mat	S8848	2	coding CDCTs
+S8849	mat	S8849	2	coding CDCTs
+S8850	mat	S8850	2	coding CDCTs
+S8851	mat	S8851	2	coding CDCTs
+S8852	mat	S8852	2	coding CDCTs
+S8853	mat	S8853	2	coding CDCTs
+S8854	mat	S8854	2	coding CDCTs
+S8855	mat	S8855	2	coding CDCTs
+S8856	mat	S8856	2	coding CDCTs
+S8857	mat	S8857	2	coding CDCTs
+S8858	mat	S8858	2	coding CDCTs
+S8859	mat	S8859	2	coding CDCTs
+S8860	mat	S8860	2	coding CDCTs
+S8861	mat	S8861	2	coding CDCTs
+S8862	mat	S8862	2	coding CDCTs
+S8863	mat	S8863	2	coding CDCTs
+S8864	mat	S8864	2	coding CDCTs
+S8865	mat	S8865	2	coding CDCTs
+S8866	mat	S8866	2	coding CDCTs
+S8867	mat	S8867	2	coding CDCTs
+S8868	mat	S8868	2	coding CDCTs
+S8869	mat	S8869	2	coding CDCTs
+S8870	mat	S8870	2	coding CDCTs
+S8871	mat	S8871	2	coding CDCTs
+S8872	mat	S8872	2	coding CDCTs
+S8873	mat	S8873	2	coding CDCTs
+S8874	mat	S8874	2	coding CDCTs
+S8875	mat	S8875	2	coding CDCTs
+S8876	mat	S8876	2	coding CDCTs
+S8877	mat	S8877	2	coding CDCTs
+S8878	mat	S8878	2	coding CDCTs
+S8879	mat	S8879	2	coding CDCTs
+S8880	mat	S8880	2	coding CDCTs
+S8881	mat	S8881	2	coding CDCTs
+S8882	mat	S8882	2	coding CDCTs
+S8883	mat	S8883	2	coding CDCTs
+S8884	mat	S8884	2	coding CDCTs
+S8885	mat	S8885	2	coding CDCTs
+S8886	mat	S8886	2	coding CDCTs
+S8887	mat	S8887	2	coding CDCTs
+S8888	mat	S8888	2	coding CDCTs
+S8889	mat	S8889	2	coding CDCTs
+S8890	mat	S8890	2	coding CDCTs
+S8891	mat	S8891	2	coding CDCTs
+S8892	mat	S8892	2	coding CDCTs
+S8893	mat	S8893	2	coding CDCTs
+S8894	mat	S8894	2	coding CDCTs
+S8895	mat	S8895	2	coding CDCTs
+S8896	mat	S8896	2	coding CDCTs
+S8897	mat	S8897	2	coding CDCTs
+S8898	mat	S8898	2	coding CDCTs
+S8899	mat	S8899	2	coding CDCTs
+S8900	mat	S8900	2	coding CDCTs
+S8901	mat	S8901	2	coding CDCTs
+S8902	mat	S8902	2	coding CDCTs
+S8903	mat	S8903	2	coding CDCTs
+S8904	mat	S8904	2	coding CDCTs
+S8905	mat	S8905	2	coding CDCTs
+S8906	mat	S8906	2	coding CDCTs
+S8907	mat	S8907	2	coding CDCTs
+S8908	mat	S8908	2	coding CDCTs
+S8909	mat	S8909	2	coding CDCTs
+S8910	mat	S8910	2	coding CDCTs
+S8911	mat	S8911	2	coding CDCTs
+S8912	mat	S8912	2	coding CDCTs
+S8913	mat	S8913	2	coding CDCTs
+S8914	mat	S8914	2	coding CDCTs
+S8915	mat	S8915	2	coding CDCTs
+S8916	mat	S8916	2	coding CDCTs
+S8917	mat	S8917	2	coding CDCTs
+S8918	mat	S8918	2	coding CDCTs
+S8919	mat	S8919	2	coding CDCTs
+S8920	mat	S8920	2	coding CDCTs
+S8921	mat	S8921	2	coding CDCTs
+S8922	mat	S8922	2	coding CDCTs
+S8923	mat	S8923	2	coding CDCTs
+S8924	mat	S8924	2	coding CDCTs
+S8925	mat	S8925	2	coding CDCTs
+S8926	mat	S8926	2	coding CDCTs
+S8927	mat	S8927	2	coding CDCTs
+S8928	mat	S8928	2	coding CDCTs
+S8929	mat	S8929	2	coding CDCTs
+S8930	mat	S8930	2	coding CDCTs
+S8931	mat	S8931	2	coding CDCTs
+S8932	mat	S8932	2	coding CDCTs
+S8933	mat	S8933	2	coding CDCTs
+S8934	mat	S8934	2	coding CDCTs
+S8935	mat	S8935	2	coding CDCTs
+S8936	mat	S8936	2	coding CDCTs
+S8937	mat	S8937	2	coding CDCTs
+S8938	mat	S8938	2	coding CDCTs
+S8939	mat	S8939	2	coding CDCTs
+S8940	mat	S8940	2	coding CDCTs
+S8941	mat	S8941	2	coding CDCTs
+S8942	mat	S8942	2	coding CDCTs
+S8943	mat	S8943	2	coding CDCTs
+S8944	mat	S8944	2	coding CDCTs
+S8945	mat	S8945	2	coding CDCTs
+S8946	mat	S8946	2	coding CDCTs
+S8947	mat	S8947	2	coding CDCTs
+S8948	mat	S8948	2	coding CDCTs
+S8949	mat	S8949	2	coding CDCTs
+S8950	mat	S8950	2	coding CDCTs
+S8951	mat	S8951	2	coding CDCTs
+S8952	mat	S8952	2	coding CDCTs
+S8953	mat	S8953	2	coding CDCTs
+S8954	mat	S8954	2	coding CDCTs
+S8955	mat	S8955	2	coding CDCTs
+S8956	mat	S8956	2	coding CDCTs
+S8958	mat	S8958	2	coding CDCTs
+S8960	mat	S8960	2	coding CDCTs
+S8961	mat	S8961	2	coding CDCTs
+S8962	mat	S8962	2	coding CDCTs
+S8963	mat	S8963	2	coding CDCTs
+S8964	mat	S8964	2	coding CDCTs
+S8965	mat	S8965	2	coding CDCTs
+S8966	mat	S8966	2	coding CDCTs
+S8967	mat	S8967	2	coding CDCTs
+S8968	mat	S8968	2	coding CDCTs
+S8969	mat	S8969	2	coding CDCTs
+S8970	mat	S8970	2	coding CDCTs
+S8971	mat	S8971	2	coding CDCTs
+S8972	mat	S8972	2	coding CDCTs
+S8973	mat	S8973	2	coding CDCTs
+S8974	mat	S8974	2	coding CDCTs
+S8975	mat	S8975	2	coding CDCTs
+S8977	mat	S8977	2	coding CDCTs
+S8978	mat	S8978	2	coding CDCTs
+S8979	mat	S8979	2	coding CDCTs
+S8980	mat	S8980	2	coding CDCTs
+S8981	mat	S8981	2	coding CDCTs
+S8982	mat	S8982	2	coding CDCTs
+S8983	mat	S8983	2	coding CDCTs
+S8984	mat	S8984	2	coding CDCTs
+S8985	mat	S8985	2	coding CDCTs
+S8986	mat	S8986	2	coding CDCTs
+S8987	mat	S8987	2	coding CDCTs
+S8988	mat	S8988	2	coding CDCTs
+S8989	mat	S8989	2	coding CDCTs
+S8990	mat	S8990	2	coding CDCTs
+S8991	mat	S8991	2	coding CDCTs
+S8992	mat	S8992	2	coding CDCTs
+S8993	mat	S8993	2	coding CDCTs
+S8994	mat	S8994	2	coding CDCTs
+S8995	mat	S8995	2	coding CDCTs
+S8997	mat	S8997	2	coding CDCTs
+S8998	mat	S8998	2	coding CDCTs
+S8999	mat	S8999	2	coding CDCTs
+S9001	mat	S9001	2	coding CDCTs
+S9002	mat	S9002	2	coding CDCTs
+S9003	mat	S9003	2	coding CDCTs
+S9004	mat	S9004	2	coding CDCTs
+S9005	mat	S9005	2	coding CDCTs
+S9006	mat	S9006	2	coding CDCTs
+S9008	mat	S9008	2	coding CDCTs
+S9009	mat	S9009	2	coding CDCTs
+S9010	mat	S9010	2	coding CDCTs
+S9011	mat	S9011	2	coding CDCTs
+S9013	mat	S9013	2	coding CDCTs
+S9014	mat	S9014	2	coding CDCTs
+S9015	mat	S9015	2	coding CDCTs
+S9016	mat	S9016	2	coding CDCTs
+S9017	mat	S9017	2	coding CDCTs
+S9018	mat	S9018	2	coding CDCTs
+S9019	mat	S9019	2	coding CDCTs
+S9020	mat	S9020	2	coding CDCTs
+S9021	mat	S9021	2	coding CDCTs
+S9022	mat	S9022	2	coding CDCTs
+S9023	mat	S9023	2	coding CDCTs
+S9024	mat	S9024	2	coding CDCTs
+S9025	mat	S9025	2	coding CDCTs
+S9026	mat	S9026	2	coding CDCTs
+S9027	mat	S9027	2	coding CDCTs
+S9028	mat	S9028	2	coding CDCTs
+S9029	mat	S9029	2	coding CDCTs
+S9030	mat	S9030	2	coding CDCTs
+S9031	mat	S9031	2	coding CDCTs
+S9032	mat	S9032	2	coding CDCTs
+S9034	mat	S9034	2	coding CDCTs
+S9035	mat	S9035	2	coding CDCTs
+S9036	mat	S9036	2	coding CDCTs
+S9037	mat	S9037	2	coding CDCTs
+S9038	mat	S9038	2	coding CDCTs
+S9039	mat	S9039	2	coding CDCTs
+S9040	mat	S9040	2	coding CDCTs
+S9041	mat	S9041	2	coding CDCTs
+S9042	mat	S9042	2	coding CDCTs
+S9043	mat	S9043	2	coding CDCTs
+S9044	mat	S9044	2	coding CDCTs
+S9045	mat	S9045	2	coding CDCTs
+S9046	mat	S9046	2	coding CDCTs
+S9047	mat	S9047	2	coding CDCTs
+S9048	mat	S9048	2	coding CDCTs
+S9049	mat	S9049	2	coding CDCTs
+S9050	mat	S9050	2	coding CDCTs
+S9051	mat	S9051	2	coding CDCTs
+S9052	mat	S9052	2	coding CDCTs
+S9053	mat	S9053	2	coding CDCTs
+S9054	mat	S9054	2	coding CDCTs
+S9055	mat	S9055	2	coding CDCTs
+S9056	mat	S9056	2	coding CDCTs
+S9057	mat	S9057	2	coding CDCTs
+S9058	mat	S9058	2	coding CDCTs
+S9059	mat	S9059	2	coding CDCTs
+S9060	mat	S9060	2	coding CDCTs
+S9061	mat	S9061	2	coding CDCTs
+S9062	mat	S9062	2	coding CDCTs
+S9063	mat	S9063	2	coding CDCTs
+S9064	mat	S9064	2	coding CDCTs
+S9065	mat	S9065	2	coding CDCTs
+S9066	mat	S9066	2	coding CDCTs
+S9067	mat	S9067	2	coding CDCTs
+S9068	mat	S9068	2	coding CDCTs
+S9069	mat	S9069	2	coding CDCTs
+S9070	mat	S9070	2	coding CDCTs
+S9071	mat	S9071	2	coding CDCTs
+S9072	mat	S9072	2	coding CDCTs
+S9073	mat	S9073	2	coding CDCTs
+S9074	mat	S9074	2	coding CDCTs
+S9075	mat	S9075	2	coding CDCTs
+S9076	mat	S9076	2	coding CDCTs
+S9077	mat	S9077	2	coding CDCTs
+S9078	mat	S9078	2	coding CDCTs
+S9079	mat	S9079	2	coding CDCTs
+S9080	mat	S9080	2	coding CDCTs
+S9081	mat	S9081	2	coding CDCTs
+S9082	mat	S9082	2	coding CDCTs
+S9084	mat	S9084	2	coding CDCTs
+S9085	mat	S9085	2	coding CDCTs
+S9086	mat	S9086	2	coding CDCTs
+S9087	mat	S9087	2	coding CDCTs
+S9088	mat	S9088	2	coding CDCTs
+S9089	mat	S9089	2	coding CDCTs
+S9090	mat	S9090	2	coding CDCTs
+S9092	mat	S9092	2	coding CDCTs
+S9093	mat	S9093	2	coding CDCTs
+S9094	mat	S9094	2	coding CDCTs
+S9095	mat	S9095	2	coding CDCTs
+S9096	mat	S9096	2	coding CDCTs
+S9097	mat	S9097	2	coding CDCTs
+S9098	mat	S9098	2	coding CDCTs
+S9099	mat	S9099	2	coding CDCTs
+S9100	mat	S9100	2	coding CDCTs
+S9101	mat	S9101	2	coding CDCTs
+S9102	mat	S9102	2	coding CDCTs
+S9103	mat	S9103	2	coding CDCTs
+S9104	mat	S9104	2	coding CDCTs
+S9105	mat	S9105	2	coding CDCTs
+S9106	mat	S9106	2	coding CDCTs
+S9107	mat	S9107	2	coding CDCTs
+S9108	mat	S9108	2	coding CDCTs
+S9110	mat	S9110	2	coding CDCTs
+S9111	mat	S9111	2	coding CDCTs
+S9112	mat	S9112	2	coding CDCTs
+S9113	mat	S9113	2	coding CDCTs
+S9114	mat	S9114	2	coding CDCTs
+S9115	mat	S9115	2	coding CDCTs
+S9116	mat	S9116	2	coding CDCTs
+S9117	mat	S9117	2	coding CDCTs
+S9118	mat	S9118	2	coding CDCTs
+S9119	mat	S9119	2	coding CDCTs
+S9120	mat	S9120	2	coding CDCTs
+S9121	mat	S9121	2	coding CDCTs
+S9122	mat	S9122	2	coding CDCTs
+S9123	mat	S9123	2	coding CDCTs
+S9124	mat	S9124	2	coding CDCTs
+S9125	mat	S9125	2	coding CDCTs
+S9126	mat	S9126	2	coding CDCTs
+S9127	mat	S9127	2	coding CDCTs
+S9128	mat	S9128	2	coding CDCTs
+S9129	mat	S9129	2	coding CDCTs
+S9130	mat	S9130	2	coding CDCTs
+S9131	mat	S9131	2	coding CDCTs
+S9133	mat	S9133	2	coding CDCTs
+S9134	mat	S9134	2	coding CDCTs
+S9135	mat	S9135	2	coding CDCTs
+S9136	mat	S9136	2	coding CDCTs
+S9137	mat	S9137	2	coding CDCTs
+S9138	mat	S9138	2	coding CDCTs
+S9139	mat	S9139	2	coding CDCTs
+S9140	mat	S9140	2	coding CDCTs
+S9141	mat	S9141	2	coding CDCTs
+S9142	mat	S9142	2	coding CDCTs
+S9143	mat	S9143	2	coding CDCTs
+S9144	mat	S9144	2	coding CDCTs
+S9145	mat	S9145	2	coding CDCTs
+S9146	mat	S9146	2	coding CDCTs
+S9147	mat	S9147	2	coding CDCTs
+S9148	mat	S9148	2	coding CDCTs
+S9149	mat	S9149	2	coding CDCTs
+S9150	mat	S9150	2	coding CDCTs
+S9151	mat	S9151	2	coding CDCTs
+S9152	mat	S9152	2	coding CDCTs
+S9153	mat	S9153	2	coding CDCTs
+S9154	mat	S9154	2	coding CDCTs
+S9155	mat	S9155	2	coding CDCTs
+S9156	mat	S9156	2	coding CDCTs
+S9157	mat	S9157	2	coding CDCTs
+S9158	mat	S9158	2	coding CDCTs
+S9159	mat	S9159	2	coding CDCTs
+S9160	mat	S9160	2	coding CDCTs
+S9161	mat	S9161	2	coding CDCTs
+S9162	mat	S9162	2	coding CDCTs
+S9163	mat	S9163	2	coding CDCTs
+S9164	mat	S9164	2	coding CDCTs
+S9165	mat	S9165	2	coding CDCTs
+S9166	mat	S9166	2	coding CDCTs
+S9167	mat	S9167	2	coding CDCTs
+S9168	mat	S9168	2	coding CDCTs
+S9169	mat	S9169	2	coding CDCTs
+S9170	mat	S9170	2	coding CDCTs
+S9171	mat	S9171	2	coding CDCTs
+S9172	mat	S9172	2	coding CDCTs
+S9173	mat	S9173	2	coding CDCTs
+S9174	mat	S9174	2	coding CDCTs
+S9175	mat	S9175	2	coding CDCTs
+S9176	mat	S9176	2	coding CDCTs
+S9177	mat	S9177	2	coding CDCTs
+S9178	mat	S9178	2	coding CDCTs
+S9179	mat	S9179	2	coding CDCTs
+S9180	mat	S9180	2	coding CDCTs
+S9181	mat	S9181	2	coding CDCTs
+S9182	mat	S9182	2	coding CDCTs
+S9183	mat	S9183	2	coding CDCTs
+S9184	mat	S9184	2	coding CDCTs
+S9185	mat	S9185	2	coding CDCTs
+S9186	mat	S9186	2	coding CDCTs
+S9187	mat	S9187	2	coding CDCTs
+S9188	mat	S9188	2	coding CDCTs
+S9189	mat	S9189	2	coding CDCTs
+S9190	mat	S9190	2	coding CDCTs
+S9191	mat	S9191	2	coding CDCTs
+S9192	mat	S9192	2	coding CDCTs
+S9193	mat	S9193	2	coding CDCTs
+S9194	mat	S9194	2	coding CDCTs
+S9195	mat	S9195	2	coding CDCTs
+S9196	mat	S9196	2	coding CDCTs
+S9197	mat	S9197	2	coding CDCTs
+S9198	mat	S9198	2	coding CDCTs
+S9199	mat	S9199	2	coding CDCTs
+S9200	mat	S9200	2	coding CDCTs
+S9201	mat	S9201	2	coding CDCTs
+S9202	mat	S9202	2	coding CDCTs
+S9204	mat	S9204	2	coding CDCTs
+S9205	mat	S9205	2	coding CDCTs
+S9206	mat	S9206	2	coding CDCTs
+S9207	mat	S9207	2	coding CDCTs
+S9208	mat	S9208	2	coding CDCTs
+S9209	mat	S9209	2	coding CDCTs
+S9210	mat	S9210	2	coding CDCTs
+S9211	mat	S9211	2	coding CDCTs
+S9212	mat	S9212	2	coding CDCTs
+S9213	mat	S9213	2	coding CDCTs
+S9214	mat	S9214	2	coding CDCTs
+S9215	mat	S9215	2	coding CDCTs
+S9216	mat	S9216	2	coding CDCTs
+S9217	mat	S9217	2	coding CDCTs
+S9218	mat	S9218	2	coding CDCTs
+S9219	mat	S9219	2	coding CDCTs
+S9220	mat	S9220	2	coding CDCTs
+S9221	mat	S9221	2	coding CDCTs
+S9223	mat	S9223	2	coding CDCTs
+S9224	mat	S9224	2	coding CDCTs
+S9225	mat	S9225	2	coding CDCTs
+S9226	mat	S9226	2	coding CDCTs
+S9227	mat	S9227	2	coding CDCTs
+S9228	mat	S9228	2	coding CDCTs
+S9229	mat	S9229	2	coding CDCTs
+S9230	mat	S9230	2	coding CDCTs
+S9231	mat	S9231	2	coding CDCTs
+S9232	mat	S9232	2	coding CDCTs
+S9233	mat	S9233	2	coding CDCTs
+S9234	mat	S9234	2	coding CDCTs
+S9235	mat	S9235	2	coding CDCTs
+S9236	mat	S9236	2	coding CDCTs
+S9237	mat	S9237	2	coding CDCTs
+S9238	mat	S9238	2	coding CDCTs
+S9239	mat	S9239	2	coding CDCTs
+S9240	mat	S9240	2	coding CDCTs
+S9241	mat	S9241	2	coding CDCTs
+S9242	mat	S9242	2	coding CDCTs
+S9243	mat	S9243	2	coding CDCTs
+S9244	mat	S9244	2	coding CDCTs
+S9245	mat	S9245	2	coding CDCTs
+S9246	mat	S9246	2	coding CDCTs
+S9247	mat	S9247	2	coding CDCTs
+S9248	mat	S9248	2	coding CDCTs
+S9249	mat	S9249	2	coding CDCTs
+S9250	mat	S9250	2	coding CDCTs
+S9251	mat	S9251	2	coding CDCTs
+S9252	mat	S9252	2	coding CDCTs
+S9253	mat	S9253	2	coding CDCTs
+S9254	mat	S9254	2	coding CDCTs
+S9255	mat	S9255	2	coding CDCTs
+S9256	mat	S9256	2	coding CDCTs
+S9257	mat	S9257	2	coding CDCTs
+S9258	mat	S9258	2	coding CDCTs
+S9259	mat	S9259	2	coding CDCTs
+S9260	mat	S9260	2	coding CDCTs
+S9261	mat	S9261	2	coding CDCTs
+S9262	mat	S9262	2	coding CDCTs
+S9263	mat	S9263	2	coding CDCTs
+S9264	mat	S9264	2	coding CDCTs
+S9265	mat	S9265	2	coding CDCTs
+S9266	mat	S9266	2	coding CDCTs
+S9267	mat	S9267	2	coding CDCTs
+S9268	mat	S9268	2	coding CDCTs
+S9269	mat	S9269	2	coding CDCTs
+S9270	mat	S9270	2	coding CDCTs
+S9271	mat	S9271	2	coding CDCTs
+S9272	mat	S9272	2	coding CDCTs
+S9273	mat	S9273	2	coding CDCTs
+S9274	mat	S9274	2	coding CDCTs
+S9275	mat	S9275	2	coding CDCTs
+S9276	mat	S9276	2	coding CDCTs
+S9277	mat	S9277	2	coding CDCTs
+S9278	mat	S9278	2	coding CDCTs
+S9279	mat	S9279	2	coding CDCTs
+S9280	mat	S9280	2	coding CDCTs
+S9281	mat	S9281	2	coding CDCTs
+S9282	mat	S9282	2	coding CDCTs
+S9283	mat	S9283	2	coding CDCTs
+S9284	mat	S9284	2	coding CDCTs
+S9285	mat	S9285	2	coding CDCTs
+S9286	mat	S9286	2	coding CDCTs
+S9287	mat	S9287	2	coding CDCTs
+S9288	mat	S9288	2	coding CDCTs
+S9289	mat	S9289	2	coding CDCTs
+S9290	mat	S9290	2	coding CDCTs
+S9291	mat	S9291	2	coding CDCTs
+S9292	mat	S9292	2	coding CDCTs
+S9293	mat	S9293	2	coding CDCTs
+S9295	mat	S9295	2	coding CDCTs
+S9296	mat	S9296	2	coding CDCTs
+S9297	mat	S9297	2	coding CDCTs
+S9298	mat	S9298	2	coding CDCTs
+S9299	mat	S9299	2	coding CDCTs
+S9300	mat	S9300	2	coding CDCTs
+S9301	mat	S9301	2	coding CDCTs
+S9302	mat	S9302	2	coding CDCTs
+S9303	mat	S9303	2	coding CDCTs
+S9304	mat	S9304	2	coding CDCTs
+S9305	mat	S9305	2	coding CDCTs
+S9306	mat	S9306	2	coding CDCTs
+S9307	mat	S9307	2	coding CDCTs
+S9308	mat	S9308	2	coding CDCTs
+S9309	mat	S9309	2	coding CDCTs
+S9310	mat	S9310	2	coding CDCTs
+S9311	mat	S9311	2	coding CDCTs
+S9313	mat	S9313	2	coding CDCTs
+S9314	mat	S9314	2	coding CDCTs
+S9315	mat	S9315	2	coding CDCTs
+S9316	mat	S9316	2	coding CDCTs
+S9317	mat	S9317	2	coding CDCTs
+S9318	mat	S9318	2	coding CDCTs
+S9319	mat	S9319	2	coding CDCTs
+S9320	mat	S9320	2	coding CDCTs
+S9321	mat	S9321	2	coding CDCTs
+S9322	mat	S9322	2	coding CDCTs
+S9323	mat	S9323	2	coding CDCTs
+S9324	mat	S9324	2	coding CDCTs
+S9325	mat	S9325	2	coding CDCTs
+S9326	mat	S9326	2	coding CDCTs
+S9327	mat	S9327	2	coding CDCTs
+S9328	mat	S9328	2	coding CDCTs
+S9329	mat	S9329	2	coding CDCTs
+S9330	mat	S9330	2	coding CDCTs
+S9331	mat	S9331	2	coding CDCTs
+S9332	mat	S9332	2	coding CDCTs
+S9333	mat	S9333	2	coding CDCTs
+S9334	mat	S9334	2	coding CDCTs
+S9335	mat	S9335	2	coding CDCTs
+S9336	mat	S9336	2	coding CDCTs
+S9337	mat	S9337	2	coding CDCTs
+S9338	mat	S9338	2	coding CDCTs
+S9339	mat	S9339	2	coding CDCTs
+S9340	mat	S9340	2	coding CDCTs
+S9341	mat	S9341	2	coding CDCTs
+S9342	mat	S9342	2	coding CDCTs
+S9343	mat	S9343	2	coding CDCTs
+S9344	mat	S9344	2	coding CDCTs
+S9345	mat	S9345	2	coding CDCTs
+S9346	mat	S9346	2	coding CDCTs
+S9347	mat	S9347	2	coding CDCTs
+S9348	mat	S9348	2	coding CDCTs
+S9349	mat	S9349	2	coding CDCTs
+S9350	mat	S9350	2	coding CDCTs
+S9351	mat	S9351	2	coding CDCTs
+S9352	mat	S9352	2	coding CDCTs
+S9353	mat	S9353	2	coding CDCTs
+S9354	mat	S9354	2	coding CDCTs
+S9355	mat	S9355	2	coding CDCTs
+S9356	mat	S9356	2	coding CDCTs
+S9357	mat	S9357	2	coding CDCTs
+S9358	mat	S9358	2	coding CDCTs
+S9359	mat	S9359	2	coding CDCTs
+S9360	mat	S9360	2	coding CDCTs
+S9361	mat	S9361	2	coding CDCTs
+S9362	mat	S9362	2	coding CDCTs
+S9363	mat	S9363	2	coding CDCTs
+S9364	mat	S9364	2	coding CDCTs
+S9365	mat	S9365	2	coding CDCTs
+S9366	mat	S9366	2	coding CDCTs
+S9367	mat	S9367	2	coding CDCTs
+S9368	mat	S9368	2	coding CDCTs
+S9369	mat	S9369	2	coding CDCTs
+S9370	mat	S9370	2	coding CDCTs
+S9371	mat	S9371	2	coding CDCTs
+S9372	mat	S9372	2	coding CDCTs
+S9373	mat	S9373	2	coding CDCTs
+S9374	mat	S9374	2	coding CDCTs
+S9375	mat	S9375	2	coding CDCTs
+S9376	mat	S9376	2	coding CDCTs
+S9377	mat	S9377	2	coding CDCTs
+S9378	mat	S9378	2	coding CDCTs
+S9379	mat	S9379	2	coding CDCTs
+S9380	mat	S9380	2	coding CDCTs
+S9381	mat	S9381	2	coding CDCTs
+S9382	mat	S9382	2	coding CDCTs
+S9383	mat	S9383	2	coding CDCTs
+S9384	mat	S9384	2	coding CDCTs
+S9385	mat	S9385	2	coding CDCTs
+S9386	mat	S9386	2	coding CDCTs
+S9387	mat	S9387	2	coding CDCTs
+S9389	mat	S9389	2	coding CDCTs
+S9390	mat	S9390	2	coding CDCTs
+S9391	mat	S9391	2	coding CDCTs
+S9392	mat	S9392	2	coding CDCTs
+S9393	mat	S9393	2	coding CDCTs
+S9395	mat	S9395	2	coding CDCTs
+S9396	mat	S9396	2	coding CDCTs
+S9397	mat	S9397	2	coding CDCTs
+S9398	mat	S9398	2	coding CDCTs
+S9399	mat	S9399	2	coding CDCTs
+S9400	mat	S9400	2	coding CDCTs
+S9401	mat	S9401	2	coding CDCTs
+S9402	mat	S9402	2	coding CDCTs
+S9405	mat	S9405	2	coding CDCTs
+S9406	mat	S9406	2	coding CDCTs
+S9407	mat	S9407	2	coding CDCTs
+S9408	mat	S9408	2	coding CDCTs
+S9409	mat	S9409	2	coding CDCTs
+S9410	mat	S9410	2	coding CDCTs
+S9411	mat	S9411	2	coding CDCTs
+S9412	mat	S9412	2	coding CDCTs
+S9413	mat	S9413	2	coding CDCTs
+S9414	mat	S9414	2	coding CDCTs
+S9415	mat	S9415	2	coding CDCTs
+S9416	mat	S9416	2	coding CDCTs
+S9417	mat	S9417	2	coding CDCTs
+S9418	mat	S9418	2	coding CDCTs
+S9419	mat	S9419	2	coding CDCTs
+S9420	mat	S9420	2	coding CDCTs
+S9421	mat	S9421	2	coding CDCTs
+S9422	mat	S9422	2	coding CDCTs
+S9423	mat	S9423	2	coding CDCTs
+S9424	mat	S9424	2	coding CDCTs
+S9425	mat	S9425	2	coding CDCTs
+S9426	mat	S9426	2	coding CDCTs
+S9427	mat	S9427	2	coding CDCTs
+S9428	mat	S9428	2	coding CDCTs
+S9429	mat	S9429	2	coding CDCTs
+S9431	mat	S9431	2	coding CDCTs
+S9432	mat	S9432	2	coding CDCTs
+S9434	mat	S9434	2	coding CDCTs
+S9435	mat	S9435	2	coding CDCTs
+S9436	mat	S9436	2	coding CDCTs
+S9437	mat	S9437	2	coding CDCTs
+S9438	mat	S9438	2	coding CDCTs
+S9439	mat	S9439	2	coding CDCTs
+S9440	mat	S9440	2	coding CDCTs
+S9441	mat	S9441	2	coding CDCTs
+S9442	mat	S9442	2	coding CDCTs
+S9443	mat	S9443	2	coding CDCTs
+S9444	mat	S9444	2	coding CDCTs
+S9445	mat	S9445	2	coding CDCTs
+S9446	mat	S9446	2	coding CDCTs
+S9447	mat	S9447	2	coding CDCTs
+S9448	mat	S9448	2	coding CDCTs
+S9449	mat	S9449	2	coding CDCTs
+S9450	mat	S9450	2	coding CDCTs
+S9451	mat	S9451	2	coding CDCTs
+S9452	mat	S9452	2	coding CDCTs
+S9453	mat	S9453	2	coding CDCTs
+S9454	mat	S9454	2	coding CDCTs
+S9455	mat	S9455	2	coding CDCTs
+S9456	mat	S9456	2	coding CDCTs
+S9457	mat	S9457	2	coding CDCTs
+S9458	mat	S9458	2	coding CDCTs
+S9459	mat	S9459	2	coding CDCTs
+S9460	mat	S9460	2	coding CDCTs
+S9461	mat	S9461	2	coding CDCTs
+S9462	mat	S9462	2	coding CDCTs
+S9463	mat	S9463	2	coding CDCTs
+S9464	mat	S9464	2	coding CDCTs
+S9465	mat	S9465	2	coding CDCTs
+S9466	mat	S9466	2	coding CDCTs
+S9467	mat	S9467	2	coding CDCTs
+S9468	mat	S9468	2	coding CDCTs
+S9469	mat	S9469	2	coding CDCTs
+S9470	mat	S9470	2	coding CDCTs
+S9471	mat	S9471	2	coding CDCTs
+S9472	mat	S9472	2	coding CDCTs
+S9473	mat	S9473	2	coding CDCTs
+S9474	mat	S9474	2	coding CDCTs
+S9475	mat	S9475	2	coding CDCTs
+S9476	mat	S9476	2	coding CDCTs
+S9477	mat	S9477	2	coding CDCTs
+S9478	mat	S9478	2	coding CDCTs
+S9479	mat	S9479	2	coding CDCTs
+S9480	mat	S9480	2	coding CDCTs
+S9481	mat	S9481	2	coding CDCTs
+S9482	mat	S9482	2	coding CDCTs
+S9483	mat	S9483	2	coding CDCTs
+S9484	mat	S9484	2	coding CDCTs
+S9485	mat	S9485	2	coding CDCTs
+S9486	mat	S9486	2	coding CDCTs
+S9487	mat	S9487	2	coding CDCTs
+S9488	mat	S9488	2	coding CDCTs
+S9489	mat	S9489	2	coding CDCTs
+S9490	mat	S9490	2	coding CDCTs
+S9491	mat	S9491	2	coding CDCTs
+S9492	mat	S9492	2	coding CDCTs
+S9493	mat	S9493	2	coding CDCTs
+S9494	mat	S9494	2	coding CDCTs
+S9495	mat	S9495	2	coding CDCTs
+S9496	mat	S9496	2	coding CDCTs
+S9497	mat	S9497	2	coding CDCTs
+S9498	mat	S9498	2	coding CDCTs
+S9499	mat	S9499	2	coding CDCTs
+S9500	mat	S9500	2	coding CDCTs
+S9501	mat	S9501	2	coding CDCTs
+S9502	mat	S9502	2	coding CDCTs
+S9503	mat	S9503	2	coding CDCTs
+S9504	mat	S9504	2	coding CDCTs
+S9505	mat	S9505	2	coding CDCTs
+S9506	mat	S9506	2	coding CDCTs
+S9507	mat	S9507	2	coding CDCTs
+S9508	mat	S9508	2	coding CDCTs
+S9509	mat	S9509	2	coding CDCTs
+S9510	mat	S9510	2	coding CDCTs
+S9511	mat	S9511	2	coding CDCTs
+S9512	mat	S9512	2	coding CDCTs
+S9513	mat	S9513	2	coding CDCTs
+S9514	mat	S9514	2	coding CDCTs
+S9515	mat	S9515	2	coding CDCTs
+S9516	mat	S9516	2	coding CDCTs
+S9517	mat	S9517	2	coding CDCTs
+S9518	mat	S9518	2	coding CDCTs
+S9519	mat	S9519	2	coding CDCTs
+S9520	mat	S9520	2	coding CDCTs
+S9521	mat	S9521	2	coding CDCTs
+S9522	mat	S9522	2	coding CDCTs
+S9523	mat	S9523	2	coding CDCTs
+S9524	mat	S9524	2	coding CDCTs
+S9525	mat	S9525	2	coding CDCTs
+S9526	mat	S9526	2	coding CDCTs
+S9527	mat	S9527	2	coding CDCTs
+S9528	mat	S9528	2	coding CDCTs
+S9529	mat	S9529	2	coding CDCTs
+S9530	mat	S9530	2	coding CDCTs
+S9531	mat	S9531	2	coding CDCTs
+S9532	mat	S9532	2	coding CDCTs
+S9533	mat	S9533	2	coding CDCTs
+S9535	mat	S9535	2	coding CDCTs
+S9536	mat	S9536	2	coding CDCTs
+S9537	mat	S9537	2	coding CDCTs
+S9538	mat	S9538	2	coding CDCTs
+S9539	mat	S9539	2	coding CDCTs
+S9540	mat	S9540	2	coding CDCTs
+S9541	mat	S9541	2	coding CDCTs
+S9542	mat	S9542	2	coding CDCTs
+S9543	mat	S9543	2	coding CDCTs
+S9544	mat	S9544	2	coding CDCTs
+S9545	mat	S9545	2	coding CDCTs
+S9546	mat	S9546	2	coding CDCTs
+S9547	mat	S9547	2	coding CDCTs
+S9548	mat	S9548	2	coding CDCTs
+S9549	mat	S9549	2	coding CDCTs
+S9550	mat	S9550	2	coding CDCTs
+S9551	mat	S9551	2	coding CDCTs
+S9552	mat	S9552	2	coding CDCTs
+S9553	mat	S9553	2	coding CDCTs
+S9554	mat	S9554	2	coding CDCTs
+S9555	mat	S9555	2	coding CDCTs
+S9556	mat	S9556	2	coding CDCTs
+S9557	mat	S9557	2	coding CDCTs
+S9558	mat	S9558	2	coding CDCTs
+S9559	mat	S9559	2	coding CDCTs
+S9560	mat	S9560	2	coding CDCTs
+S9561	mat	S9561	2	coding CDCTs
+S9562	mat	S9562	2	coding CDCTs
+S9563	mat	S9563	2	coding CDCTs
+S9564	mat	S9564	2	coding CDCTs
+S9565	mat	S9565	2	coding CDCTs
+S9566	mat	S9566	2	coding CDCTs
+S9567	mat	S9567	2	coding CDCTs
+S9568	mat	S9568	2	coding CDCTs
+S9569	mat	S9569	2	coding CDCTs
+S9570	mat	S9570	2	coding CDCTs
+S9571	mat	S9571	2	coding CDCTs
+S9572	mat	S9572	2	coding CDCTs
+S9573	mat	S9573	2	coding CDCTs
+S9574	mat	S9574	2	coding CDCTs
+S9575	mat	S9575	2	coding CDCTs
+S9576	mat	S9576	2	coding CDCTs
+S9577	mat	S9577	2	coding CDCTs
+S9578	mat	S9578	2	coding CDCTs
+S9579	mat	S9579	2	coding CDCTs
+S9580	mat	S9580	2	coding CDCTs
+S9581	mat	S9581	2	coding CDCTs
+S9582	mat	S9582	2	coding CDCTs
+S9583	mat	S9583	2	coding CDCTs
+S9584	mat	S9584	2	coding CDCTs
+S9585	mat	S9585	2	coding CDCTs
+S9586	mat	S9586	2	coding CDCTs
+S9588	mat	S9588	2	coding CDCTs
+S9589	mat	S9589	2	coding CDCTs
+S9590	mat	S9590	2	coding CDCTs
+S9591	mat	S9591	2	coding CDCTs
+S9592	mat	S9592	2	coding CDCTs
+S9593	mat	S9593	2	coding CDCTs
+S9594	mat	S9594	2	coding CDCTs
+S9595	mat	S9595	2	coding CDCTs
+S9596	mat	S9596	2	coding CDCTs
+S9597	mat	S9597	2	coding CDCTs
+S9598	mat	S9598	2	coding CDCTs
+S9599	mat	S9599	2	coding CDCTs
+S9600	mat	S9600	2	coding CDCTs
+S9601	mat	S9601	2	coding CDCTs
+S9602	mat	S9602	2	coding CDCTs
+S9603	mat	S9603	2	coding CDCTs
+S9604	mat	S9604	2	coding CDCTs
+S9605	mat	S9605	2	coding CDCTs
+S9606	mat	S9606	2	coding CDCTs
+S9607	mat	S9607	2	coding CDCTs
+S9608	mat	S9608	2	coding CDCTs
+S9609	mat	S9609	2	noncoding CDCTs
+S9610	mat	S9610	2	noncoding CDCTs
+S9611	mat	S9611	2	noncoding CDCTs
+S9612	mat	S9612	2	noncoding CDCTs
+S9613	mat	S9613	2	noncoding CDCTs
+S9614	mat	S9614	2	noncoding CDCTs
+S9615	mat	S9615	2	noncoding CDCTs
+S9616	mat	S9616	2	noncoding CDCTs
+S9617	mat	S9617	2	noncoding CDCTs
+S9618	mat	S9618	2	noncoding CDCTs
+S9619	mat	S9619	2	noncoding CDCTs
+S9620	mat	S9620	2	noncoding CDCTs
+S9622	mat	S9622	2	noncoding CDCTs
+S9623	mat	S9623	2	noncoding CDCTs
+S9624	mat	S9624	2	noncoding CDCTs
+S9625	mat	S9625	2	noncoding CDCTs
+S9626	mat	S9626	2	noncoding CDCTs
+S9627	mat	S9627	2	noncoding CDCTs
+S9628	mat	S9628	2	noncoding CDCTs
+S9629	mat	S9629	2	noncoding CDCTs
+S9630	mat	S9630	2	noncoding CDCTs
+S9631	mat	S9631	2	noncoding CDCTs
+S9632	mat	S9632	2	noncoding CDCTs
+S9633	mat	S9633	2	noncoding CDCTs
+S9634	mat	S9634	2	noncoding CDCTs
+S9635	mat	S9635	2	noncoding CDCTs
+S9636	mat	S9636	2	noncoding CDCTs
+S9637	mat	S9637	2	noncoding CDCTs
+S9638	mat	S9638	2	noncoding CDCTs
+S9639	mat	S9639	2	noncoding CDCTs
+S9640	mat	S9640	2	noncoding CDCTs
+S9641	mat	S9641	2	noncoding CDCTs
+S9642	mat	S9642	2	noncoding CDCTs
+S9643	mat	S9643	2	noncoding CDCTs
+S9644	mat	S9644	2	noncoding CDCTs
+S9645	mat	S9645	2	noncoding CDCTs
+S9646	mat	S9646	2	noncoding CDCTs
+S9647	mat	S9647	2	noncoding CDCTs
+S9648	mat	S9648	2	noncoding CDCTs
+S9649	mat	S9649	2	noncoding CDCTs
+S9650	mat	S9650	2	noncoding CDCTs
+S9651	mat	S9651	2	noncoding CDCTs
+S9652	mat	S9652	2	noncoding CDCTs
+S9653	mat	S9653	2	noncoding CDCTs
+S9654	mat	S9654	2	noncoding CDCTs
+S9655	mat	S9655	2	noncoding CDCTs
+S9656	mat	S9656	2	noncoding CDCTs
+S9657	mat	S9657	2	noncoding CDCTs
+S9658	mat	S9658	2	noncoding CDCTs
+S9659	mat	S9659	2	noncoding CDCTs
+S9660	mat	S9660	2	noncoding CDCTs
+S9661	mat	S9661	2	noncoding CDCTs
+S9662	mat	S9662	2	noncoding CDCTs
+S9663	mat	S9663	2	noncoding CDCTs
+S9664	mat	S9664	2	noncoding CDCTs
+S9665	mat	S9665	2	noncoding CDCTs
+S9666	mat	S9666	2	noncoding CDCTs
+S9667	mat	S9667	2	noncoding CDCTs
+S9668	mat	S9668	2	noncoding CDCTs
+S9669	mat	S9669	2	noncoding CDCTs
+S9671	mat	S9671	2	noncoding CDCTs
+S9672	mat	S9672	2	noncoding CDCTs
+S9673	mat	S9673	2	noncoding CDCTs
+S9674	mat	S9674	2	noncoding CDCTs
+S9675	mat	S9675	2	noncoding CDCTs
+S9676	mat	S9676	2	noncoding CDCTs
+S9677	mat	S9677	2	noncoding CDCTs
+S9679	mat	S9679	2	noncoding CDCTs
+S9680	mat	S9680	2	noncoding CDCTs
+S9681	mat	S9681	2	noncoding CDCTs
+S9682	mat	S9682	2	noncoding CDCTs
+S9683	mat	S9683	2	noncoding CDCTs
+S9684	mat	S9684	2	noncoding CDCTs
+S9685	mat	S9685	2	noncoding CDCTs
+S9686	mat	S9686	2	noncoding CDCTs
+S9687	mat	S9687	2	noncoding CDCTs
+S9688	mat	S9688	2	noncoding CDCTs
+S9689	mat	S9689	2	noncoding CDCTs
+S9690	mat	S9690	2	noncoding CDCTs
+S9691	mat	S9691	2	noncoding CDCTs
+S9692	mat	S9692	2	noncoding CDCTs
+S9693	mat	S9693	2	noncoding CDCTs
+S9694	mat	S9694	2	noncoding CDCTs
+S9695	mat	S9695	2	noncoding CDCTs
+S9696	mat	S9696	2	noncoding CDCTs
+S9697	mat	S9697	2	noncoding CDCTs
+S9698	mat	S9698	2	noncoding CDCTs
+S9699	mat	S9699	2	noncoding CDCTs
+S9700	mat	S9700	2	noncoding CDCTs
+S9701	mat	S9701	2	noncoding CDCTs
+S9702	mat	S9702	2	noncoding CDCTs
+S9704	mat	S9704	2	noncoding CDCTs
+S9705	mat	S9705	2	noncoding CDCTs
+S9706	mat	S9706	2	noncoding CDCTs
+S9707	mat	S9707	2	noncoding CDCTs
+S9708	mat	S9708	2	noncoding CDCTs
+S9709	mat	S9709	2	noncoding CDCTs
+S9710	mat	S9710	2	noncoding CDCTs
+S9711	mat	S9711	2	noncoding CDCTs
+S9712	mat	S9712	2	noncoding CDCTs
+S9713	mat	S9713	2	noncoding CDCTs
+S9714	mat	S9714	2	noncoding CDCTs
+S9715	mat	S9715	2	noncoding CDCTs
+S9716	mat	S9716	2	noncoding CDCTs
+S9717	mat	S9717	2	noncoding CDCTs
+S9718	mat	S9718	2	noncoding CDCTs
+S9719	mat	S9719	2	noncoding CDCTs
+S9720	mat	S9720	2	noncoding CDCTs
+S9721	mat	S9721	2	noncoding CDCTs
+S9722	mat	S9722	2	noncoding CDCTs
+S9723	mat	S9723	2	noncoding CDCTs
+S9724	mat	S9724	2	noncoding CDCTs
+S9726	mat	S9726	2	noncoding CDCTs
+S9727	mat	S9727	2	noncoding CDCTs
+S9728	mat	S9728	2	noncoding CDCTs
+S9729	mat	S9729	2	noncoding CDCTs
+S9730	mat	S9730	2	noncoding CDCTs
+S9731	mat	S9731	2	noncoding CDCTs
+S9732	mat	S9732	2	noncoding CDCTs
+S9733	mat	S9733	2	noncoding CDCTs
+S9734	mat	S9734	2	noncoding CDCTs
+S9735	mat	S9735	2	noncoding CDCTs
+S9736	mat	S9736	2	noncoding CDCTs
+S9737	mat	S9737	2	noncoding CDCTs
+S9739	mat	S9739	2	noncoding CDCTs
+S9740	mat	S9740	2	noncoding CDCTs
+S9741	mat	S9741	2	noncoding CDCTs
+S9742	mat	S9742	2	noncoding CDCTs
+S9745	mat	S9745	2	noncoding CDCTs
+S9746	mat	S9746	2	noncoding CDCTs
+S9747	mat	S9747	2	noncoding CDCTs
+S9748	mat	S9748	2	noncoding CDCTs
+S9749	mat	S9749	2	noncoding CDCTs
+S9750	mat	S9750	2	noncoding CDCTs
+S9751	mat	S9751	2	noncoding CDCTs
+S9752	mat	S9752	2	noncoding CDCTs
+S9753	mat	S9753	2	noncoding CDCTs
+S9754	mat	S9754	2	noncoding CDCTs
+S9755	mat	S9755	2	noncoding CDCTs
+S9756	mat	S9756	2	noncoding CDCTs
+S9757	mat	S9757	2	noncoding CDCTs
+S9758	mat	S9758	2	noncoding CDCTs
+S9759	mat	S9759	2	noncoding CDCTs
+S9760	mat	S9760	2	noncoding CDCTs
+S9761	mat	S9761	2	noncoding CDCTs
+S9762	mat	S9762	2	noncoding CDCTs
+S9763	mat	S9763	2	noncoding CDCTs
+S9764	mat	S9764	2	noncoding CDCTs
+S9765	mat	S9765	2	noncoding CDCTs
+S9766	mat	S9766	2	noncoding CDCTs
+S9767	mat	S9767	2	noncoding CDCTs
+S9768	mat	S9768	2	noncoding CDCTs
+S9769	mat	S9769	2	noncoding CDCTs
+S9770	mat	S9770	2	noncoding CDCTs
+S9771	mat	S9771	2	noncoding CDCTs
+S9772	mat	S9772	2	noncoding CDCTs
+S9773	mat	S9773	2	noncoding CDCTs
+S9774	mat	S9774	2	noncoding CDCTs
+S9775	mat	S9775	2	noncoding CDCTs
+S9776	mat	S9776	2	noncoding CDCTs
+S9777	mat	S9777	2	noncoding CDCTs
+S9778	mat	S9778	2	noncoding CDCTs
+S9779	mat	S9779	2	noncoding CDCTs
+S9780	mat	S9780	2	noncoding CDCTs
+S9781	mat	S9781	2	noncoding CDCTs
+S9782	mat	S9782	2	noncoding CDCTs
+S9783	mat	S9783	2	noncoding CDCTs
+S9784	mat	S9784	2	noncoding CDCTs
+S9785	mat	S9785	2	noncoding CDCTs
+S9786	mat	S9786	2	noncoding CDCTs
+S9787	mat	S9787	2	noncoding CDCTs
+S9788	mat	S9788	2	noncoding CDCTs
+S9789	mat	S9789	2	noncoding CDCTs
+S9790	mat	S9790	2	noncoding CDCTs
+S9791	mat	S9791	2	noncoding CDCTs
+S9792	mat	S9792	2	noncoding CDCTs
+S9793	mat	S9793	2	noncoding CDCTs
+S9794	mat	S9794	2	noncoding CDCTs
+S9795	mat	S9795	2	noncoding CDCTs
+S9797	mat	S9797	2	noncoding CDCTs
+S9798	mat	S9798	2	noncoding CDCTs
+S9799	mat	S9799	2	noncoding CDCTs
+S9800	mat	S9800	2	noncoding CDCTs
+S9801	mat	S9801	2	noncoding CDCTs
+S9803	mat	S9803	2	noncoding CDCTs
+S9804	mat	S9804	2	noncoding CDCTs
+S9805	mat	S9805	2	noncoding CDCTs
+S9806	mat	S9806	2	noncoding CDCTs
+S9807	mat	S9807	2	noncoding CDCTs
+S9808	mat	S9808	2	noncoding CDCTs
+S9809	mat	S9809	2	noncoding CDCTs
+S9810	mat	S9810	2	noncoding CDCTs
+S9811	mat	S9811	2	noncoding CDCTs
+S9812	mat	S9812	2	noncoding CDCTs
+S9813	mat	S9813	2	noncoding CDCTs
+S9814	mat	S9814	2	noncoding CDCTs
+S9815	mat	S9815	2	noncoding CDCTs
+S9816	mat	S9816	2	noncoding CDCTs
+S9817	mat	S9817	2	noncoding CDCTs
+S9818	mat	S9818	2	noncoding CDCTs
+S9819	mat	S9819	2	noncoding CDCTs
+S9820	mat	S9820	2	noncoding CDCTs
+S9821	mat	S9821	2	noncoding CDCTs
+S9822	mat	S9822	2	noncoding CDCTs
+S9823	mat	S9823	2	noncoding CDCTs
+S9824	mat	S9824	2	noncoding CDCTs
+S9825	mat	S9825	2	noncoding CDCTs
+S9826	mat	S9826	2	noncoding CDCTs
+S9827	mat	S9827	2	noncoding CDCTs
+S9828	mat	S9828	2	noncoding CDCTs
+S9829	mat	S9829	2	noncoding CDCTs
+S9830	mat	S9830	2	noncoding CDCTs
+S9831	mat	S9831	2	noncoding CDCTs
+S9832	mat	S9832	2	noncoding CDCTs
+S9833	mat	S9833	2	noncoding CDCTs
+S9834	mat	S9834	2	noncoding CDCTs
+S9835	mat	S9835	2	noncoding CDCTs
+S9836	mat	S9836	2	noncoding CDCTs
+S9837	mat	S9837	2	noncoding CDCTs
+S9838	mat	S9838	2	noncoding CDCTs
+S9839	mat	S9839	2	noncoding CDCTs
+S9840	mat	S9840	2	noncoding CDCTs
+S9841	mat	S9841	2	noncoding CDCTs
+S9842	mat	S9842	2	noncoding CDCTs
+S9843	mat	S9843	2	noncoding CDCTs
+S9845	mat	S9845	2	noncoding CDCTs
+S9847	mat	S9847	2	noncoding CDCTs
+S9848	mat	S9848	2	noncoding CDCTs
+S9849	mat	S9849	2	noncoding CDCTs
+S9850	mat	S9850	2	noncoding CDCTs
+S9851	mat	S9851	2	noncoding CDCTs
+S9852	mat	S9852	2	noncoding CDCTs
+S9853	mat	S9853	2	noncoding CDCTs
+S9854	mat	S9854	2	noncoding CDCTs
+S9855	mat	S9855	2	noncoding CDCTs
+S9856	mat	S9856	2	noncoding CDCTs
+S9857	mat	S9857	2	noncoding CDCTs
+S9858	mat	S9858	2	noncoding CDCTs
+S9859	mat	S9859	2	noncoding CDCTs
+S9860	mat	S9860	2	noncoding CDCTs
+S9862	mat	S9862	2	noncoding CDCTs
+S9863	mat	S9863	2	noncoding CDCTs
+S9864	mat	S9864	2	noncoding CDCTs
+S9865	mat	S9865	2	noncoding CDCTs
+S9866	mat	S9866	2	noncoding CDCTs
+S9868	mat	S9868	2	noncoding CDCTs
+S9869	mat	S9869	2	noncoding CDCTs
+S9870	mat	S9870	2	noncoding CDCTs
+S9871	mat	S9871	2	noncoding CDCTs
+S9872	mat	S9872	2	noncoding CDCTs
+S9874	mat	S9874	2	noncoding CDCTs
+S9875	mat	S9875	2	noncoding CDCTs
+S9876	mat	S9876	2	noncoding CDCTs
+S9877	mat	S9877	2	noncoding CDCTs
+S9878	mat	S9878	2	noncoding CDCTs
+S9879	mat	S9879	2	noncoding CDCTs
+S9880	mat	S9880	2	noncoding CDCTs
+S9881	mat	S9881	2	noncoding CDCTs
+S9882	mat	S9882	2	noncoding CDCTs
+S9883	mat	S9883	2	noncoding CDCTs
+S9884	mat	S9884	2	noncoding CDCTs
+S9886	mat	S9886	2	noncoding CDCTs
+S9887	mat	S9887	2	noncoding CDCTs
+S9888	mat	S9888	2	noncoding CDCTs
+S9889	mat	S9889	2	noncoding CDCTs
+S9890	mat	S9890	2	noncoding CDCTs
+S9891	mat	S9891	2	noncoding CDCTs
+S9892	mat	S9892	2	noncoding CDCTs
+S9893	mat	S9893	2	noncoding CDCTs
+S9894	mat	S9894	2	noncoding CDCTs
+S9896	mat	S9896	2	noncoding CDCTs
+S9897	mat	S9897	2	noncoding CDCTs
+S9898	mat	S9898	2	noncoding CDCTs
+S9899	mat	S9899	2	noncoding CDCTs
+S9900	mat	S9900	2	noncoding CDCTs
+S9901	mat	S9901	2	noncoding CDCTs
+S9902	mat	S9902	2	noncoding CDCTs
+S9903	mat	S9903	2	noncoding CDCTs
+S9904	mat	S9904	2	noncoding CDCTs
+S9905	mat	S9905	2	noncoding CDCTs
+S9906	mat	S9906	2	noncoding CDCTs
+S9907	mat	S9907	2	noncoding CDCTs
+S9908	mat	S9908	2	noncoding CDCTs
+S9909	mat	S9909	2	noncoding CDCTs
+S9910	mat	S9910	2	noncoding CDCTs
+S9911	mat	S9911	2	noncoding CDCTs
+S9912	mat	S9912	2	noncoding CDCTs
+S9914	mat	S9914	2	noncoding CDCTs
+S9915	mat	S9915	2	noncoding CDCTs
+S9916	mat	S9916	2	noncoding CDCTs
+S9917	mat	S9917	2	noncoding CDCTs
+S9918	mat	S9918	2	noncoding CDCTs
+S9919	mat	S9919	2	noncoding CDCTs
+S9920	mat	S9920	2	noncoding CDCTs
+S9921	mat	S9921	2	noncoding CDCTs
+S9922	mat	S9922	2	noncoding CDCTs
+S9923	mat	S9923	2	noncoding CDCTs
+S9924	mat	S9924	2	noncoding CDCTs
+S9925	mat	S9925	2	noncoding CDCTs
+S9926	mat	S9926	2	noncoding CDCTs
+S9927	mat	S9927	2	noncoding CDCTs
+S9928	mat	S9928	2	noncoding CDCTs
+S9929	mat	S9929	2	noncoding CDCTs
+S9930	mat	S9930	2	noncoding CDCTs
+S9931	mat	S9931	2	noncoding CDCTs
+S9933	mat	S9933	2	noncoding CDCTs
+S9934	mat	S9934	2	noncoding CDCTs
+S9935	mat	S9935	2	noncoding CDCTs
+S9936	mat	S9936	2	noncoding CDCTs
+S9937	mat	S9937	2	noncoding CDCTs
+S9938	mat	S9938	2	noncoding CDCTs
+S9939	mat	S9939	2	noncoding CDCTs
+S9940	mat	S9940	2	noncoding CDCTs
+S9942	mat	S9942	2	noncoding CDCTs
+S9943	mat	S9943	2	noncoding CDCTs
+S9944	mat	S9944	2	noncoding CDCTs
+S9945	mat	S9945	2	noncoding CDCTs
+S9946	mat	S9946	2	noncoding CDCTs
+S9947	mat	S9947	2	noncoding CDCTs
+S9948	mat	S9948	2	noncoding CDCTs
+S9949	mat	S9949	2	noncoding CDCTs
+S9950	mat	S9950	2	noncoding CDCTs
+S9951	mat	S9951	2	noncoding CDCTs
+S9953	mat	S9953	2	noncoding CDCTs
+S9954	mat	S9954	2	noncoding CDCTs
+S9955	mat	S9955	2	noncoding CDCTs
+S9956	mat	S9956	2	noncoding CDCTs
+S9957	mat	S9957	2	noncoding CDCTs
+S9958	mat	S9958	2	noncoding CDCTs
+S9959	mat	S9959	2	noncoding CDCTs
+S9960	mat	S9960	2	noncoding CDCTs
+S9961	mat	S9961	2	noncoding CDCTs
+S9962	mat	S9962	2	noncoding CDCTs
+S9963	mat	S9963	2	noncoding CDCTs
+S9964	mat	S9964	2	noncoding CDCTs
+S9965	mat	S9965	2	noncoding CDCTs
+S9966	mat	S9966	2	noncoding CDCTs
+S9967	mat	S9967	2	noncoding CDCTs
+S9968	mat	S9968	2	noncoding CDCTs
+S9969	mat	S9969	2	noncoding CDCTs
+S9970	mat	S9970	2	noncoding CDCTs
+S9971	mat	S9971	2	noncoding CDCTs
+S9972	mat	S9972	2	noncoding CDCTs
+S9973	mat	S9973	2	noncoding CDCTs
+S9974	mat	S9974	2	noncoding CDCTs
+S9975	mat	S9975	2	noncoding CDCTs
+S9976	mat	S9976	2	noncoding CDCTs
+S9977	mat	S9977	2	noncoding CDCTs
+S9978	mat	S9978	2	noncoding CDCTs
+S9979	mat	S9979	2	noncoding CDCTs
+S9980	mat	S9980	2	noncoding CDCTs
+S9981	mat	S9981	2	noncoding CDCTs
+S9982	mat	S9982	2	noncoding CDCTs
+S9983	mat	S9983	2	noncoding CDCTs
+S9984	mat	S9984	2	noncoding CDCTs
+S9985	mat	S9985	2	noncoding CDCTs
+S9986	mat	S9986	2	noncoding CDCTs
+S9987	mat	S9987	2	noncoding CDCTs
+S9988	mat	S9988	2	noncoding CDCTs
+S9989	mat	S9989	2	noncoding CDCTs
+S9990	mat	S9990	2	noncoding CDCTs
+S9992	mat	S9992	2	noncoding CDCTs
+S9993	mat	S9993	2	noncoding CDCTs
+S9994	mat	S9994	2	noncoding CDCTs
+S9995	mat	S9995	2	noncoding CDCTs
+S9996	mat	S9996	2	noncoding CDCTs
+S9997	mat	S9997	2	noncoding CDCTs
+S9998	mat	S9998	2	noncoding CDCTs
+S9999	mat	S9999	2	noncoding CDCTs
+S10000	mat	S10000	2	noncoding CDCTs
+S10001	mat	S10001	2	noncoding CDCTs
+S10002	mat	S10002	2	noncoding CDCTs
+S10003	mat	S10003	2	noncoding CDCTs
+S10004	mat	S10004	2	noncoding CDCTs
+S10005	mat	S10005	2	noncoding CDCTs
+S10006	mat	S10006	2	noncoding CDCTs
+S10008	mat	S10008	2	noncoding CDCTs
+S10009	mat	S10009	2	noncoding CDCTs
+S10010	mat	S10010	2	noncoding CDCTs
+S10011	mat	S10011	2	noncoding CDCTs
+S10012	mat	S10012	2	noncoding CDCTs
+S10013	mat	S10013	2	noncoding CDCTs
+S10014	mat	S10014	2	noncoding CDCTs
+S10015	mat	S10015	2	noncoding CDCTs
+S10016	mat	S10016	2	noncoding CDCTs
+S10017	mat	S10017	2	noncoding CDCTs
+S10018	mat	S10018	2	noncoding CDCTs
+S10019	mat	S10019	2	noncoding CDCTs
+S10020	mat	S10020	2	noncoding CDCTs
+S10021	mat	S10021	2	noncoding CDCTs
+S10022	mat	S10022	2	noncoding CDCTs
+S10023	mat	S10023	2	noncoding CDCTs
+S10024	mat	S10024	2	noncoding CDCTs
+S10025	mat	S10025	2	noncoding CDCTs
+S10026	mat	S10026	2	noncoding CDCTs
+S10027	mat	S10027	2	noncoding CDCTs
+S10028	mat	S10028	2	noncoding CDCTs
+S10030	mat	S10030	2	noncoding CDCTs
+S10031	mat	S10031	2	noncoding CDCTs
+S10032	mat	S10032	2	noncoding CDCTs
+S10033	mat	S10033	2	noncoding CDCTs
+S10034	mat	S10034	2	noncoding CDCTs
+S10035	mat	S10035	2	noncoding CDCTs
+S10036	mat	S10036	2	noncoding CDCTs
+S10038	mat	S10038	2	noncoding CDCTs
+S10040	mat	S10040	2	noncoding CDCTs
+S10041	mat	S10041	2	noncoding CDCTs
+S10042	mat	S10042	2	noncoding CDCTs
+S10043	mat	S10043	2	noncoding CDCTs
+S10044	mat	S10044	2	noncoding CDCTs
+S10045	mat	S10045	2	noncoding CDCTs
+S10046	mat	S10046	2	noncoding CDCTs
+S10047	mat	S10047	2	noncoding CDCTs
+S10048	mat	S10048	2	noncoding CDCTs
+S10049	mat	S10049	2	noncoding CDCTs
+S10050	mat	S10050	2	noncoding CDCTs
+S10051	mat	S10051	2	noncoding CDCTs
+S10052	mat	S10052	2	noncoding CDCTs
+S10054	mat	S10054	2	noncoding CDCTs
+S10055	mat	S10055	2	noncoding CDCTs
+S10056	mat	S10056	2	noncoding CDCTs
+S10057	mat	S10057	2	noncoding CDCTs
+S10058	mat	S10058	2	noncoding CDCTs
+S10059	mat	S10059	2	noncoding CDCTs
+S10060	mat	S10060	2	noncoding CDCTs
+S10061	mat	S10061	2	noncoding CDCTs
+S10062	mat	S10062	2	noncoding CDCTs
+S10063	mat	S10063	2	noncoding CDCTs
+S10064	mat	S10064	2	noncoding CDCTs
+S10065	mat	S10065	2	noncoding CDCTs
+S10066	mat	S10066	2	noncoding CDCTs
+S10067	mat	S10067	2	noncoding CDCTs
+S10068	mat	S10068	2	noncoding CDCTs
+S10069	mat	S10069	2	noncoding CDCTs
+S10070	mat	S10070	2	noncoding CDCTs
+S10071	mat	S10071	2	noncoding CDCTs
+S10072	mat	S10072	2	noncoding CDCTs
+S10073	mat	S10073	2	noncoding CDCTs
+S10074	mat	S10074	2	noncoding CDCTs
+S10075	mat	S10075	2	noncoding CDCTs
+S10076	mat	S10076	2	noncoding CDCTs
+S10077	mat	S10077	2	noncoding CDCTs
+S10078	mat	S10078	2	noncoding CDCTs
+S10079	mat	S10079	2	noncoding CDCTs
+S10080	mat	S10080	2	noncoding CDCTs
+S10081	mat	S10081	2	noncoding CDCTs
+S10082	mat	S10082	2	noncoding CDCTs
+S10083	mat	S10083	2	noncoding CDCTs
+S10085	mat	S10085	2	noncoding CDCTs
+S10086	mat	S10086	2	noncoding CDCTs
+S10087	mat	S10087	2	noncoding CDCTs
+S10089	mat	S10089	2	noncoding CDCTs
+S10090	mat	S10090	2	noncoding CDCTs
+S10091	mat	S10091	2	noncoding CDCTs
+S10092	mat	S10092	2	noncoding CDCTs
+S10095	mat	S10095	2	noncoding CDCTs
+S10096	mat	S10096	2	noncoding CDCTs
+S10097	mat	S10097	2	noncoding CDCTs
+S10098	mat	S10098	2	noncoding CDCTs
+S10099	mat	S10099	2	noncoding CDCTs
+S10100	mat	S10100	2	noncoding CDCTs
+S10101	mat	S10101	2	noncoding CDCTs
+S10102	mat	S10102	2	noncoding CDCTs
+S10103	mat	S10103	2	noncoding CDCTs
+S10104	mat	S10104	2	noncoding CDCTs
+S10105	mat	S10105	2	noncoding CDCTs
+S10106	mat	S10106	2	noncoding CDCTs
+S10107	mat	S10107	2	noncoding CDCTs
+S10108	mat	S10108	2	noncoding CDCTs
+S10109	mat	S10109	2	noncoding CDCTs
+S10110	mat	S10110	2	noncoding CDCTs
+S10111	mat	S10111	2	noncoding CDCTs
+S10112	mat	S10112	2	noncoding CDCTs
+S10113	mat	S10113	2	noncoding CDCTs
+S10114	mat	S10114	2	noncoding CDCTs
+S10115	mat	S10115	2	noncoding CDCTs
+S10116	mat	S10116	2	noncoding CDCTs
+S10117	mat	S10117	2	noncoding CDCTs
+S10119	mat	S10119	2	noncoding CDCTs
+S10120	mat	S10120	2	noncoding CDCTs
+S10121	mat	S10121	2	noncoding CDCTs
+S10122	mat	S10122	2	noncoding CDCTs
+S10123	mat	S10123	2	noncoding CDCTs
+S10125	mat	S10125	2	noncoding CDCTs
+S10126	mat	S10126	2	noncoding CDCTs
+S10127	mat	S10127	2	noncoding CDCTs
+S10128	mat	S10128	2	noncoding CDCTs
+S10129	mat	S10129	2	noncoding CDCTs
+S10130	mat	S10130	2	noncoding CDCTs
+S10131	mat	S10131	2	noncoding CDCTs
+S10132	mat	S10132	2	noncoding CDCTs
+S10133	mat	S10133	2	noncoding CDCTs
+S10134	mat	S10134	2	noncoding CDCTs
+S10135	mat	S10135	2	noncoding CDCTs
+S10136	mat	S10136	2	noncoding CDCTs
+S10137	mat	S10137	2	noncoding CDCTs
+S10138	mat	S10138	2	noncoding CDCTs
+S10139	mat	S10139	2	noncoding CDCTs
+S10140	mat	S10140	2	noncoding CDCTs
+S10141	mat	S10141	2	noncoding CDCTs
+S10142	mat	S10142	2	noncoding CDCTs
+S10143	mat	S10143	2	noncoding CDCTs
+S10144	mat	S10144	2	noncoding CDCTs
+S10145	mat	S10145	2	noncoding CDCTs
+S10146	mat	S10146	2	noncoding CDCTs
+S10147	mat	S10147	2	noncoding CDCTs
+S10148	mat	S10148	2	noncoding CDCTs
+S10149	mat	S10149	2	noncoding CDCTs
+S10150	mat	S10150	2	noncoding CDCTs
+S10151	mat	S10151	2	noncoding CDCTs
+S10152	mat	S10152	2	noncoding CDCTs
+S10153	mat	S10153	2	noncoding CDCTs
+S10154	mat	S10154	2	noncoding CDCTs
+S10155	mat	S10155	2	noncoding CDCTs
+S10156	mat	S10156	2	noncoding CDCTs
+S10157	mat	S10157	2	noncoding CDCTs
+S10158	mat	S10158	2	noncoding CDCTs
+S10159	mat	S10159	2	noncoding CDCTs
+S10160	mat	S10160	2	noncoding CDCTs
+S10161	mat	S10161	2	noncoding CDCTs
+S10162	mat	S10162	2	noncoding CDCTs
+S10163	mat	S10163	2	noncoding CDCTs
+S10164	mat	S10164	2	noncoding CDCTs
+S10165	mat	S10165	2	noncoding CDCTs
+S10167	mat	S10167	2	noncoding CDCTs
+S10168	mat	S10168	2	noncoding CDCTs
+S10169	mat	S10169	2	noncoding CDCTs
+S10170	mat	S10170	2	noncoding CDCTs
+S10171	mat	S10171	2	noncoding CDCTs
+S10172	mat	S10172	2	noncoding CDCTs
+S10173	mat	S10173	2	noncoding CDCTs
+S10174	mat	S10174	2	noncoding CDCTs
+S10175	mat	S10175	2	noncoding CDCTs
+S10176	mat	S10176	2	noncoding CDCTs
+S10177	mat	S10177	2	noncoding CDCTs
+S10178	mat	S10178	2	noncoding CDCTs
+S10179	mat	S10179	2	noncoding CDCTs
+S10180	mat	S10180	2	noncoding CDCTs
+S10181	mat	S10181	2	noncoding CDCTs
+S10182	mat	S10182	2	noncoding CDCTs
+S10183	mat	S10183	2	noncoding CDCTs
+S10184	mat	S10184	2	noncoding CDCTs
+S10185	mat	S10185	2	noncoding CDCTs
+S10186	mat	S10186	2	noncoding CDCTs
+S10187	mat	S10187	2	noncoding CDCTs
+S10188	mat	S10188	2	noncoding CDCTs
+S10189	mat	S10189	2	noncoding CDCTs
+S10190	mat	S10190	2	noncoding CDCTs
+S10191	mat	S10191	2	noncoding CDCTs
+S10192	mat	S10192	2	noncoding CDCTs
+S10193	mat	S10193	2	noncoding CDCTs
+S10194	mat	S10194	2	noncoding CDCTs
+S10195	mat	S10195	2	noncoding CDCTs
+S10196	mat	S10196	2	noncoding CDCTs
+S10198	mat	S10198	2	noncoding CDCTs
+S10199	mat	S10199	2	noncoding CDCTs
+S10200	mat	S10200	2	noncoding CDCTs
+S10201	mat	S10201	2	noncoding CDCTs
+S10202	mat	S10202	2	noncoding CDCTs
+S10203	mat	S10203	2	noncoding CDCTs
+S10204	mat	S10204	2	noncoding CDCTs
+S10205	mat	S10205	2	noncoding CDCTs
+S10206	mat	S10206	2	noncoding CDCTs
+S10207	mat	S10207	2	noncoding CDCTs
+S10208	mat	S10208	2	noncoding CDCTs
+S10209	mat	S10209	2	noncoding CDCTs
+S10210	mat	S10210	2	noncoding CDCTs
+S10211	mat	S10211	2	noncoding CDCTs
+S10212	mat	S10212	2	noncoding CDCTs
+S10213	mat	S10213	2	noncoding CDCTs
+S10214	mat	S10214	2	noncoding CDCTs
+S10215	mat	S10215	2	noncoding CDCTs
+S10216	mat	S10216	2	noncoding CDCTs
+S10217	mat	S10217	2	noncoding CDCTs
+S10218	mat	S10218	2	noncoding CDCTs
+S10219	mat	S10219	2	noncoding CDCTs
+S10220	mat	S10220	2	noncoding CDCTs
+S10221	mat	S10221	2	noncoding CDCTs
+S10222	mat	S10222	2	noncoding CDCTs
+S10223	mat	S10223	2	noncoding CDCTs
+S10224	mat	S10224	2	noncoding CDCTs
+S10225	mat	S10225	2	noncoding CDCTs
+S10226	mat	S10226	2	noncoding CDCTs
+S10227	mat	S10227	2	noncoding CDCTs
+S10228	mat	S10228	2	noncoding CDCTs
+S10229	mat	S10229	2	noncoding CDCTs
+S10230	mat	S10230	2	noncoding CDCTs
+S10231	mat	S10231	2	noncoding CDCTs
+S10232	mat	S10232	2	noncoding CDCTs
+S10233	mat	S10233	2	noncoding CDCTs
+S10234	mat	S10234	2	noncoding CDCTs
+S10235	mat	S10235	2	noncoding CDCTs
+S10236	mat	S10236	2	noncoding CDCTs
+S10237	mat	S10237	2	noncoding CDCTs
+S10238	mat	S10238	2	noncoding CDCTs
+S10239	mat	S10239	2	noncoding CDCTs
+S10240	mat	S10240	2	noncoding CDCTs
+S10241	mat	S10241	2	noncoding CDCTs
+S10242	mat	S10242	2	noncoding CDCTs
+S10243	mat	S10243	2	noncoding CDCTs
+S10244	mat	S10244	2	noncoding CDCTs
+S10245	mat	S10245	2	noncoding CDCTs
+S10246	mat	S10246	2	noncoding CDCTs
+S10247	mat	S10247	2	noncoding CDCTs
+S10248	mat	S10248	2	noncoding CDCTs
+S10249	mat	S10249	2	noncoding CDCTs
+S10250	mat	S10250	2	noncoding CDCTs
+S10251	mat	S10251	2	noncoding CDCTs
+S10252	mat	S10252	2	noncoding CDCTs
+S10253	mat	S10253	2	noncoding CDCTs
+S10254	mat	S10254	2	noncoding CDCTs
+S10255	mat	S10255	2	noncoding CDCTs
+S10256	mat	S10256	2	noncoding CDCTs
+S10257	mat	S10257	2	noncoding CDCTs
+S10258	mat	S10258	2	noncoding CDCTs
+S10259	mat	S10259	2	noncoding CDCTs
+S10260	mat	S10260	2	noncoding CDCTs
+S10261	mat	S10261	2	noncoding CDCTs
+S10262	mat	S10262	2	noncoding CDCTs
+S10263	mat	S10263	2	noncoding CDCTs
+S10264	mat	S10264	2	noncoding CDCTs
+S10265	mat	S10265	2	noncoding CDCTs
+S10266	mat	S10266	2	noncoding CDCTs
+S10267	mat	S10267	2	noncoding CDCTs
+S10268	mat	S10268	2	noncoding CDCTs
+S10269	mat	S10269	2	noncoding CDCTs
+S10270	mat	S10270	2	noncoding CDCTs
+S10271	mat	S10271	2	noncoding CDCTs
+S10272	mat	S10272	2	noncoding CDCTs
+S10273	mat	S10273	2	noncoding CDCTs
+S10274	mat	S10274	2	noncoding CDCTs
+S10275	mat	S10275	2	noncoding CDCTs
+S10276	mat	S10276	2	noncoding CDCTs
+S10277	mat	S10277	2	noncoding CDCTs
+S10279	mat	S10279	2	noncoding CDCTs
+S10281	mat	S10281	2	noncoding CDCTs
+S10282	mat	S10282	2	noncoding CDCTs
+S10283	mat	S10283	2	noncoding CDCTs
+S10284	mat	S10284	2	noncoding CDCTs
+S10285	mat	S10285	2	noncoding CDCTs
+S10286	mat	S10286	2	noncoding CDCTs
+S10287	mat	S10287	2	noncoding CDCTs
+S10288	mat	S10288	2	noncoding CDCTs
+S10289	mat	S10289	2	noncoding CDCTs
+S10290	mat	S10290	2	noncoding CDCTs
+S10292	mat	S10292	2	noncoding CDCTs
+S10293	mat	S10293	2	noncoding CDCTs
+S10294	mat	S10294	2	noncoding CDCTs
+S10295	mat	S10295	2	noncoding CDCTs
+S10296	mat	S10296	2	noncoding CDCTs
+S10297	mat	S10297	2	noncoding CDCTs
+S10298	mat	S10298	2	noncoding CDCTs
+S10299	mat	S10299	2	noncoding CDCTs
+S10300	mat	S10300	2	noncoding CDCTs
+S10301	mat	S10301	2	noncoding CDCTs
+S10302	mat	S10302	2	noncoding CDCTs
+S10303	mat	S10303	2	noncoding CDCTs
+S10304	mat	S10304	2	noncoding CDCTs
+S10306	mat	S10306	2	noncoding CDCTs
+S10307	mat	S10307	2	noncoding CDCTs
+S10308	mat	S10308	2	noncoding CDCTs
+S10309	mat	S10309	2	noncoding CDCTs
+S10311	mat	S10311	2	noncoding CDCTs
+S10312	mat	S10312	2	noncoding CDCTs
+S10313	mat	S10313	2	noncoding CDCTs
+S10314	mat	S10314	2	noncoding CDCTs
+S10315	mat	S10315	2	noncoding CDCTs
+S10316	mat	S10316	2	noncoding CDCTs
+S10317	mat	S10317	2	noncoding CDCTs
+S10318	mat	S10318	2	noncoding CDCTs
+S10319	mat	S10319	2	noncoding CDCTs
+S10320	mat	S10320	2	noncoding CDCTs
+S10321	mat	S10321	2	noncoding CDCTs
+S10322	mat	S10322	2	noncoding CDCTs
+S10323	mat	S10323	2	noncoding CDCTs
+S10324	mat	S10324	2	noncoding CDCTs
+S10325	mat	S10325	2	noncoding CDCTs
+S10326	mat	S10326	2	noncoding CDCTs
+S10327	mat	S10327	2	noncoding CDCTs
+S10329	mat	S10329	2	noncoding CDCTs
+S10330	mat	S10330	2	noncoding CDCTs
+S10332	mat	S10332	2	noncoding CDCTs
+S10333	mat	S10333	2	noncoding CDCTs
+S10334	mat	S10334	2	noncoding CDCTs
+S10335	mat	S10335	2	noncoding CDCTs
+S10336	mat	S10336	2	noncoding CDCTs
+S10338	mat	S10338	2	noncoding CDCTs
+S10339	mat	S10339	2	noncoding CDCTs
+S10340	mat	S10340	2	noncoding CDCTs
+S10341	mat	S10341	2	noncoding CDCTs
+S10342	mat	S10342	2	noncoding CDCTs
+S10343	mat	S10343	2	noncoding CDCTs
+S10345	mat	S10345	2	noncoding CDCTs
+S10346	mat	S10346	2	noncoding CDCTs
+S10347	mat	S10347	2	noncoding CDCTs
+S10348	mat	S10348	2	noncoding CDCTs
+S10349	mat	S10349	2	noncoding CDCTs
+S10350	mat	S10350	2	noncoding CDCTs
+S10351	mat	S10351	2	noncoding CDCTs
+S10352	mat	S10352	2	noncoding CDCTs
+S10353	mat	S10353	2	noncoding CDCTs
+S10354	mat	S10354	2	noncoding CDCTs
+S10355	mat	S10355	2	noncoding CDCTs
+S10356	mat	S10356	2	noncoding CDCTs
+S10357	mat	S10357	2	noncoding CDCTs
+S10358	mat	S10358	2	noncoding CDCTs
+S10359	mat	S10359	2	noncoding CDCTs
+S10360	mat	S10360	2	noncoding CDCTs
+S10361	mat	S10361	2	noncoding CDCTs
+S10362	mat	S10362	2	noncoding CDCTs
+S10363	mat	S10363	2	noncoding CDCTs
+S10364	mat	S10364	2	noncoding CDCTs
+S10365	mat	S10365	2	noncoding CDCTs
+S10366	mat	S10366	2	noncoding CDCTs
+S10367	mat	S10367	2	noncoding CDCTs
+S10368	mat	S10368	2	noncoding CDCTs
+S10369	mat	S10369	2	noncoding CDCTs
+S10370	mat	S10370	2	noncoding CDCTs
+S10371	mat	S10371	2	noncoding CDCTs
+S10372	mat	S10372	2	noncoding CDCTs
+S10373	mat	S10373	2	noncoding CDCTs
+S10374	mat	S10374	2	noncoding CDCTs
+S10375	mat	S10375	2	noncoding CDCTs
+S10376	mat	S10376	2	noncoding CDCTs
+S10377	mat	S10377	2	noncoding CDCTs
+S10378	mat	S10378	2	noncoding CDCTs
+S10379	mat	S10379	2	noncoding CDCTs
+S10380	mat	S10380	2	noncoding CDCTs
+S10381	mat	S10381	2	noncoding CDCTs
+S10382	mat	S10382	2	noncoding CDCTs
+S10383	mat	S10383	2	noncoding CDCTs
+S10384	mat	S10384	2	noncoding CDCTs
+S10385	mat	S10385	2	noncoding CDCTs
+S10386	mat	S10386	2	noncoding CDCTs
+S10387	mat	S10387	2	noncoding CDCTs
+S10388	mat	S10388	2	noncoding CDCTs
+S10389	mat	S10389	2	noncoding CDCTs
+S10390	mat	S10390	2	noncoding CDCTs
+S10391	mat	S10391	2	noncoding CDCTs
+S10392	mat	S10392	2	noncoding CDCTs
+S10393	mat	S10393	2	noncoding CDCTs
+S10394	mat	S10394	2	noncoding CDCTs
+S10395	mat	S10395	2	noncoding CDCTs
+S10396	mat	S10396	2	noncoding CDCTs
+S10397	mat	S10397	2	noncoding CDCTs
+S10398	mat	S10398	2	noncoding CDCTs
+S10399	mat	S10399	2	noncoding CDCTs
+S10400	mat	S10400	2	noncoding CDCTs
+S10401	mat	S10401	2	noncoding CDCTs
+S10402	mat	S10402	2	noncoding CDCTs
+S10403	mat	S10403	2	noncoding CDCTs
+S10404	mat	S10404	2	noncoding CDCTs
+S10405	mat	S10405	2	noncoding CDCTs
+S10406	mat	S10406	2	noncoding CDCTs
+S10407	mat	S10407	2	noncoding CDCTs
+S10408	mat	S10408	2	noncoding CDCTs
+S10409	mat	S10409	2	noncoding CDCTs
+S10410	mat	S10410	2	noncoding CDCTs
+S10411	mat	S10411	2	noncoding CDCTs
+S10412	mat	S10412	2	noncoding CDCTs
+S10413	mat	S10413	2	noncoding CDCTs
+S10415	mat	S10415	2	noncoding CDCTs
+S10416	mat	S10416	2	noncoding CDCTs
+S10417	mat	S10417	2	noncoding CDCTs
+S10418	mat	S10418	2	noncoding CDCTs
+S10419	mat	S10419	2	noncoding CDCTs
+S10420	mat	S10420	2	noncoding CDCTs
+S10421	mat	S10421	2	noncoding CDCTs
+S10422	mat	S10422	2	noncoding CDCTs
+S10423	mat	S10423	2	noncoding CDCTs
+S10424	mat	S10424	2	noncoding CDCTs
+S10425	mat	S10425	2	noncoding CDCTs
+S10426	mat	S10426	2	noncoding CDCTs
+S10427	mat	S10427	2	noncoding CDCTs
+S10428	mat	S10428	2	noncoding CDCTs
+S10429	mat	S10429	2	noncoding CDCTs
+S10430	mat	S10430	2	noncoding CDCTs
+S10431	mat	S10431	2	noncoding CDCTs
+S10432	mat	S10432	2	noncoding CDCTs
+S10433	mat	S10433	2	noncoding CDCTs
+S10435	mat	S10435	2	noncoding CDCTs
+S10436	mat	S10436	2	noncoding CDCTs
+S10437	mat	S10437	2	noncoding CDCTs
+S10439	mat	S10439	2	noncoding CDCTs
+S10440	mat	S10440	2	noncoding CDCTs
+S10441	mat	S10441	2	noncoding CDCTs
+S10442	mat	S10442	2	noncoding CDCTs
+S10443	mat	S10443	2	noncoding CDCTs
+S10444	mat	S10444	2	noncoding CDCTs
+S10445	mat	S10445	2	noncoding CDCTs
+S10446	mat	S10446	2	noncoding CDCTs
+S10447	mat	S10447	2	noncoding CDCTs
+S10448	mat	S10448	2	noncoding CDCTs
+S10449	mat	S10449	2	noncoding CDCTs
+S10450	mat	S10450	2	noncoding CDCTs
+S10451	mat	S10451	2	noncoding CDCTs
+S10452	mat	S10452	2	noncoding CDCTs
+S10453	mat	S10453	2	noncoding CDCTs
+S10454	mat	S10454	2	noncoding CDCTs
+S10455	mat	S10455	2	noncoding CDCTs
+S10456	mat	S10456	2	noncoding CDCTs
+S10457	mat	S10457	2	noncoding CDCTs
+S10458	mat	S10458	2	noncoding CDCTs
+S10459	mat	S10459	2	noncoding CDCTs
+S10460	mat	S10460	2	noncoding CDCTs
+S10461	mat	S10461	2	noncoding CDCTs
+S10462	mat	S10462	2	noncoding CDCTs
+S10463	mat	S10463	2	noncoding CDCTs
+S10464	mat	S10464	2	noncoding CDCTs
+S10465	mat	S10465	2	noncoding CDCTs
+S10466	mat	S10466	2	noncoding CDCTs
+S10467	mat	S10467	2	noncoding CDCTs
+S10468	mat	S10468	2	noncoding CDCTs
+S10469	mat	S10469	2	noncoding CDCTs
+S10470	mat	S10470	2	noncoding CDCTs
+S10471	mat	S10471	2	noncoding CDCTs
+S10472	mat	S10472	2	noncoding CDCTs
+S10473	mat	S10473	2	noncoding CDCTs
+S10474	mat	S10474	2	noncoding CDCTs
+S10475	mat	S10475	2	noncoding CDCTs
+S10476	mat	S10476	2	noncoding CDCTs
+S10477	mat	S10477	2	noncoding CDCTs
+S10478	mat	S10478	2	noncoding CDCTs
+S10479	mat	S10479	2	noncoding CDCTs
+S10480	mat	S10480	2	noncoding CDCTs
+S10481	mat	S10481	2	noncoding CDCTs
+S10482	mat	S10482	2	noncoding CDCTs
+S10483	mat	S10483	2	noncoding CDCTs
+S10484	mat	S10484	2	noncoding CDCTs
+S10485	mat	S10485	2	noncoding CDCTs
+S10486	mat	S10486	2	noncoding CDCTs
+S10487	mat	S10487	2	noncoding CDCTs
+S10488	mat	S10488	2	noncoding CDCTs
+S10489	mat	S10489	2	noncoding CDCTs
+S10490	mat	S10490	2	noncoding CDCTs
+S10491	mat	S10491	2	noncoding CDCTs
+S10492	mat	S10492	2	noncoding CDCTs
+S10493	mat	S10493	2	noncoding CDCTs
+S10494	mat	S10494	2	noncoding CDCTs
+S10495	mat	S10495	2	noncoding CDCTs
+S10496	mat	S10496	2	noncoding CDCTs
+S10497	mat	S10497	2	noncoding CDCTs
+S10498	mat	S10498	2	noncoding CDCTs
+S10499	mat	S10499	2	noncoding CDCTs
+S10500	mat	S10500	2	noncoding CDCTs
+S10501	mat	S10501	2	noncoding CDCTs
+S10502	mat	S10502	2	noncoding CDCTs
+S10503	mat	S10503	2	noncoding CDCTs
+S10504	mat	S10504	2	noncoding CDCTs
+S10505	mat	S10505	2	noncoding CDCTs
+S10506	mat	S10506	2	noncoding CDCTs
+S10507	mat	S10507	2	noncoding CDCTs
+S10508	mat	S10508	2	noncoding CDCTs
+S10509	mat	S10509	2	noncoding CDCTs
+S10510	mat	S10510	2	noncoding CDCTs
+S10511	mat	S10511	2	noncoding CDCTs
+S10512	mat	S10512	2	noncoding CDCTs
+S10513	mat	S10513	2	noncoding CDCTs
+S10514	mat	S10514	2	noncoding CDCTs
+S10516	mat	S10516	2	noncoding CDCTs
+S10517	mat	S10517	2	noncoding CDCTs
+S10518	mat	S10518	2	noncoding CDCTs
+S10519	mat	S10519	2	noncoding CDCTs
+S10520	mat	S10520	2	noncoding CDCTs
+S10521	mat	S10521	2	noncoding CDCTs
+S10522	mat	S10522	2	noncoding CDCTs
+S10523	mat	S10523	2	noncoding CDCTs
+S10524	mat	S10524	2	noncoding CDCTs
+S10525	mat	S10525	2	noncoding CDCTs
+S10526	mat	S10526	2	noncoding CDCTs
+S10527	mat	S10527	2	noncoding CDCTs
+S10529	mat	S10529	2	noncoding CDCTs
+S10530	mat	S10530	2	noncoding CDCTs
+S10531	mat	S10531	2	noncoding CDCTs
+S10532	mat	S10532	2	noncoding CDCTs
+S10533	mat	S10533	2	noncoding CDCTs
+S10534	mat	S10534	2	noncoding CDCTs
+S10535	mat	S10535	2	noncoding CDCTs
+S10536	mat	S10536	2	noncoding CDCTs
+S10537	mat	S10537	2	noncoding CDCTs
+S10538	mat	S10538	2	noncoding CDCTs
+S10539	mat	S10539	2	noncoding CDCTs
+S10540	mat	S10540	2	noncoding CDCTs
+S10541	mat	S10541	2	noncoding CDCTs
+S10542	mat	S10542	2	noncoding CDCTs
+S10543	mat	S10543	2	noncoding CDCTs
+S10544	mat	S10544	2	noncoding CDCTs
+S10545	mat	S10545	2	noncoding CDCTs
+S10546	mat	S10546	2	noncoding CDCTs
+S10547	mat	S10547	2	noncoding CDCTs
+S10548	mat	S10548	2	noncoding CDCTs
+S10549	mat	S10549	2	noncoding CDCTs
+S10550	mat	S10550	2	noncoding CDCTs
+S10551	mat	S10551	2	noncoding CDCTs
+S10552	mat	S10552	2	noncoding CDCTs
+S10553	mat	S10553	2	noncoding CDCTs
+S10554	mat	S10554	2	noncoding CDCTs
+S10555	mat	S10555	2	noncoding CDCTs
+S10557	mat	S10557	2	noncoding CDCTs
+S10558	mat	S10558	2	noncoding CDCTs
+S10560	mat	S10560	2	noncoding CDCTs
+S10561	mat	S10561	2	noncoding CDCTs
+S10562	mat	S10562	2	noncoding CDCTs
+S10563	mat	S10563	2	noncoding CDCTs
+S10564	mat	S10564	2	noncoding CDCTs
+S10565	mat	S10565	2	noncoding CDCTs
+S10566	mat	S10566	2	noncoding CDCTs
+S10567	mat	S10567	2	noncoding CDCTs
+S10568	mat	S10568	2	noncoding CDCTs
+S10569	mat	S10569	2	noncoding CDCTs
+S10570	mat	S10570	2	noncoding CDCTs
+S10571	mat	S10571	2	noncoding CDCTs
+S10572	mat	S10572	2	noncoding CDCTs
+S10573	mat	S10573	2	noncoding CDCTs
+S10574	mat	S10574	2	noncoding CDCTs
+S10575	mat	S10575	2	noncoding CDCTs
+S10576	mat	S10576	2	noncoding CDCTs
+S10577	mat	S10577	2	noncoding CDCTs
+S10578	mat	S10578	2	noncoding CDCTs
+S10579	mat	S10579	2	noncoding CDCTs
+S10580	mat	S10580	2	noncoding CDCTs
+S10581	mat	S10581	2	noncoding CDCTs
+S10582	mat	S10582	2	noncoding CDCTs
+S10583	mat	S10583	2	noncoding CDCTs
+S10584	mat	S10584	2	noncoding CDCTs
+S10585	mat	S10585	2	noncoding CDCTs
+S10586	mat	S10586	2	noncoding CDCTs
+S10587	mat	S10587	2	noncoding CDCTs
+S10588	mat	S10588	2	noncoding CDCTs
+S10589	mat	S10589	2	noncoding CDCTs
+S10590	mat	S10590	2	noncoding CDCTs
+S10591	mat	S10591	2	noncoding CDCTs
+S10592	mat	S10592	2	noncoding CDCTs
+S10593	mat	S10593	2	noncoding CDCTs
+S10594	mat	S10594	2	noncoding CDCTs
+S10595	mat	S10595	2	noncoding CDCTs
+S10596	mat	S10596	2	noncoding CDCTs
+S10597	mat	S10597	2	noncoding CDCTs
+S10598	mat	S10598	2	noncoding CDCTs
+S10599	mat	S10599	2	noncoding CDCTs
+S10600	mat	S10600	2	noncoding CDCTs
+S10601	mat	S10601	2	noncoding CDCTs
+S10602	mat	S10602	2	noncoding CDCTs
+S10603	mat	S10603	2	noncoding CDCTs
+S10605	mat	S10605	2	noncoding CDCTs
+S10606	mat	S10606	2	noncoding CDCTs
+S10607	mat	S10607	2	noncoding CDCTs
+S10608	mat	S10608	2	noncoding CDCTs
+S10609	mat	S10609	2	noncoding CDCTs
+S10610	mat	S10610	2	noncoding CDCTs
+S10611	mat	S10611	2	noncoding CDCTs
+S10612	mat	S10612	2	noncoding CDCTs
+S10613	mat	S10613	2	noncoding CDCTs
+S10614	mat	S10614	2	noncoding CDCTs
+S10615	mat	S10615	2	noncoding CDCTs
+S10616	mat	S10616	2	noncoding CDCTs
+S10617	mat	S10617	2	noncoding CDCTs
+S10618	mat	S10618	2	noncoding CDCTs
+S10619	mat	S10619	2	noncoding CDCTs
+S10620	mat	S10620	2	noncoding CDCTs
+S10621	mat	S10621	2	noncoding CDCTs
+S10622	mat	S10622	2	noncoding CDCTs
+S10623	mat	S10623	2	noncoding CDCTs
+S10624	mat	S10624	2	noncoding CDCTs
+S10625	mat	S10625	2	noncoding CDCTs
+S10626	mat	S10626	2	noncoding CDCTs
+S10627	mat	S10627	2	noncoding CDCTs
+S10629	mat	S10629	2	noncoding CDCTs
+S10630	mat	S10630	2	noncoding CDCTs
+S10631	mat	S10631	2	noncoding CDCTs
+S10632	mat	S10632	2	noncoding CDCTs
+S10633	mat	S10633	2	noncoding CDCTs
+S10634	mat	S10634	2	noncoding CDCTs
+S10635	mat	S10635	2	noncoding CDCTs
+S10636	mat	S10636	2	noncoding CDCTs
+S10637	mat	S10637	2	noncoding CDCTs
+S10638	mat	S10638	2	noncoding CDCTs
+S10639	mat	S10639	2	noncoding CDCTs
+S10640	mat	S10640	2	noncoding CDCTs
+S10641	mat	S10641	2	noncoding CDCTs
+S10642	mat	S10642	2	noncoding CDCTs
+S10643	mat	S10643	2	noncoding CDCTs
+S10644	mat	S10644	2	noncoding CDCTs
+S10645	mat	S10645	2	noncoding CDCTs
+S10646	mat	S10646	2	noncoding CDCTs
+S10647	mat	S10647	2	noncoding CDCTs
+S10649	mat	S10649	2	noncoding CDCTs
+S10650	mat	S10650	2	noncoding CDCTs
+S10651	mat	S10651	2	noncoding CDCTs
+S10652	mat	S10652	2	noncoding CDCTs
+S10653	mat	S10653	2	noncoding CDCTs
+S10654	mat	S10654	2	noncoding CDCTs
+S10655	mat	S10655	2	noncoding CDCTs
+S10656	mat	S10656	2	noncoding CDCTs
+S10658	mat	S10658	2	noncoding CDCTs
+S10659	mat	S10659	2	noncoding CDCTs
+S10660	mat	S10660	2	noncoding CDCTs
+S10662	mat	S10662	2	noncoding CDCTs
+S10663	mat	S10663	2	noncoding CDCTs
+S10664	mat	S10664	2	noncoding CDCTs
+S10665	mat	S10665	2	noncoding CDCTs
+S10666	mat	S10666	2	noncoding CDCTs
+S10667	mat	S10667	2	noncoding CDCTs
+S10668	mat	S10668	2	noncoding CDCTs
+S10669	mat	S10669	2	noncoding CDCTs
+S10670	mat	S10670	2	noncoding CDCTs
+S10671	mat	S10671	2	noncoding CDCTs
+S10672	mat	S10672	2	noncoding CDCTs
+S10673	mat	S10673	2	noncoding CDCTs
+S10674	mat	S10674	2	noncoding CDCTs
+S10675	mat	S10675	2	noncoding CDCTs
+S10676	mat	S10676	2	noncoding CDCTs
+S10677	mat	S10677	2	noncoding CDCTs
+S10678	mat	S10678	2	noncoding CDCTs
+S10679	mat	S10679	2	noncoding CDCTs
+S10680	mat	S10680	2	noncoding CDCTs
+S10681	mat	S10681	2	noncoding CDCTs
+S10682	mat	S10682	2	noncoding CDCTs
+S10683	mat	S10683	2	noncoding CDCTs
+S10684	mat	S10684	2	noncoding CDCTs
+S10685	mat	S10685	2	noncoding CDCTs
+S10686	mat	S10686	2	noncoding CDCTs
+S10687	mat	S10687	2	noncoding CDCTs
+S10688	mat	S10688	2	noncoding CDCTs
+S10689	mat	S10689	2	noncoding CDCTs
+S10690	mat	S10690	2	noncoding CDCTs
+S10691	mat	S10691	2	noncoding CDCTs
+S10692	mat	S10692	2	noncoding CDCTs
+S10693	mat	S10693	2	noncoding CDCTs
+S10694	mat	S10694	2	noncoding CDCTs
+S10695	mat	S10695	2	noncoding CDCTs
+S10696	mat	S10696	2	noncoding CDCTs
+S10697	mat	S10697	2	noncoding CDCTs
+S10698	mat	S10698	2	noncoding CDCTs
+S10699	mat	S10699	2	noncoding CDCTs
+S10700	mat	S10700	2	noncoding CDCTs
+S10701	mat	S10701	2	noncoding CDCTs
+S10702	mat	S10702	2	noncoding CDCTs
+S10703	mat	S10703	2	noncoding CDCTs
+S10704	mat	S10704	2	noncoding CDCTs
+S10705	mat	S10705	2	noncoding CDCTs
+S10706	mat	S10706	2	noncoding CDCTs
+S10707	mat	S10707	2	noncoding CDCTs
+S10708	mat	S10708	2	noncoding CDCTs
+S10709	mat	S10709	2	noncoding CDCTs
+S10710	mat	S10710	2	noncoding CDCTs
+S10711	mat	S10711	2	noncoding CDCTs
+S10712	mat	S10712	2	noncoding CDCTs
+S10713	mat	S10713	2	noncoding CDCTs
+S10714	mat	S10714	2	noncoding CDCTs
+S10715	mat	S10715	2	noncoding CDCTs
+S10716	mat	S10716	2	noncoding CDCTs
+S10718	mat	S10718	2	noncoding CDCTs
+S10719	mat	S10719	2	noncoding CDCTs
+S10721	mat	S10721	2	noncoding CDCTs
+S10722	mat	S10722	2	noncoding CDCTs
+S10723	mat	S10723	2	noncoding CDCTs
+S10724	mat	S10724	2	noncoding CDCTs
+S10725	mat	S10725	2	noncoding CDCTs
+S10726	mat	S10726	2	noncoding CDCTs
+S10727	mat	S10727	2	noncoding CDCTs
+S10728	mat	S10728	2	noncoding CDCTs
+S10729	mat	S10729	2	noncoding CDCTs
+S10730	mat	S10730	2	noncoding CDCTs
+S10731	mat	S10731	2	noncoding CDCTs
+S10732	mat	S10732	2	noncoding CDCTs
+S10733	mat	S10733	2	noncoding CDCTs
+S10734	mat	S10734	2	noncoding CDCTs
+S10735	mat	S10735	2	noncoding CDCTs
+S10736	mat	S10736	2	noncoding CDCTs
+S10737	mat	S10737	2	noncoding CDCTs
+S10738	mat	S10738	2	noncoding CDCTs
+S10739	mat	S10739	2	noncoding CDCTs
+S10740	mat	S10740	2	noncoding CDCTs
+S10741	mat	S10741	2	noncoding CDCTs
+S10742	mat	S10742	2	noncoding CDCTs
+S10743	mat	S10743	2	noncoding CDCTs
+S10744	mat	S10744	2	noncoding CDCTs
+S10745	mat	S10745	2	noncoding CDCTs
+S10746	mat	S10746	2	noncoding CDCTs
+S10747	mat	S10747	2	noncoding CDCTs
+S10748	mat	S10748	2	noncoding CDCTs
+S10749	mat	S10749	2	noncoding CDCTs
+S10750	mat	S10750	2	noncoding CDCTs
+S10751	mat	S10751	2	noncoding CDCTs
+S10752	mat	S10752	2	noncoding CDCTs
+S10753	mat	S10753	2	noncoding CDCTs
+S10754	mat	S10754	2	noncoding CDCTs
+S10755	mat	S10755	2	noncoding CDCTs
+S10756	mat	S10756	2	noncoding CDCTs
+S10757	mat	S10757	2	noncoding CDCTs
+S10758	mat	S10758	2	noncoding CDCTs
+S10759	mat	S10759	2	noncoding CDCTs
+S10760	mat	S10760	2	noncoding CDCTs
+S10761	mat	S10761	2	noncoding CDCTs
+S10762	mat	S10762	2	noncoding CDCTs
+S10763	mat	S10763	2	noncoding CDCTs
+S10764	mat	S10764	2	noncoding CDCTs
+S10765	mat	S10765	2	noncoding CDCTs
+S10766	mat	S10766	2	noncoding CDCTs
+S10767	mat	S10767	2	noncoding CDCTs
+S10768	mat	S10768	2	noncoding CDCTs
+S10769	mat	S10769	2	noncoding CDCTs
+S10771	mat	S10771	2	noncoding CDCTs
+S10772	mat	S10772	2	noncoding CDCTs
+S10773	mat	S10773	2	noncoding CDCTs
+S10774	mat	S10774	2	noncoding CDCTs
+S10775	mat	S10775	2	noncoding CDCTs
+S10776	mat	S10776	2	noncoding CDCTs
+S10777	mat	S10777	2	noncoding CDCTs
+S10778	mat	S10778	2	noncoding CDCTs
+S10779	mat	S10779	2	noncoding CDCTs
+S10780	mat	S10780	2	noncoding CDCTs
+S10781	mat	S10781	2	noncoding CDCTs
+S10782	mat	S10782	2	noncoding CDCTs
+S10783	mat	S10783	2	noncoding CDCTs
+S10784	mat	S10784	2	noncoding CDCTs
+S10785	mat	S10785	2	noncoding CDCTs
+S10786	mat	S10786	2	noncoding CDCTs
+S10787	mat	S10787	2	noncoding CDCTs
+S10788	mat	S10788	2	noncoding CDCTs
+S10789	mat	S10789	2	noncoding CDCTs
+S10790	mat	S10790	2	noncoding CDCTs
+S10791	mat	S10791	2	noncoding CDCTs
+S10792	mat	S10792	2	noncoding CDCTs
+S10793	mat	S10793	2	noncoding CDCTs
+S10794	mat	S10794	2	noncoding CDCTs
+S10795	mat	S10795	2	noncoding CDCTs
+S10796	mat	S10796	2	noncoding CDCTs
+S10797	mat	S10797	2	noncoding CDCTs
+S10798	mat	S10798	2	noncoding CDCTs
+S10799	mat	S10799	2	noncoding CDCTs
+S10800	mat	S10800	2	noncoding CDCTs
+S10801	mat	S10801	2	noncoding CDCTs
+S10802	mat	S10802	2	noncoding CDCTs
+S10803	mat	S10803	2	noncoding CDCTs
+S10804	mat	S10804	2	noncoding CDCTs

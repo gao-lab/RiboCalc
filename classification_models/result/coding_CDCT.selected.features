@@ -1,0 +1,10 @@
+Features	Variable importance in projection	Stability of coefficient
+RNA_TPM	3.965	27.862
+ago_number	3.398	18.964
+pwm_atg	2.191	11.638
+CDS_length	1.957	7.135
+pwm_ttg	1.905	9.469
+target_number	1.932	7.635
+X3UTR_length	1.895	4.869
+pwm_gtg	1.776	7.917
+pwm_ctg	1.724	6.326
