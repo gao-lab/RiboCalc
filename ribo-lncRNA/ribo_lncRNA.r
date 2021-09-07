@@ -23,8 +23,8 @@ elife.pred <- predict(lasso.model,newx = elife.test)
 
 BMC.plot <- BMC[,c("Ribo_TPM","Label")]
 BMC.plot$Ribo_TPM <- BMC.pred[,1]
-ggplot(BMC.plot, aes(y=Ribo_TPM, x=Label)) + geom_boxplot() #Figure 3c
+ggplot(BMC.plot, aes(y=Ribo_TPM, x=Label)) + geom_boxplot() #Figure 3C
 
 elife.plot <- elife[,c("Ribo_TPM","Label")]
 elife.plot$Ribo_TPM <- elife.pred[,1]
-ggplot(elife.plot, aes(y=Ribo_TPM, x=Label)) + geom_boxplot() #Figure 3b
+ggplot(elife.plot, aes(y=Ribo_TPM, x=Label)) + geom_boxplot() #Figure 3B

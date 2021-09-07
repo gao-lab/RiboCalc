@@ -42,14 +42,14 @@ ctrl <- trainControl(method = "repeatedcv", number = 4, repeats = 5)
 lm.refitted <- train(Ribo_TPM ~ ., data = training, method ="lm", trControl=ctrl)
 
 
-# Ribo-RPKM testing
+# Ribo-RPKM testing (Table S6)
 pred.tmp <- predict(lm.refitted, newdata=testing)
 pred <- recover_scaling(pred.tmp, data.tmp$Ribo_TPM[-inTest])
 
 cor(pred, data.tmp$Ribo_TPM[inTest]) #RiboCalc
 cor(log2(10^data$pred_TR[inTest])+data.tmp$RNA_TPM[inTest], data.tmp$Ribo_TPM[inTest]) #Li human
 
-# TR testing
+# TR testing (Table S6)
 cor(pred-data.tmp$RNA_TPM[inTest], data.tmp$Ribo_TPM[inTest]-data.tmp$RNA_TPM[inTest]) #RiboCalc
 cor(log2(10^data$pred_TR[inTest]), data.tmp$Ribo_TPM[inTest]-data.tmp$RNA_TPM[inTest]) #Li human
 

@@ -27,7 +27,7 @@ The calculated feature value of OCTOPOS is at feature_calculation/feature_data/
 
 3 RiboCalc model building
 ----
-RiboCalc model building(Figure 2a-c, Figure 3a):<br>
+RiboCalc model building(Figure 2A-C, Figure 3A):<br>
 The RiboCalc model data is RiboCalc/RiboCalc.RData<br>
 To build RiboCalc without RNA expression, see RiboCalc/remove_RNAexpression.r<br>
 The prediction result for TE is TE_testing_result.tab
@@ -37,7 +37,7 @@ The prediction result for TE is TE_testing_result.tab
 
 4 Cell specific model
 ----
-Build cell specific models for the 5 cell lines (Table 1)
+Build cell specific models for the 5 cell lines (Table 1, Figure S6)
 
 	tom@linux$ cd cell_specific_model
 	tom@linux$ Rscript cell_specific_model.r
@@ -53,14 +53,14 @@ Performance comparison with LiJJ's human model and SamplePJ's model (Table S6, F
 
 6 RiboCalc yeast
 ----
-RiboCalc performance testing in yeast (Figure 2d-e, Table 3)
+RiboCalc performance testing in yeast (Figure 2D-E, Table 3)
 
 	tom@linux$ cd RiboCalc_yeast
 	tom@linux$ Rscript RiboCalc_yeast_model.r
 
 7 Ribo-lncRNA Tesinting
 ----
-RiboCalc prediction of lncRNAs binding with ribosomes reported by previous studies (Figure 3b-c)
+RiboCalc prediction of lncRNAs binding with ribosomes reported by previous studies (Figure 3B-C)
 
 	tom@linux$ cd ribo-lncRNA
 	tom@linux$ Rscript ribo_lncRNA.r

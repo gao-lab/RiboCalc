@@ -47,9 +47,9 @@ cv <- cv.glmnet(x = as.matrix(training.filt[,-81]), y = training.filt$Ribo_TPM, 
 lasso.model<-glmnet(x = as.matrix(training.filt[,-81]), y = training.filt$Ribo_TPM, alpha = 1, lambda = cv$lambda.min)
 x.test <- model.matrix(Ribo_TPM ~., testing[-highlyCorrelated])[,-1]
 x.pred <- predict(lasso.model,newx = x.test)
-cor(x.pred, testing$Ribo_TPM) #Figure 2a correlation result
-plot(x.pred, testing$Ribo_TPM, pch=20, xlab="RiboCalc Predicted", ylab="Observed Ribo-TPM") #Figure 2a
-coef(lasso.model) #Table 2, Figure 2d/2c x axis, Table S3
+cor(x.pred, testing$Ribo_TPM) #Figure 2A correlation result
+plot(x.pred, testing$Ribo_TPM, pch=20, xlab="RiboCalc Predicted", ylab="Observed Ribo-TPM") #Figure 2A
+coef(lasso.model) #Table 2, Figure 2D-E x axis, Table S7
 
 # TE Prediction
 x.pred.re <- recover_scaling(x.pred, training.raw$Ribo_TPM)
@@ -73,14 +73,14 @@ data.tmp[,] <- 0
 data.tmp[,express.all] <- testing[,express.all]
 data.tmp[,background.all] <- testing[,background.all]
 x.test <- model.matrix(Ribo_TPM ~., data.tmp)[,-1]
-cor.test(predict(lasso.model,newx = x.test), testing$Ribo_TPM) #Figure 2b left bar
+cor.test(predict(lasso.model,newx = x.test), testing$Ribo_TPM) #Figure 2B left bar
 # intrinsic model (cis-)
 data.tmp[,] <- 0
 data.tmp[,init.all] <- testing[,init.all]
 data.tmp[,elongation.all] <- testing[,elongation.all]
 data.tmp[,structure.all] <- testing[,structure.all]
 x.test <- model.matrix(Ribo_TPM ~., data.tmp)[,-1]
-cor.test(predict(lasso.model,newx = x.test), testing$Ribo_TPM) #Figure 2b right bar
+cor.test(predict(lasso.model,newx = x.test), testing$Ribo_TPM) #Figure 2B right bar
 
 tmp <- rbind(cbind("Translation initiation",coef(lasso.model)[init.all,1]),
              cbind("Translation elongation",coef(lasso.model)[elongation.all,1]),
@@ -93,7 +93,7 @@ features.plot$Coefficient <- as.numeric(as.character(features.plot$Coefficient))
 features.plot$Class <- factor(features.plot$Class,levels = c("Expression abundance",
 				"Translation regulators","Translation initiation",
 				"Translation elongation","Transcript structure"))
-ggplot(data = features.plot, aes(x=Class,y=log10(abs(Coefficient))))+geom_boxplot() #Figure 2c
+ggplot(data = features.plot, aes(x=Class,y=log10(abs(Coefficient))))+geom_boxplot() #Figure 2C
 
 
 # preprocess: noncoding and CDCT data format and scaling
@@ -124,7 +124,7 @@ type <- c(rep("noncoding",length(nc.fitted)), rep("coding",length(test.fitted)),
 		rep("coding CDCTs",length(both_co.fitted)), rep("noncoding CDCTs",length(both_nc.fitted)))
 plotr <- as.data.frame(cbind(predicted,type))
 plotr$predicted<-as.numeric(as.character(plotr$predicted))
-ggplot(plotr, aes(y=predicted,x=type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure 3a
+ggplot(plotr, aes(y=predicted,x=type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure 3A
 
 # noncoding prediction
 data <- rbind(training.filt[,all_features],testing[,all_features],noncoding[,all_features])
@@ -145,4 +145,4 @@ find_anno <- function(x,y=coding.anno){
 data_type <- paste(data_type,sapply(annotation, find_anno))
 x.test <- model.matrix(Ribo_TPM ~., data)[,-1]
 x.pred <- predict(lasso.model, newx = x.test)
-ggplot(data, aes(y=x.pred,x=data_type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure S9
+ggplot(data, aes(y=x.pred,x=data_type))+geom_boxplot()+ylab("RiboCalc predicted RiboTPM") #Figure S11

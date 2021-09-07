@@ -33,5 +33,5 @@ testing$Ribo_TPM <- data$Ribo_TPM[inTest]
 cor.test(test.pred, testing$Ribo_TPM)
 cor.test(data.pred[inTest], testing$Ribo_TPM)
 
-plot(testing$Ribo_TPM,data.pred[inTest],xlab="log2(Protein Abundance + 1)",ylab="RiboCalc predicted value",pch=20) #Figure S8 a
-plot(testing$Ribo_TPM,test.pred,xlab="log2(Protein Abundance + 1)",ylab="RiboCalc re-fitted model predicted value",pch=20) #Figure S8 b
+plot(testing$Ribo_TPM,data.pred[inTest],xlab="log2(Protein Abundance + 1)",ylab="RiboCalc predicted value",pch=20) #Figure S10A
+plot(testing$Ribo_TPM,test.pred,xlab="log2(Protein Abundance + 1)",ylab="RiboCalc re-fitted model predicted value",pch=20) #Figure S10B

@@ -26,7 +26,7 @@ data <- format_data(data,1)
 set.seed(1000)
 inTrain <- sample(nrow(data),3000)
 training.raw <- data[inTrain,-1] # remove IDs
-testing.raw <- data[-inTrain,-1] #remove IDs
+testing.raw <- data[-inTrain,-1] # remove IDs
 normalization1 <- function(x){(x-min(x))/(max(x)-min(x))}
 normalization2 <- function(x,y){(x-min(y))/(max(y)-min(y))}
 recover_scaling <- function(x,y){x*(max(y)-min(y))+min(y)}
@@ -46,7 +46,7 @@ lasso.model<-glmnet(x = as.matrix(training[,-78]), y = training$Ribo_TPM, alpha 
 x.test <- model.matrix(Ribo_TPM ~., testing)[,-1]
 x.pred <- predict(lasso.model,newx = x.test)
 cor(x.pred,testing$Ribo_TPM) #Table 1
-coef(lasso.model) #Table S6
+coef(lasso.model) #Table S7, Figure S6
 
 #TE
 x.pred.re <- recover_scaling(x.pred, training.raw$Ribo_TPM)
