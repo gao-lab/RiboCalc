@@ -1,7 +1,7 @@
 RiboCalc
 ====
 
-* 2020-04-30 22:00, Yu-jian Kang
+* 2021-09-07 15:00, Yu-jian Kang
 * This is a repository of RiboCalc data and scripts.
 
 1 Download
@@ -17,7 +17,7 @@ Human model comparison: Python packages - pdb, pandas, numpy, sklearn, scipy, ma
   
 2 Feature calculation
 ----
-Taking OCTOPOS raw data as an example (Figure S8):<br>
+Taking OCTOPOS raw data as an example (Figure S10):<br>
 The scripts for feature calculation are at feature_calculation/script<br>
 The public datasets are provided in feature_calculation/raw_data<br>
 The calculated feature value of OCTOPOS is at feature_calculation/feature_data/
@@ -42,9 +42,9 @@ Build cell specific models for the 5 cell lines (Table 1)
 	tom@linux$ cd cell_specific_model
 	tom@linux$ Rscript cell_specific_model.r
 
-**5 Human model comparison**
+5 Human model comparison
 ---
-Performance comparison with LiJJ's human model and SamplePJ's model
+Performance comparison with LiJJ's human model and SamplePJ's model (Table S6, Figure S7)
 	
 	tom@linux$ cd human_model_comparison/LiJJ
 	tom@linux$ Rscript testing_LiJJ_human.r
@@ -64,7 +64,6 @@ RiboCalc prediction of lncRNAs binding with ribosomes reported by previous studi
 
 	tom@linux$ cd ribo-lncRNA
 	tom@linux$ Rscript ribo_lncRNA.r
-
 
 Contact
 ----
