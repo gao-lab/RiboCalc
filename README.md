@@ -7,9 +7,11 @@ RiboCalc
 1 Download
 ----
 Dependencies:<br>
-Model building: R packages - caret, glmnet <br>
+Model building: R packages - caret, glmnet<br>
 Feature caculation scripts: Python packages - biopython, numpy<br>
-Feature caculation tools: fimo, RNAfold, TargetScan, bedtools, MTDRcalculator, EMBOSS
+Feature caculation tools: fimo, RNAfold, TargetScan (miRbase), bedtools, MTDRcalculator, EMBOSS<br>
+Human model comparison: Python packages - pdb, pandas, numpy, sklearn, scipy, matplotlib, seaborn
+
 
 	tom@linux$ git clone git@github.com:gao-lab/RiboCalc.git
   
@@ -40,14 +42,23 @@ Build cell specific models for the 5 cell lines (Table 1)
 	tom@linux$ cd cell_specific_model
 	tom@linux$ Rscript cell_specific_model.r
 
-5 RiboCalc yeast
+**5 Human model comparison**
+---
+Performance comparison with LiJJ's human model and SamplePJ's model
+	
+	tom@linux$ cd human_model_comparison/LiJJ
+	tom@linux$ Rscript testing_LiJJ_human.r
+	tom@linux$ cd ../SamplePJ/script
+	tom@linux$ sh testing_SamplePJ.sh
+
+6 RiboCalc yeast
 ----
 RiboCalc performance testing in yeast (Figure 2d-e, Table 3)
 
 	tom@linux$ cd RiboCalc_yeast
 	tom@linux$ Rscript RiboCalc_yeast_model.r
 
-5 Ribo-lncRNA Tesinting
+7 Ribo-lncRNA Tesinting
 ----
 RiboCalc prediction of lncRNAs binding with ribosomes reported by previous studies (Figure 3b-c)
 
