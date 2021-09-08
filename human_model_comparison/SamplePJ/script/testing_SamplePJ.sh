@@ -1,6 +1,12 @@
 # Dependencies
-# See environment of SamplePJ's model
-# https://github.com/pjsample/human_5utr_modeling
+#
+# See environment of SamplePJ's model at
+# 	https://github.com/pjsample/human_5utr_modeling
+# 
+# The model is downloaded from 
+#	https://github.com/pjsample/human_5utr_modeling/tree/master/modeling/saved_models/main_MRL_model.hdf5
+#
+
 
 # Generate data
 # Ensembl_5UTR.raw.fa was fetched from Ensembl biomart with transcript stable IDs
