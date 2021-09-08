@@ -1,7 +1,7 @@
-## This script is to build PLS classification model to assess characteristict of coding/CDCT/noncoding transcripts
+## This script is to build PLS classification model to assess characteristics (feature selection) of coding/CDCT/noncoding transcripts
 
 # Dependencies:
-# Pliease install the following packages
+# Please install the following packages
 # https://github.com/zju3351689/rklib
 # https://github.com/zju3351689/rblib
 
