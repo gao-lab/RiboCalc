@@ -25,13 +25,18 @@ def draw(predictions,Testlabel, outputpath,r):
     Returns:
 
     """
+    font2 = {'family': 'arial',
+             'weight': 'normal',
+             'size': 12,
+             }
     plt.scatter(predictions, Testlabel,s=1)
-    plt.ylabel("Real RiboTPM")
-    plt.xlabel("Model predict value")
+    plt.ylabel("Observed Ribo-TPM",font2)
+    plt.xlabel("Sample's model predicted Ribo-TPM",font2)
     # plt.text(4,1, "r-squared: "+str(round(r,4)))
     plt.text(-1,10, "r: "+str(round(r,4)))
 
     plt.savefig(outputpath)
+    plt.savefig(outputpath.replace("png","eps"),format="eps")
     plt.close()
 
 def PariAllData(predictionsALL,TestlabelALL):
