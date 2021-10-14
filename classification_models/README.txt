@@ -1,5 +1,5 @@
 RiboCalc is a quantitative model for coding ability prediction. To assess
-characteristics for each class of transcript (coding, CDCTs, and noncoding),
+characteristics for each class of transcripts (coding, CDCTs, and noncoding),
 we use feature selection strategy to look into the distinguishing features
 between coding vs noncoding RNAs and coding vs CDCTs. Accordingly, we built
 two classification models (coding vs CDCT and coding vs noncoding).
@@ -19,4 +19,4 @@ TPM" and "AGO binding" (result/coding_CDCT.selected.features). Different from
 motifs, TI motifs) become important, indicating a more suitable sequence
 for translation initiation of coding transcripts.
 
-See script/run.sh for details for methods.
+See script/run.sh for details of methods.
