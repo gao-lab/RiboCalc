@@ -2,8 +2,8 @@
 
 # Dependencies:
 # Please install the following packages
-# https://github.com/zju3351689/rklib
-# https://github.com/zju3351689/rblib
+# https://github.com/JHwarlock/rklib
+# https://github.com/JHwarlock/rblib
 
 
 ## We build two models
